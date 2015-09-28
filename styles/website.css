@@ -1,1 +1,8 @@
 /* CSS for website */
+
+img.screenshot {
+    float: right;
+    clear: right;
+    padding: 0 27px 27px 27px;
+    background: white;
+}
