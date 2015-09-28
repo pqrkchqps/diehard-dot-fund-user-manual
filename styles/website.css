@@ -1,6 +1,7 @@
 /* CSS for website */
 
 img.screenshot {
+    max-width: 320px;
     float: right;
     clear: right;
     padding: 0 27px 27px 27px;
