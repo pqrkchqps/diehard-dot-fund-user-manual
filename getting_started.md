@@ -4,6 +4,8 @@ Your introduction to Loomio might happen in a couple of ways. Here’s some info
 
 ### Starting a group from the home page
 
+<img alt="Log in page with single sign-on options" src="log in page.png" align="right" width="270" style="padding-left:20px;" />
+
 You can start a new group from the Loomio home page by clicking the **Try out Loomio **button. Enter your name, email address and group name into the [Start a new group](https://www.loomio.org/start_group) form. You will receive an email containing a link that will take you to your new group.
 
 ### You are invited into a Loomio group
