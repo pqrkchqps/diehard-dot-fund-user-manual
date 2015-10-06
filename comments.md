@@ -20,7 +20,9 @@ If you want to get the attention of a specific person in your group, type **@** 
 
 ### Editing a comment
 
-By default, groups are configured so that a comment can only be edited until someone else contributes a comment to the thread. Group coordinators can also [configure groups to allow users to edit their comments at any time](https://www.loomio.org/help#group-permissions). If you are able to edit your comment, the **Edit comment **option is in the **Comment options** dropdown.
+<img class="screenshot" alt="Comment options dropdown" src="Edit comment.png" />
+
+By default, groups are configured so that a comment can only be edited until someone else contributes a comment to the thread. Group coordinators can also [configure groups to allow users to edit their comments at any time](group_settings.html#group-permissions-%E2%80%93-what-can-members-do). If you are able to edit your comment, the **Edit comment **option is in the **Comment options** dropdown.
 
  
 
