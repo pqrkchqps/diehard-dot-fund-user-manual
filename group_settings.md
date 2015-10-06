@@ -34,7 +34,7 @@ The **Open** option means anyone with a Loomio account can join the group. A new
 
 The **By request** option means anyone can ask to join the group. A new visitor to your group page will find an **Ask to join group** button. When someone asks to join, the group coordinators will be notified that there is a new membership request. Membership requests can be approved or ignored. (Note: **Members only** groups cannot be set to **By Request**).
 
-If you select **Invitation only**, no-one can join the group without being invited. Invitations are sent from the [Invite people](#heading=h.ljignv2e7gtd) page.
+If you select **Invitation only**, no-one can join the group without being invited. Invitations are sent from the [Invite people](inviting_new_members.html) page.
 
 #### Who can see threads?
 
