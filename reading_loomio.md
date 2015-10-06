@@ -22,4 +22,4 @@ The **Filter Threads **dropdown lets you choose to see:
 
 ### Unread Threads
 
-This page shows all the threads and proposals that have new content since you last visited, sorted by group. You can click **Mark as read **on a thread preview to clear it from this page without actually visiting the thread. You can also **[Mut**e](#heading=h.j9o8kyhomfnj)** **threads here.
+This page shows all the threads and proposals that have new content since you last visited, sorted by group. You can click **Mark as read **on a thread preview to clear it from this page without actually visiting the thread. You can also [mute](keeping_up_to_date.html#group-volume)** **threads here.
