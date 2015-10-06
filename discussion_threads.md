@@ -1,4 +1,4 @@
-## Discussion threads
+# Discussion threads
 
 <img class="screenshot" alt="Discussion thread" src="thread page.png" />
 
@@ -12,7 +12,7 @@ The thread page is divided into three main sections:
 
 3. The **Proposal **section contains any current or closed proposals for that thread.
 
-### Starting a thread
+## Starting a thread
 
 You can start a new thread from anywhere in the app via the **Action Menu**. There is also a **Start a thread **button on the group page. 
 
@@ -20,11 +20,11 @@ The **Start new thread** form asks for a **Title** and **Context**. The **Title*
 
 Loomio uses **Markdown** for text formatting. You can use Markdown in the context panel to format your discussion context, or to embed images. For more information on how to use Markdown, click the **Formatting help** link underneath the comment box at the bottom of the thread page to open [the Markdown guide](https://loomio.org/markdown). 
 
-### Thread privacy
+## Thread privacy
 
 Thread privacy is configured in the [**Who can see threads**?](group_settings.html#who-can-see-threads) section of your group settings. If your group allows both public and private threads, then when you start a thread, you can choose whether it is public (publicly searchable), or private (only visible to members of your group).
 
-### Editing a thread
+## Editing a thread
 
 **Group members** can edit the title, context and privacy of any thread they have started. **Group coordinators** can edit the title, context and privacy of any threads taking in the group. **Group coordinators** can also determine whether or not group members can edit each others’ threads (see [Group settings](group_settings.html)).
 
