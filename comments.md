@@ -10,6 +10,8 @@ Loomio uses **Markdown** to let you format text and embed images. For more infor
 
 ### Attaching files
 
+<img class="screenshot" alt="Attachment icon" src="attachment icon.png" />
+
 You can attach files to comments using the attachment button next to the **Post** button on the comment form. You will be prompted to select a file from your device.
 
 ### @mentioning group members
