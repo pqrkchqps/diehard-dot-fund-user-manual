@@ -16,7 +16,7 @@ You can change your group volume settings by clicking the volume button on your 
 
 * **Quiet** - this switches all emails off. You’ll see new group activity on the [**Unread Threads**](reading_loomio.html#unread-threads) page and the Recent page.
 
-* **Mute** - this switches all emails off. You’ll only be notified if someone @mentions you. This will also remove the group from the [**Unread Threads**](reading_loomio.html#unread-threads) page and the [Yesterday on Loomio](reading_loomio.html#yesterday-on-loomio) digest email.
+* **Mute** - this switches all emails off. You’ll only be notified if someone @mentions you. This will also remove the group from the [**Unread Threads**](reading_loomio.html#unread-threads) page and the [**Yesterday on Loomio**](reading_loomio.html#yesterday-on-loomio) digest email.
 
 #### Thread volume
 
@@ -26,9 +26,9 @@ When you start a new thread, it will inherit its default volume from its group. 
 
 * **Normal** - this will only email you with important activity: new proposals and proposal outcomes. **Normal** is the default for new threads.
 
-* **Quiet** - this switches all emails off. You’ll see new thread activity on the **[Unread Thread**s](#heading=h.6w5gow46nqz9) page and **[Recent Thread**s](#heading=h.aobys0nh6em3) page.
+* **Quiet** - this switches all emails off. You’ll see new thread activity on the [**Unread Threads**](reading_loomio.html#unread-threads) page and [**Recent Threads**](reading_loomio.html#recent-threads) page.
 
-* **Mute** - this switches all emails off. You’ll only be notified if someone @mentions you. This will also hide the thread from your dashboard and the [Yesterday on Loomio](https://www.loomio.org/help#yesterday-on-loomio) digest email.
+* **Mute** - this switches all emails off. You’ll only be notified if someone @mentions you. This will also hide the thread from your dashboard and the [**Yesterday on Loomio**](reading_loomio.html#yesterday-on-loomio) digest email.
 
 You can mute threads from any thread previews that display on the group page, Recent Threads page and Unread page, by hovering over the thread preview and selecting the **Mute** option. You can also mark threads as read by selecting the **Mark as read** option. This will remove them from your the Unread page.
 
