@@ -1,5 +1,6 @@
 ## Inviting new members
 
+
 Depending on your [group settings](https://www.loomio.org/help#group-settings), new members can be invited either by everyone in the group, or by coordinators only. You’ll find the **Invite people** option on the **Members** panel on your group page, and in the **Action Menu **which can be accessed from anywhere in the app.
 
 You can invite multiple people at once by entering their email addresses into the form, separated by commas. When you submit the invitations form an email will be sent to each of the email addresses you supplied, containing a unique invitation link.
