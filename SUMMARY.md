@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Quick overview](overview.md)
 * [Getting started](getting_started.md)
 * [Group settings](group_settings.md)
 * [Coordinating your group](coordinating_your_group.md)
