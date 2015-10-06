@@ -1,4 +1,4 @@
-## Reading loomio
+## Reading Loomio
 
 ### Recent Threads
 
@@ -18,7 +18,7 @@ The **Filter Threads **dropdown lets you choose to see:
 
 * **Participating threads**: only the threads and proposals which you’ve participated in.
 
-* **Muted: **only the threads which you’ve previously [muted](#heading=h.j9o8kyhomfnj).
+* **Muted: **only the threads which you’ve previously [muted](keeping_up_to_date.html#group-volume).
 
 ### Unread Threads
 
