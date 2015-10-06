@@ -14,7 +14,7 @@ Yes. Even though there are different levels of group privacy, everyone who wishe
 
 ## Does it cost to use Loomio?
 
-Check out our pricing page at [loomio.org/pricing](https://www.loomio.org/pricing).
+Check out our pricing plans [here](https://www.loomio.org/pricing).
 
 ## Can I sign in with Google, Facebook or Twitter?
 
