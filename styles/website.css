@@ -7,3 +7,5 @@ img.screenshot {
     padding: 0 27px 27px 27px;
     background: white;
 }
+
+h2 { border-bottom: none; }
