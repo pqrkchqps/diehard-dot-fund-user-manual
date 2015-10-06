@@ -10,7 +10,7 @@
 * [Comments](comments.md)
 * [Proposals](proposals.md)
 * [Subgroups](subgroups.md)
-* [Reading loomio](reading_loomio.md)
+* [Reading Loomio](reading_loomio.md)
 * [Keeping up to date](keeping_up_to_date.md)
 * [Your profile](your_profile.md)
 * [Frequently Asked Questions](frequently_asked_questions.md)
