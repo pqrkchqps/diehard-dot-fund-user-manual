@@ -36,9 +36,9 @@ If you have set a thread to **Loud**, you can reply to any comments you receive 
 
 ### Email settings
 
-Your **Email settings** page enables you to set default email notification settings for groups and threads. To visit your **Email settings** page, select the **Email settings **option from the user menu in the navigation bar.
+Your **Email settings** page enables you to set default email notification settings for groups and threads. To visit your **Email settings** page, select the **Email settings** option from the user menu in the navigation bar.
 
 ### Yesterday on Loomio
 
-The **Yesterday on Loomio** email is a daily summary of content you haven’t read from the previous day. The email contains everything that is not muted. You can turn this on or off from the **[Email setting**s](#heading=h.hq1pg6teo94y) page.
+The **Yesterday on Loomio** email is a daily summary of content you haven’t read from the previous day. The email contains everything that is not muted. You can turn this on or off from the **Email settings** page.
 
