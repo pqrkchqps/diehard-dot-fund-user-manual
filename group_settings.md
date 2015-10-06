@@ -1,12 +1,14 @@
 ## Group settings
 
-<img class="screenshot" alt="Log in page with single sign-on options" src="edit group settings.png" />
+<img class="screenshot" alt="Log in page with single sign-on options" src="options dropdown.png" />
 
 Group coordinators can edit group settings: **Profile**, **Privacy** and **Permissions**. 
 
 To edit your group settings, open the **Options** menu on the group page and select **Edit Group Settings**.
 
 ### Group profile
+
+<img class="screenshot" alt="Log in page with single sign-on options" src="edit group settings.png" />
 
 Your group profile consists of your group name and group description. 
 
