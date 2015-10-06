@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [Quick overview](overview.md)
 * [Getting started](getting_started.md)
 * [Group settings](group_settings.md)
@@ -7,9 +8,10 @@
 * [Inviting new members](inviting_new_members.md)
 * [Discussion threads](discussion_threads.md)
 * [Comments](comments.md)
-* [Poposals](proposals.md)
+* [Proposals](proposals.md)
 * [Subgroups](subgroups.md)
 * [Reading loomio](reading_loomio.md)
 * [Keeping up to date](keeping_up_to_date.md)
 * [Your profile](your_profile.md)
 * [Frequently Asked Questions](frequently_asked_questions.md)
+
