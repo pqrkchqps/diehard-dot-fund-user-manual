@@ -14,9 +14,9 @@ You can change your group volume settings by clicking the volume button on your 
 
 * **Normal** - this will only email you with important activity: new threads or proposals and proposal outcomes. **Normal** is the default for new groups.
 
-* **Quiet** - this switches all emails off. You’ll see new group activity on the **[Unread Thread**s](#heading=h.6w5gow46nqz9) page and the Recent page.
+* **Quiet** - this switches all emails off. You’ll see new group activity on the [**Unread Threads**](reading_loomio.html#unread-threads) page and the Recent page.
 
-* **Mute** - this switches all emails off. You’ll only be notified if someone @mentions you. This will also remove the group from the **[Unread Thread**s](#heading=h.6w5gow46nqz9) page and the [Yesterday on Loomio](https://www.loomio.org/help#yesterday-on-loomio) digest email.
+* **Mute** - this switches all emails off. You’ll only be notified if someone @mentions you. This will also remove the group from the [**Unread Threads**](reading_loomio.html#unread-threads) page and the [Yesterday on Loomio](reading_loomio.html#yesterday-on-loomio) digest email.
 
 #### Thread volume
 
