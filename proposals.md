@@ -1,6 +1,8 @@
 ## Proposals
 
-Proposals take place in a [discussion thread](https://www.loomio.org/help#discussion-threads), which encompasses both the discussion and the proposal. There can only be one active proposal at any time in any thread. 
+<img class="screenshot" alt="Proposal panel" src="proposal panel.png" />
+
+Proposals take place in a [discussion thread](discussion_threads.html), which encompasses both the discussion and the proposal. There can only be one active proposal at any time in any thread. 
 
 ### Starting a proposal
 
