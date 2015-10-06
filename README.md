@@ -1,3 +1,3 @@
 # Loomio manual
 
-Comprehensive guide to Loomio the application
+Comprehensive guide to [Loomio](https://loomio.org/)
