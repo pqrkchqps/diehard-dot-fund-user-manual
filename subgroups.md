@@ -1,12 +1,12 @@
 ## Subgroups
 
-Loomio allows you to create subgroups within your groups. Subgroups let you break your group up into different teams. Loomio subgroups can contain members of the parent group and people who don’t belong to the parent group. Depending on your [group settings](https://www.loomio.org/help#group-settings), subgroups can be created either by everyone in the group, or by coordinators only. To add a subgroup, click the **Add subgroup **link in the **Subgroups** panel on your group page.
+Loomio allows you to create subgroups within your groups. Subgroups let you break your group up into different teams. Loomio subgroups can contain members of the parent group and people who don’t belong to the parent group. Depending on your [group settings](group_settings.html), subgroups can be created either by everyone in the group, or by coordinators only. To add a subgroup, click the **Add subgroup **link in the **Subgroups** panel on your group page.
 
 ### Subgroup privacy
 
 To visit your subgroup settings page, click the **Options** button on the group page and select the **Edit Group Settings** option from the dropdown menu.
 
-Subgroup settings are the same as [group settings](https://www.loomio.org/help#group-settings), but with additional privacy settings.
+Subgroup settings are the same as [group settings](group_settings.html), but with additional privacy settings.
 
 In the **Privacy **section of the **Edit Group Settings** form, there is a **Who can find this group? **field, which determines whether the subgroup is accessible to members of the parent group. When the **People in [parent group]** option is selected, the subgroup will be listed in the **Subgroups** panel on the parent group page. Members of the parent will also be able to access the subgroup if they navigate to the subgroup’s page.
 
