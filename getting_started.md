@@ -14,7 +14,7 @@ When you receive an invitation to join an existing Loomio group, you will receiv
 
 If this is your first time using Loomio you will be prompted to create an account. If you already have a Loomio account you will be taken straight to the group after you log in.
 
-### Single sign-on
+### <a name="single-sign-on"></a> Single sign-on
 
 Loomio allows sign-up with Facebook, Google, Twitter or Persona. If you do not have a Loomio account you can sign up using any of these third-party services by clicking the corresponding button on the [Log in page](http://loomio.org/sign_in). If you are currently logged in to Google, Facebook, Twitter or Persona, we'll link your loomio account to that login method. Otherwise you will be prompted to sign in. When Loomio recognises your existing third-party account, follow the prompts to create your Loomio account.
 
