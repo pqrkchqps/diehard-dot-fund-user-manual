@@ -26,8 +26,8 @@ Thread privacy is configured in the [**Who can see threads**?](group_settings.ht
 
 ### Editing a thread
 
-<img class="screenshot" alt="Discussion thread options dropdown" src="edit thread.png" />
-
 **Group members** can edit the title, context and privacy of any thread they have started. **Group coordinators** can edit the title, context and privacy of any threads taking in the group. **Group coordinators** can also determine whether or not group members can edit each others’ threads (see [Group settings](group_settings.html)).
+
+<img class="screenshot" alt="Discussion thread options dropdown" src="edit thread.png" />
 
 The **Edit thread **option is accessed via the thread options dropdown.
