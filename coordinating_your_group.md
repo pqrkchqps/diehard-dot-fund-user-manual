@@ -18,11 +18,11 @@ On the **Members** page, there is a checkbox next to every member. When this che
 
 #### Adding/removing group members
 
-On the **Members** page, next to every member there is a **Remove **button ![image alt text](image_0.png). This button removes the member from your group.
+On the **Members** page, next to every member there is a **Remove **button ![Remove member button](remove button.png). This button removes the member from your group.
 
 #### Accepting/ignoring membership requests
 
-If your [group privacy settings](https://www.loomio.org/help#group-privacy) allow people to join your group **By request**, a coordinator will need to approve each membership request. Group coordinators will receive an email each time there is a new membership request. The link in the notification email will take you to the **Membership requests** page, where you can approve or decline the request.
+If your [group privacy settings](group_settings.html#group-privacy) allow people to join your group **By request**, a coordinator will need to approve each membership request. Group coordinators will receive an email each time there is a new membership request. The link in the notification email will take you to the **Membership requests** page, where you can approve or decline the request.
 
 If there is a pending membership request it will also be visible on your group page in a **Membership requests** panel.
 
