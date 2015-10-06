@@ -12,6 +12,6 @@
 * [Subgroups](subgroups.md)
 * [Reading Loomio](reading_loomio.md)
 * [Keeping up to date](keeping_up_to_date.md)
-* [Your profile](your_profile.md)
+* [Your profile](your_users_profile.md)
 * [Frequently Asked Questions](frequently_asked_questions.md)
 
