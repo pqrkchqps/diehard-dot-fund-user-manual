@@ -8,7 +8,7 @@ When you first arrive in your new Loomio group, there will be a randomly selecte
 
 ### Managing membership
 
-<img class="screenshot" alt="Log in page with single sign-on options" src="members page.png" />
+<img class="screenshot" alt="Managing membership page" src="members page.png" />
 
 Group coordinators can add and remove members, and grant and remove coordinator permissions. These actions can be performed from the **Members** page, which is accessed via the **Manage Members **link in the **Options **menu on the Group page.
 
