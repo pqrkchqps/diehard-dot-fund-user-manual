@@ -16,6 +16,4 @@ Loomio is a simple, user-friendly online tool for collaborative decision-making.
 
 * **[Decide together](https://www.loomio.org/help#stating-positions)** - anyone can agree, abstain, disagree, or block – so you can see how everyone feels about the proposal.
 
-Check out the video for a quick demonstration of how to use Loomio.
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/pF-wpXo8Rdw" frameborder="0" allowfullscreen></iframe>
+[Check out this video](https://www.youtube.com/watch?v=pF-wpXo8Rdw) for a quick demonstration of how to use Loomio.
