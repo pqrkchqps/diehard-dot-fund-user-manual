@@ -8,7 +8,7 @@ When you first arrive in your new Loomio group, there will be a randomly selecte
 
 ## Managing membership
 
-<img class="screenshot" alt="Managing membership page" src="members page.png" />
+<img class="screenshot" alt="Managing membership page" src="members_page.png" />
 
 Group coordinators can add and remove members, and grant and remove coordinator permissions. These actions can be performed from the **Members** page, which is accessed via the **Manage Members **link in the **Options **menu on the Group page.
 
@@ -18,7 +18,7 @@ On the **Members** page, there is a checkbox next to every member. When this che
 
 ### Adding/removing group members
 
-On the **Members** page, next to every member there is a **Remove **button ![Remove member button](remove button.png). This button removes the member from your group.
+On the **Members** page, next to every member there is a **Remove **button ![Remove member button](remove_button.png). This button removes the member from your group.
 
 ### Accepting/ignoring membership requests
 

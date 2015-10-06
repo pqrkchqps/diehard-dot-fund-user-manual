@@ -10,7 +10,7 @@ Loomio uses **Markdown** to let you format text and embed images. For more infor
 
 ## Attaching files
 
-<img class="screenshot" alt="Attachment icon" src="attachment icon.png" />
+<img class="screenshot" alt="Attachment icon" src="attachment_icon.png" />
 
 You can attach files to comments using the attachment button next to the **Post** button on the comment form. You will be prompted to select a file from your device.
 
@@ -20,7 +20,7 @@ If you want to get the attention of a specific person in your group, type **@** 
 
 ## Editing comments
 
-<img class="screenshot" alt="Comment options dropdown" src="Edit comment.png" />
+<img class="screenshot" alt="Comment options dropdown" src="edit_comment.png" />
 
 By default, groups are configured so that a comment can only be edited until someone else contributes a comment to the thread. Group coordinators can also [configure groups to allow users to edit their comments at any time](group_settings.html#group-permissions-%E2%80%93-what-can-members-do). If you are able to edit your comment, the **Edit comment **option is in the **Comment options** dropdown.
 

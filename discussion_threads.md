@@ -1,6 +1,6 @@
 # Discussion threads
 
-<img class="screenshot" alt="Discussion thread" src="thread page.png" />
+<img class="screenshot" alt="Discussion thread" src="thread_page.png" />
 
 Discussion threads are where your group can discuss a topic, exchange information and make decisions together.
 
@@ -28,6 +28,6 @@ Thread privacy is configured in the [**Who can see threads**?](group_settings.ht
 
 **Group members** can edit the title, context and privacy of any thread they have started. **Group coordinators** can edit the title, context and privacy of any threads taking in the group. **Group coordinators** can also determine whether or not group members can edit each others’ threads (see [Group settings](group_settings.html)).
 
-<img class="screenshot" alt="Discussion thread options dropdown" src="edit thread.png" />
+<img class="screenshot" alt="Discussion thread options dropdown" src="edit_thread.png" />
 
 The **Edit thread **option is accessed via the thread options dropdown.

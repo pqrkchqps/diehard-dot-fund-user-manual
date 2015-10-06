@@ -32,6 +32,6 @@ To reactivate a deactivated account, [contact the Loomio team](https://loomio.or
 
 ## Leaving a group
 
-<img class="screenshot" alt="Group options dropdown" src="options dropdown.png" />
+<img class="screenshot" alt="Group options dropdown" src="options_dropdown.png" />
 
 If you are not the sole coordinator of a group then you can leave the group by selecting **Leave group** from the Options menu on the group page. If you are the sole coordinator of your group, you will be prevented from leaving until you appoint another coordinator or deactivate the group.
