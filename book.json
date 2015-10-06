@@ -1,5 +1,11 @@
 {
     "title": "Loomio manual",
     "description": "A comprehensive guide to Loomio",
-    "language": "en"
+    "language": "en",
+    "plugins": ["ga"],
+    "pluginsConfig": {
+      "ga": {
+        "token": "UA-31046122-6"
+      }
+    }
 }
