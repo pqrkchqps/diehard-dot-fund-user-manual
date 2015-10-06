@@ -6,7 +6,7 @@ To contribute to a thread, enter your comment into the comment form at the botto
 
 ### Markdown
 
-Loomio uses **Markdown** to let you format text and embed images. For more information on how to use Markdown, click the [Formatting help](https://www.loomio.org/markdown) link under the comment box.
+Loomio uses **Markdown** to let you format text and embed images. For more information on how to use Markdown, read [this guide](https://www.loomio.org/markdown).
 
 ### Attaching files
 
