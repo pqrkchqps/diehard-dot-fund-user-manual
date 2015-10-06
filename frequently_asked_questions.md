@@ -18,7 +18,7 @@ Check out our pricing plans [here](https://www.loomio.org/pricing).
 
 ## Can I sign in with Google, Facebook or Twitter?
 
-Yes, see [Single sign-on](https://www.loomio.org/help#single-sign-on) in our [help documentation](https://www.loomio.org/help).
+Yes, see [Single sign-on](getting_started.html#single-sign-on).
 
 ## How can I set up my own instance of Loomio?
 
@@ -36,9 +36,7 @@ If someone who has requested membership to your group hasn’t already got a Loo
 
 There is currently no official standard for distinguishing email signatures from the rest of the email body. To a computer the whole email is just a block of text. The easiest method we have for marking the end of the email body and the beginning of the signature is the double-dash method popularised by Gmail, which involves inserting a double-dash ('--') on its own line between the body of an email and the signature. Other common formats are recognised too, but Gmail's method is very easy to implement. Most programs trying to separate email body from signature (including Loomio) will correctly ignore email signatures if these dashes are included in the right place.
 
-To be sure that your email signature is not included in your comment when you reply by email, you need to begin your signature with a double hyphen on its own line. For example:
-
-![image alt text](image_1.png)
+To be sure that your email signature is not included in your comment when you reply by email, you need to begin your signature with a double hyphen on its own line.
 
 ## Will Loomio work on my mobile device?
 
@@ -46,15 +44,15 @@ Loomio is mobile responsive, so it will work on any device through a browser.
 
 ## How can I reactivate my account?
 
-To have your account reactivated, send an email to [contact@loomio.org](mailto:contact@loomio.org).
+To have your account reactivated, [contact us](https://loomio.org/contact).
 
 ## I’ve deactivated my group, can I restore it?
 
-Deactivated groups can only be restored by a member of the Loomio team. Send an email to [contact@loomio.org](mailto:contact@loomio.org)
+Deactivated groups can only be restored by a member of the Loomio team. [Contact us](https://loomio.org/contact) to reactivate your group.
 
 ## What if I have a feature to suggest?
 
-We also have an open Loomio Community sub-group dedicated to [Feature Ideas](https://www.loomio.org/g/GN7EFQTK/loomio-community-feature-ideas). You can contribute to discussions about new feature there, or make suggestions about new feature ideas.
+We also have an open Loomio Community sub-group dedicated to [Feature Ideas](https://www.loomio.org/g/GN7EFQTK/loomio-community-feature-ideas). You can contribute to discussions about new features there, or make suggest your own feature ideas.
 
 ## Is there a Loomio API?
 
@@ -62,4 +60,4 @@ We're actively developing and using the API that the new Loomio 1.0 client uses.
 
 ## Is it possible to have a Loomio subdomain?
 
-Yes. We can, for example, set up **[your-group-name].loomio.org** as the URL for your group. Contact us if you're interested.
+Yes. We can, for example, set up **[your-group-name].loomio.org** as the URL for your group. [Contact us](https://loomio.org/contact) if you're interested.
