@@ -18,8 +18,8 @@ The **Filter Threads **dropdown lets you choose to see:
 
 * **Participating threads**: only the threads and proposals which you’ve participated in.
 
-* **Muted: **only the threads which you’ve previously [muted](keeping_up_to_date.html#group-volume).
+* **Muted: **only the threads which you’ve previously [muted](keeping_up_to_date.html#thread-volume).
 
 ### Unread Threads
 
-This page shows all the threads and proposals that have new content since you last visited, sorted by group. You can click **Mark as read **on a thread preview to clear it from this page without actually visiting the thread. You can also [mute](keeping_up_to_date.html#group-volume)** **threads here.
+This page shows all the threads and proposals that have new content since you last visited, sorted by group. You can click **Mark as read **on a thread preview to clear it from this page without actually visiting the thread. You can also [mute](keeping_up_to_date.html#thread-volume)** **threads here.
