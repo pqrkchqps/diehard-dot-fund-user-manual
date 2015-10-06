@@ -22,7 +22,7 @@ Loomio uses **Markdown** for text formatting. You can use Markdown in the contex
 
 ### Thread privacy
 
-Thread privacy is configured in the **[Who can see threads**?](#heading=h.ih1sgyxwy4zq) section of your group settings. If your group allows both public and private threads, then when you start a thread, you can choose whether it is public (publicly searchable), or private (only visible to members of your group).
+Thread privacy is configured in the **[Who can see threads**?](group_settings.html#who-can-see-threads) section of your group settings. If your group allows both public and private threads, then when you start a thread, you can choose whether it is public (publicly searchable), or private (only visible to members of your group).
 
 ### Editing a thread
 
