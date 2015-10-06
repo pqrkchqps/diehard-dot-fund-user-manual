@@ -1,12 +1,12 @@
-## Keeping up to date
+# Keeping up to date
 
-### Volume
+## Volume
 
 Volume controls how much you hear from a group or a specific discussion thread.
 
 There are four settings for both group volume and thread volume; **Loud**, **Normal**, **Quiet** and **Mute**.
 
-#### Group volume
+### Group volume
 
 You can change your group volume settings by clicking the volume button on your group page and selecting one of the four options:
 
@@ -18,7 +18,7 @@ You can change your group volume settings by clicking the volume button on your 
 
 * **Mute** - this switches all emails off. You’ll only be notified if someone @mentions you. This will also remove the group from the [**Unread Threads**](reading_loomio.html#unread-threads) page and the [**Yesterday on Loomio**](reading_loomio.html#yesterday-on-loomio) digest email.
 
-#### Thread volume
+### Thread volume
 
 When you start a new thread, it will inherit its default volume from its group. You can change your thread volume settings by clicking the volume button on the thread page and selecting one of the four options:
 
@@ -34,11 +34,11 @@ You can mute threads from any thread previews that display on the group page, Re
 
 If you have set a thread to **Loud**, you can reply to any comments you receive directly via email and your replies will be posted in the relevant Loomio thread. You can also choose to view the comment in the context of the thread on Loomio by clicking the **view it on Loomio** link in the footer of the email.
 
-### Email settings
+## Email settings
 
 Your **Email settings** page enables you to set default email notification settings for groups and threads. To visit your **Email settings** page, select the **Email settings** option from the user menu in the navigation bar.
 
-### Yesterday on Loomio
+## Yesterday on Loomio
 
 The **Yesterday on Loomio** email is a daily summary of content you haven’t read from the previous day. The email contains everything that is not muted. You can turn this on or off from the **Email settings** page.
 
