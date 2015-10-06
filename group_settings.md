@@ -2,7 +2,7 @@
 
 Group coordinators can edit group settings: **Profile**, **Privacy** and **Permissions**. 
 
-To edit your group settings, open the **Options** menu on the group page and select **Edit Group ****Settings**.
+To edit your group settings, open the **Options** menu on the group page and select **Edit Group Settings**.
 
 ### Group profile
 
