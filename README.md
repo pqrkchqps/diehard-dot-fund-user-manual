@@ -1,3 +1,3 @@
 # Loomio manual
 
-Comprehensive guide to [Loomio](https://loomio.org/)
+A comprehensive guide to [Loomio](https://loomio.org/)
