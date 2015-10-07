@@ -1,3 +1,5 @@
+![Loomio Logo](logo.png)
+
 # Loomio manual
 
 A comprehensive guide to using [Loomio](https://loomio.org/).
