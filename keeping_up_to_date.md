@@ -1,38 +1,38 @@
 # Keeping up to date
 
-## Volume
+## Notifications
 
-Volume controls how much you hear from a group or a specific discussion thread.
+Notifications control how much you hear from a group or a specific discussion thread. There are four settings for both group notifications and thread notifications.
 
-There are four settings for both group volume and thread volume; **Loud**, **Normal**, **Quiet** and **Mute**.
+### Group notifications
 
-### Group volume
+Your current group notifications setting will appear in a **Group notifications** card on your group page, underneath the **Members card**. You can change your group notifications setting by clicking the **Change** link inside the **Group notifications** card, and selecting one of the four options:
 
-You can change your group volume settings by clicking the volume button on your group page and selecting one of the four options:
+* **Email everything**: You will be emailed whenever there is activity (comments, votes, new threads, proposals, and proposal outcomes) in this group.
 
-* **Loud** - this will email you whenever there is activity (comments, votes, new threads, proposals, and proposal outcomes) in the group.
+* **Email new threads and proposals**: You will be emailed about new threads and proposals (i.e. when a proposal is started, about to close or when a proposal outcome is created). **Email proposals** is the default for new groups.
 
-* **Normal** - this will only email you with important activity: new threads or proposals and proposal outcomes. **Normal** is the default for new groups.
+* **No emails**: You won't be emailed about activity in this group, but you'll see new group activity on your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
 
-* **Quiet** - this switches all emails off. You’ll see new group activity on the [**Unread Threads**](reading_loomio.html#unread-threads) page and the Recent page.
+* **Mute group**: You won't be emailed about this group, and it will be removed from your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
 
-* **Mute** - this switches all emails off. You’ll only be notified if someone @mentions you. This will also remove the group from the [**Unread Threads**](reading_loomio.html#unread-threads) page and the [**Yesterday on Loomio**](reading_loomio.html#yesterday-on-loomio) digest email.
+### Thread notifications
 
-### Thread volume
+When you start a new thread, it will inherit a default notifications setting from its group. Your current thread notifications setting will appear in a **Thread notifications** card on the thread page. You can change your thread notifications setting by clicking the **Change** link inside the **Thread notifications** card, and selecting one of the four options:
 
-When you start a new thread, it will inherit its default volume from its group. You can change your thread volume settings by clicking the volume button on the thread page and selecting one of the four options:
 
-* **Loud** - this will email you whenever there is activity (comments, votes, proposals, and proposal outcomes) in the group.
+* **Email everything**: You will be emailed whenever there is activity (comments, new proposals, votes and proposal outcomes) in this thread.
 
-* **Normal** - this will only email you with important activity: new proposals and proposal outcomes. **Normal** is the default for new threads.
+* **Email proposals**: You will be emailed when a proposal is started, about to close or when a proposal outcome is created.
 
-* **Quiet** - this switches all emails off. You’ll see new thread activity on the [**Unread Threads**](reading_loomio.html#unread-threads) page and [**Recent Threads**](reading_loomio.html#recent-threads) page.
+* **No emails**: You won't be emailed about this thread.
 
-* **Mute** - this switches all emails off. You’ll only be notified if someone @mentions you. This will also hide the thread from your dashboard and the [**Yesterday on Loomio**](reading_loomio.html#yesterday-on-loomio) digest email.
+* **Mute thread**: You won't be emailed about this thread unless someone @mentions you. It will be removed from your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
 
-You can mute threads from any thread previews that display on the group page, Recent Threads page and Unread page, by hovering over the thread preview and selecting the **Mute** option. You can also mark threads as read by selecting the **Mark as read** option. This will remove them from your the Unread page.
+You can mute threads from thread previews that display on the group page, Recent Threads page and Unread page by hovering over the thread preview and selecting the **Mute** option. You can mark threads as read by selecting the **Mark as read** option. Marking a thread as read will remove it from your [**Unread**](reading_loomio.html#unread-threads) page.
 
-If you have set a thread to **Loud**, you can reply to any comments you receive directly via email and your replies will be posted in the relevant Loomio thread. You can also choose to view the comment in the context of the thread on Loomio by clicking the **view it on Loomio** link in the footer of the email.
+If you have thread notifications for a particular thread set to **Email everything**, you can reply to any comments you receive directly via email and your replies will be posted in the Loomio thread. You can also choose to view the comment in the context of the thread on Loomio by clicking the **view it on www.loomio.org** link in the footer of the email.
+
 
 ## Email settings
 
@@ -40,5 +40,5 @@ Your **Email settings** page enables you to set default email notification setti
 
 ## Yesterday on Loomio
 
-The **Yesterday on Loomio** email is a daily summary of content you haven’t read from the previous day. The email contains everything that is not muted. You can turn this on or off from the **Email settings** page.
+The **Yesterday on Loomio** email is a daily summary of content you haven't read from the previous day. The email contains everything that is not muted. You can turn this on or off from the **Email settings** page.
 
