@@ -2,7 +2,7 @@
 
 <img class="screenshot" alt="Group options dropdown" src="options_dropdown.png" />
 
-Group coordinators can edit group settings: **Profile**, **Privacy** and **Permissions**. 
+Group coordinators can edit group settings: **Profile**, **Privacy** and **Permissions**.
 
 To edit your group settings, open the **Options** menu on the group page and select **Edit Group Settings**.
 
@@ -10,45 +10,30 @@ To edit your group settings, open the **Options** menu on the group page and sel
 
 <img class="screenshot" alt="Edit Group Settings dialogue" src="edit_group_settings.png" />
 
-Your group profile consists of your group name and group description. 
+Your group profile consists of your group name and group description.
 
-It’s helpful if the description gives new members a clear understanding of what that group is for. When adding a group description, describe what your group intends to do, for example, *A public group for us to approve requests for use of the gallery space* or *The space for our board members to consider budget proposals*. 
+The description gives new members a clear understanding of what that group is for. When adding a group description, describe what your group intends to do, for example, *A public group for us to approve requests for use of the gallery space* or *The space for our board members to consider budget proposals*.
 
 ## Group privacy
 
-Your privacy settings determine who can find your group, who can see the threads in your group, and how people join. 
+Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.
 
-When you start a new group, only you and people you invite will be able to find it, and only you will be able to invite new people.
+When you start a new group, it will be automatically set to **Closed**: threads are only visible to group members, but the group name, description, and members list will be public. This means people can find your group and ask to join it, but the content of your discussions and decisions will stay private.
 
-### Who can find this group?
+If you want the content of your discussions and decisions to be public on the web, change your group privacy to **Open**.
 
-If you choose **Anyone**, the group will be publicly searchable. Making your group public makes it easy for people to find your group, without you having to send them a personal invitation. 
+If you want to totally hide your group, set your group privacy to **Secret**. This will mean only invited members will be able to see the group name, description, members list, and threads.
 
-If you choose **Members only** the group can only be found by invited members: it will not come up in public search results. You can only have private discussions in a **Members only** group.
+Note, if you have a Secret group and change it to Open, all your existing threads will be made public. The same is true in reverse: changing an Open group to Secret will make all your threads private.
 
-### How do people join?
-
-Groups can be **Open** to join, accessible **By request** or **By invitation**.
-
-The **Open** option means anyone with a Loomio account can join the group. A new visitor to your group page will be able to join your group immediately with the **Join group** button. (Note: **Members only **groups cannot be set to **Open**).
-
-The **By request** option means anyone can ask to join the group. A new visitor to your group page will find an **Ask to join group** button. When someone asks to join, the group coordinators will be notified that there is a new membership request. Membership requests can be approved or ignored. (Note: **Members only** groups cannot be set to **By Request**).
-
-If you select **Invitation only**, no-one can join the group without being invited. Invitations are sent from the [**Invite people**](inviting_new_members.html) page.
-
-### Who can see threads?
-
-This configures the default privacy setting for threads in your group. Threads can be **Public** **only**, **Public and private** or **only visible to members.**
-
-**Public threads only** option means the content of all discussions will be visible to people who are not signed in to Loomio. They will still need to join the group to participate. (Note: this option is not applicable to **Members only** groups).
-
-The **Allow public and private threads** option means members of your group can choose whether discussions they start are public or private. (Note: this option is not applicable to **Members only** groups).
-
-If you select **Only visible to members**, all the threads in your group will be private. No one outside of your group will be able to see the content of your discussions.
 
 ## Group permissions – what can members do?
 
-Coordinators can set the group permissions to configure what members can do in their group.
+Coordinators set the group permissions to configure what members can do in their group.
+
+### Allow public threads
+
+In **Closed** groups, you can use this option to allow public and private threads in your group. When you start a thread, you can decide whether it is public or private.
 
 ### Invite and approve new members
 
