@@ -1,21 +1,21 @@
-# Getting started
+# Comenzar
 
-Your introduction to Loomio might happen in a couple of ways. Here’s some information about each entry point:
+Tu introducción a Loomio puede suceder de un par de formas diferentes. Aquí hay información sobre cada posible punto de entrada:
 
-## Starting a group from the home page
+## Comenzar un nuevo grupo desde la página principal
 
 <img class="screenshot" alt="Log in page with single sign-on options" src="log_in_page.png" />
 
-You can start a new group from the Loomio home page by clicking the **Try out Loomio **button. Enter your name, email address and group name into the [**Start a new group**](https://www.loomio.org/start_group) form. You will receive an email containing a link that will take you to your new group.
+Puedes comenzar un nuevo grupo desde la página principal de Loomio haciendo clic en el botón **Prueba Loomio ** Entra tu nombre, correo electrónico y nombre del grupo en el formulario [**Comienza un nuevo grupo**](https://www.loomio.org/start_group). Recibirás un correo electrónico con un enlace que te llevará a la página de tu nuevo grupo.
 
-## You are invited into a Loomio group
+## Eres invitado a un grupo de Loomio
 
-When you receive an invitation to join an existing Loomio group, you will receive a unique invitation link by email.
+Cuando seas invitado a unirte a un grupo de Loomio ya existente, recibirás un enlace único por correo electrónico.
 
-If this is your first time using Loomio you will be prompted to create an account. If you already have a Loomio account you will be taken straight to the group after you log in.
+Si es tu primera vez utilizando Loomio se te será pedido que crees una cuenta. Si ya tienes una cuenta serás llevado a la página del grupo luego de que ingreses en Loomio.
 
-## Single sign-on
+## Inicia la sesión con cuenta única
 
-Loomio allows sign-up with Facebook, Google, Twitter or Persona. If you do not have a Loomio account you can sign up using any of these third-party services by clicking the corresponding button on the [**Log in** page](http://loomio.org/sign_in). If you are currently logged in to Google, Facebook, Twitter or Persona, we'll link your loomio account to that login method. Otherwise you will be prompted to sign in. When Loomio recognises your existing third-party account, follow the prompts to create your Loomio account.
+Loomio te permite iniciar sesión con tu cuenta de terceros en Facebook, Google, Twitter o Persona, si no tienes una cuenta de Loomio puedes crear una, usando cualquiera de estos otros servicios, al hacer clic en el botón correspondiente en la pagina [**Iniciar sesión**](http://loomio.org/sign_in).. Si has iniciado sesión con Google, Facebook, Twitter o Persona, enlazaremos tu cuenta de Loomio con ese método de entrada; sino, se te pedirá iniciar sesión. Cuando Loomio reconozca tu cuenta de terceros, sigue las instrucciones para crear tu cuenta de Loomio.
 
-You may also associate your Google, Facebook, Twitter or Persona account with an existing Loomio account. Ensure you are logged out, visit the [**Log in** page](https://www.loomio.org/users/sign_in) and select your preferred platform. Loomio will ask you if you want to create a new account with your existing account on your chosen platform, or link it to your existing Loomio account.
+También puedes asociar tu cuenta de Google, Facebook, Twitter o Persona a tu cuenta ya existente de Loomio. Asegurate que has cerrado la sesión, visita la página [**Iniciar sesión**](https://www.loomio.org/users/sign_in) y selecciona tu plataforma preferida; Loomio te pedirá si quieres crear una nueva cuenta con tu cuenta ya existente de la otra plataforma o si quieres asociarla con tu cuenta ya existente de Loomio  
