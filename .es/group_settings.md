@@ -1,64 +1,67 @@
-# Group settings
+# Configuraciones del grupo
 
 <img class="screenshot" alt="Group options dropdown" src="options_dropdown.png" />
 
-Group coordinators can edit group settings: **Profile**, **Privacy** and **Permissions**.
+Los coordinadores pueden editar la configuración del grupo: **Perfil **, **Privacidad** y **Permisos**.
 
-To edit your group settings, open the **Options** menu on the group page and select **Edit Group Settings**.
+Para editar la configuración de tu grupo abre el menú de **Opciones** en la página del grupo y selecciona **Editar la configuración del grupo**. 
 
-## Group profile
+## Perfil del grupo
 
 <img class="screenshot" alt="Edit Group Settings dialogue" src="edit_group_settings.png" />
 
-Your group profile consists of your group name and group description.
+El perfil de tu grupo es el nombre y descripción del mismo.
 
-The description gives new members a clear understanding of what that group is for. When adding a group description, describe what your group intends to do, for example, *A public group for us to approve requests for use of the gallery space* or *The space for our board members to consider budget proposals*.
+La descripción provee a los nuevos miembros un entendimiento claro de cuál es la finalidad del grupo. Cuando agregues la descripcion del grupo, describe cual es la intención de este grupo, por ej. *Un grupo público para que aprobemos pedidos para el uso de la galería* o *El espacio para que los miembros de la junta aprueben propuestas del presupuesto*. 
 
-## Group privacy
+## Privacidad del grupo
 
-Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.
+Tu configuración de privacidad determina quién puede encontrar tu grupo, quién puede ver los hilos en tu grupo, y como se une la gente al mismo.
 
-When you start a new group, it will be automatically set to **Closed**: threads are only visible to group members, but the group name, description, and members list will be public. This means people can find your group and ask to join it, but the content of your discussions and decisions will stay private.
+Cuando comienzas un grupo nuevo, será automáticamente configurado como **Cerrado**: los hilos solo son visibles para los miembros del grupo, pero el nombre, descripción y listado de miembros será público. Esto significa que la gente puede encontrar tu grupo y pedir membresía, pero el contenido de las discusiones y las decisiones serán privadas.
 
-If you want the content of your discussions and decisions to be public on the web, change your group privacy to **Open**.
+Si quieres que el contenido de las discusiones y las decisiones seán públicas en línea, cambia la privacidad de tu grupo a **Abierto**.
 
-If you want to totally hide your group, set your group privacy to **Secret**. This will mean only invited members will be able to see the group name, description, members list, and threads.
+Si quieres esconder tu grupo totalmente, configura la privacidad como **Secreto**. Esto significa que solo los miembros invitados serán capaces de ver el nombre, descripcion, lista de miembros e hilos del grupo.
 
-Note, if you have a Secret group and change it to Open, all your existing threads will be made public. The same is true in reverse: changing an Open group to Secret will make all your threads private.
+Nota: si tienes un grupo Secreto y lo cambias a Abierto, todos tus hilos existentes se harán públicos. Lo mismo pasará en el contrario: si cambias un grupo de Abierto a Secreto todos los hilos se harán privados.
 
 
-## Group permissions – what can members do?
+## Permisos del grupo -- ¿Qué pueden hacer los miembros?
 
-Coordinators set the group permissions to configure what members can do in their group.
+Los coordinadores del grupo configuran los permisos del grupo y deciden así lo que los miembros pueden hacer en su grupo.
 
-### Allow public threads
+### Permitir hilos publicos
 
-In **Closed** groups, you can use this option to allow public and private threads in your group. When you start a thread, you can decide whether it is public or private.
+En grupos **Cerrados**, puedes usar esta opción para permitir hilos públicos y privados.
+Cuando comienzas un nuevo hilo, puedes decidir si es públicoo privado.
 
-### Invite and approve new members
+### Invitar y aprobar a nuevos miembros
 
-This allows everyone in your group to invite new people in, and approve any membership requests. When it is deselected only group coordinators will be able to invite and approve new members.
+Esto les permite a todos en tu grupo invitar nuevas personas y aprobar pedidos de membresía.
+Cuando no sea seleccionado solo los coordinadores del grupo podrán invitar gente y aprobar membresías. 
 
-### Create sub-groups
+### Crear sub-grupos
 
-This allows everyone in your group to create subgroups. When it is deselected only group coordinators will be able to create subgroups.
+Esto les permite a todos en tu grupo crear subgrupos. Cuando no sea seleccionado solo los coordinadores serán capaces de crear subgrupos.
 
-### Start threads
+### Comenzar hilos
 
-This allows everyone in your group to start new threads. When it is deselected only group coordinators will be able to start discussions.
+Esto les permite a todos en tu grupo comenzar nuevos hilos. Cuando no sea seleccionado solo los coordinadores serán capaces de comenzar discusiones. 
 
-### Edit the context of any thread in the group
+### Editar el contexto de cualquier hilo en tu grupo
 
-This allows everyone in your group to edit the context of any thread. When it is deselected only group coordinators will be able to edit the thread context. (The person who started a thread can always edit the thread context.)
+Esto les permite a todos en tu grupo editar el contexto de cualquier hilo. Cuando no sea seleccionado solo los coordinadores del grupo serán capaces de editar el contexto de los hilos. (La persona que ha comenzado el hilo siempre puede editar el contexto)
 
-### Edit their comments at any time
+### Editar sus comentarios en cualquier momento
 
-This allows everyone in your group to [edit their comments](comments.html#editing-a-comment) at any time. When it is deselected, a comment can only be edited until someone else participates in the thread.
+Esto les permite a todos en tu grupo [editar sus comentarios](comments.html#editing-a-comment). 
+Cuando no es seleccionado un comentario solo puede ser editado hasta que alguien más comenta en el hilo.
 
-### Raise proposals
+### Iniciar propuestas
 
-This allows anyone in your group to start a proposal within a thread. When this box is deselected only group coordinators will be able to raise proposals.
+Esto les permite a todos en tu grupo iniciar propuestas en un hilo. Cuando esta casilla no es seleccionada solo los coordinadores podrán iniciar propuestas.
 
-### Vote on proposals
+### Votar en propuestas
 
-This allows everyone in your group to state their position on proposals. When it is deselected only group coordinators will be able to state their position on proposals.
+Esto les permite a todos en tu grupo dar su opinión en propuestas. Cuando esta casilla no es seleccionada solo los coordinadores podrán dar su opinión en propuestas.
