@@ -1,31 +1,31 @@
-# Coordinating your group
+# Coordinando tu grupo
 
-As a coordinator of a Loomio group you’re responsible for guiding your group through the process of learning how to use a new piece of software, as well as learning new processes for collaborating more effectively and making good decisions together. The tasks outlined below are only available to the coordinators of your group.
+Como coordinador de un grupo de Loomio, eres responsable de guiar tu grupo a través del proceso de aprender esta nueva pieza de software, asi también como a aprender nuevos procesos para colaborar efectivamente y poder tomar buenas decisiones juntos. Las tares marcadas debajo solo están disponibles para los coordinadores de tu grupo.
 
-## Adding a cover photo
+## Añadir una foto de portada
 
-When you first arrive in your new Loomio group, there will be a randomly selected cover photo, and a placeholder for your group logo. You can customise how your group looks by adding your own cover photo and logo. You can upload a new cover photo or logo by selecting the upload button (camera icon) in either section. 
+Cuando entras por primera vez a tu nuevo grupo de Loomio habrá una imagen de portada seleccionada al azar y un lugar para el logo de tu grupo. Puedes customizar como se ve tu grupo agregando tu propia foto de portada y logo. Puedes subir una nueva foto o logo seleccionando el botón con el icono de una cámara de fotos en el área determinada. 
 
-## Managing membership
+## Manejar membresías
 
 <img class="screenshot" alt="Managing membership page" src="members_page.png" />
 
-Group coordinators can add and remove members, and grant and remove coordinator permissions. These actions can be performed from the **Members** page, which is accessed via the **Manage Members **link in the **Options **menu on the Group page.
+Los coordinadores pueden añadir y remover miembros, y dar o quitar permisos de coordinador. Estas acciones pueden ser realizadas desde la página de **Miembros**, a la que se accede desde el enlace **Administrar miembros**en el menu de **Opciones** en la pagina de tu grupo.
 
-### Adding/removing coordinators
+### Añadir/quitar coordinadores
 
-On the **Members** page, there is a checkbox next to every member. When this checkbox is selected, the member is a coordinator. Deselecting the checkbox removes the coordinator permissions for that member. 
+En la página de **Miembros** hay una casilla junto a cada miembro. Cuando esta casilla es seleccionada, el miembro es un coordinador. Al deseleccionar la casilla remueves los permisos de coordinador de ese miembro. 
 
-### Adding/removing group members
+### Añadir/remover miembros
 
-On the **Members** page, next to every member there is a **Remove **button ![Remove member button](remove_button.png). This button removes the member from your group.
+En la página de **Miembros** junto a cada miembro hay un botón **Eliminar** ![Remove member button](remove_button.png). Este botón remueve al miembro de tu grupo.
 
-### Accepting/ignoring membership requests
+### Aceptar/denegar pedidos de membresía
 
-If your [group privacy settings](group_settings.html#group-privacy) allow people to join your group **By request**, a coordinator will need to approve each membership request. Group coordinators will receive an email each time there is a new membership request. The link in the notification email will take you to the **Membership requests** page, where you can approve or decline the request.
+Si tu [configuración de privacidad del grupo](group_settings.html#group-privacy) le permite a la gente unirse a través de **Pide unirte**, un coordinador tiene que aprobar cada pedido de membresía. Los coordinadores recibirán un correo electrónico cada vez que haya un nuevo pedido de membresía. El enlace en el correo electrónico de notificación te llevará a la página **Pedidos de membresía** donde puedes aceptar o denegar el pedido.   
 
-If there is a pending membership request it will also be visible on your group page in a **Membership requests** panel.
+Si hay un pedido pendiente de membresía también será visible en la página de tu grupo en el panel **Pedidos de membresía** 
 
-## Deactivating/archiving a group
+## Desactivar/archivar tu grupo.
 
-Deactivating your group means that you and the rest of the group members will no longer be able to access the group. If you wish to deactivate your group you can do so by selecting **Deactivate group** from the **Options** menu on the group page. To reactivate your deactivated group, contact the Loomio team by sending an email to [contact@loomio.org](mailto:contact@loomio.org).
+Desactivar tu grupo significa que tu y el resto de los miembros de tu grupo yo no tendrán la posibilidad de acceder a tu grupo. Si deseas desactivar tu grupo puedes hacerlo seleccionando **Desactivar grupo** desde el menú de **Opciones** en la página del grupo. Para reactivar un grupo desactivado contacta el equipo de Loomio enviando un correo electrónico a [contact@loomio.org](mailto:contact@loomio.org).
