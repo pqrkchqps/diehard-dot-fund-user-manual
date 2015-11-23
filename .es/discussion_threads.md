@@ -1,33 +1,33 @@
-# Discussion threads
+# Hilos de discusión 
 
 <img class="screenshot" alt="Discussion thread" src="thread_page.png" />
 
-Discussion threads are where your group can discuss a topic, exchange information and make decisions together.
+En los hilos de una discusión es donde tu grupo puede discutir un tema, intercambiar información y tomar decisiones juntos.
 
-The thread page is divided into three main sections:
+La página del hilo está dividida en tres secciones principales:
 
-1. The **Context** panel contains the thread title, context and thread options.
+1. El panel de **Contexto** contiene el título del hilo, contexto y opciones.
 
-2. The **Activity **feed contains any updates to the thread. For example, if someone posts a new comment, or starts a new proposal, that activity will show up in this list.
+2. La linea de **Actividad** contiene cualquier actualización al hilo. Por ejemplo, si alguien escribe un nuevo comentario o comienza una nueva propuesta, esa actividad se mostrará en esta lista.
 
-3. The **Proposal **section contains any current or closed proposals for that thread.
+3. La sección de la **Propuesta** contiene cualquier propuesta, abierta o cerrada, en ese hilo.
 
-## Starting a thread
+## Comenzar un hilo
 
-You can start a new thread from anywhere in the app via the **Action Menu**. There is also a **Start a thread **button on the group page.
+Puedes comenzar un nuevo hilo desde cualquier lugar de la app, a través del **Menú de acción** (marcado con el simbolo + en la parte inferior derecha de la pantalla). También hay un botón **Inicia un nuevo hilo** en la página de tu grupo.
 
-The **Start new thread** form asks for a **Title** and **Context**. The **Title** is a succinct description of the topic being discussed. The **Context** is where you can share any background information your group members need to participate meaningfully in the thread. You can update the **Context **at any time, which can be a useful way to summarise a complex thread.
+El formulario **Inicia un nuevo hilo** te pedirá un **Título** y **Contexto**. El **Título** es un resumen del tema que se discutirá. El **Contexto** es donde puedes compartir cualquier información que los miembros de tu grupo necesiten para poder participar de forma significativa en el hilo. Puedes actualizar el **Contexto** en cualquier momento, esto puede ser una forma útil de resumir una discusión compleja.  
 
-Loomio uses **Markdown** for text formatting. You can use Markdown in the context panel to format your discussion context, or to embed images. For more information on how to use Markdown, click the **Formatting help** link underneath the comment box at the bottom of the thread page to open [the Markdown guide](https://loomio.org/markdown).
+Loomio usa **Markdown** para dar formato a los textos. Puedes usar Markdown in the panel del contexto para dar formato a tu texto o añadir imágenes. Para más información sobre como usar Markdown has clic en el enlace **Ayuda de formato** debajo de la casilla del comentario al pie de la página del hilo para abrir [la guía de Markdown](https://loomio.org/markdown).
 
-## Thread privacy
+## Privacidad del hilo
 
-If your [group settings](group_settings.html) allow both public and private threads, when you start a thread you can choose whether it is public (publicly searchable), or private (only visible to members of your group).
+Si la [configuración de tu grupo](group_settings.html) permite hilos públicos y privados, cuando inicies un nuevo hilo podrás elegir si es público (que se puede buscar públicamente) o privado (solo visible para los miembros del grupo)
 
-## Editing a thread
+## Editar un hilo
 
-**Group members** can edit the title, context and privacy of any thread they have started. **Group coordinators** can edit the title, context and privacy of any threads taking in the group. **Group coordinators** can also determine whether or not group members can edit each others’ threads (see [Group settings](group_settings.html)).
+Los **Miembros de grupo** pueden editar el título, contexto y privacidad de cualquier hilo que comienzen. Los **Coordinadores de grupo** pueden editar el título, contexto y privacidad de cualquier hilo en el grupo. Los **Coordinadores del grupo** también pueden determinar si los miembros del grupo pueden o no, editar los hilos de otros (ver [configuración del grupo](group_settings.html)).
 
 <img class="screenshot" alt="Discussion thread options dropdown" src="edit_thread.png" />
 
-The **Edit thread **option is accessed via the thread options dropdown.
+A la opción **Editar hilo** accedes a través del menú desplegable de opciones del hilo.  
