@@ -1,13 +1,13 @@
-# Inviting new members
+# Invitar nuevos miembros
 
 <img class="screenshot" alt="Action menu" src="action menu.png" />
 
-Depending on your [group settings](group_settings.html), new members can be invited either by everyone in the group, or by coordinators only. You’ll find the **Invite people** option on the **Members** panel on your group page, and in the **Action Menu **which can be accessed from anywhere in the app.
+Dependiendo de la [configuración de tu grupo](group_settings.html), nuevos miembros pueden ser invitados por cualquier otro miembro del grupo o solo por los coordinadores. Encontrarás la opción **Invitar gente** en el panel **Miembros** en la página de tu grupo, y en el **Menú de acciones** al que puedes acceder desde cualquier parte de la app. 
 
-You can invite multiple people at once by entering their email addresses into the form, separated by commas. When you submit the invitations form an email will be sent to each of the email addresses you supplied, containing a unique invitation link.
+Puedes invitar a múltiples personas de una sola vez, ingresando su dirección de correo electrónico, separadas por comas, en el formulario. Cuando envias las invitaciones, cada persona recibirá un correo electrónico de invitación con un enlace de uso único.
 
-Optionally, you can also choose to add a custom message to the invitation, which can be a great way to engage new members. People will want to know why they’ve been invited, what’s expected of them, and why it’s worth their time to learn how to use a new tool.
+También puedes elegir como opción, agregar un mensaje personalizado a la invitación, que puedes ser una muy buena forma de interactuar con nuevos miembros. la gente querrá saber por qué han sido invitados, qué se espera de ellos y por qué deben usar su tiempo en aprender esta nueva herramienta. 
 
-## Pending invitations
+## Invitaciones pendientes
 
-If there is an outstanding invitation that has not yet been accepted, it will be displayed in the Pending Invitations section of the **Members** page, which is accessed via the **Manage Members **link in the **Options **menu on the group page. You can revoke a pending invitation with the cancel button (the circled-X icon).
+Si hay invitaciones pendientes que aún no han sido aprobadas, serán mostradas en la sección de invitaciones pendientes de la página de **Miembros** , a la que accedes desde el enlace **Administrar miembros** en el menu de **Opciones** de la página de tu grupo. Puedes cancelar una invitación pendiente con el botón de cancelar (el icono con la X)
