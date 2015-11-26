@@ -1,25 +1,25 @@
-# Reading Loomio
+# Leer Loomio
 
-## Recent Threads
+## Hilos recientes
 
-**Recent Threads** is the landing page when you sign into Loomio. It gives you an overview of the most recent activity happening in your groups. The **Recent Threads** page displays content from your groups in a prioritised list. Open proposals are at the top, followed by **Starred** threads, then all of the threads from your groups, sorted by most recent activity; **Today**, **Yesterday**,** This month**,** Older than a month**.
+**Hilos recientes** es la pagina de arribo cuando entras en Loomio. Te da un resumen de las actividades más recientes de tus grupos en una lista priorizada. Propuestas abiertas en la parte superior, seguidas de los hilos **Favoritos**, luego todos los hilos de tus grupos, con los más recientes primero, **Hoy**, **Ayer**, **Este mes**, **Más de un mes**. 
 
-If a thread or proposal title is **bold** then new activity has taken place there since you last visited. Numbers in parentheses after titles reflect how many new comments or votes have been posted since you last visited. Proposals will show a pie graph, with your position on the proposal superimposed on the graph. If you haven’t yet stated a position, this will show a question mark. 
+Si el título en un hilo o propuesta está en **Negrita** entonces significa que ha habido nueva actividad desde la última vez que entraste. Las propuestas te mostraran un gráfico circular, con el simbolo de tu posición sobreimpreso. Si aún no has votado, mostrará un signo de interrogación.
 
-## Starred threads
+## Hilo favoritos (con estrella)
 
-Clicking the star icon on a thread preview marks that thread ‘starred’. Use stars to mark certain threads as important. Only you can see if you’ve starred a thread.
+Haciendo clic en el simbolo de estrella en la vista previa del hilo lo marca como favorito. Utiliza las estrellas para marcar ciertos hilos como importantes. Solo tu podrás ver qué hilos son tus favoritos.
 
-## Filter threads
+## Filtrar hilos
 
-The **Filter Threads **dropdown lets you choose to see:
+El menú desplegable de **Filtrar hilos** te permite elegir ver:
 
-* **Recent Threads:** all threads and proposals with recent activity.
+* **Hilos recientes:** todos los hilos y propuestas con actividad reciente.
 
-* **Participating threads**: only the threads and proposals which you’ve participated in.
+* **Hilos participativos**:  solo los hilos y propuestas en los que has participado.
 
-* **Muted: **only the threads which you’ve previously [muted](keeping_up_to_date.html#thread-volume).
+* **Silenciado: ** solo los hilos que has [silenciado](keeping_up_to_date.html#thread-volume) previamente.
 
-## Unread Threads
+## No leido
 
-This page shows all the threads and proposals that have new content since you last visited, sorted by group. You can click **Mark as read **on a thread preview to clear it from this page without actually visiting the thread. You can also [mute](keeping_up_to_date.html#thread-volume)** **threads here.
+Esta página te muestra todos los hilos y propuestas que tienen nuevo contenido desde la última vez que has entrado. Puedes hacer clic en **Marcar como leído** en la vista previa del hilo para eliminarlo de esta lista sin necesidad de visitar la página del mismo. Tambien puedes [silenciar](keeping_up_to_date.html#thread-volume)** ** los hilos.
