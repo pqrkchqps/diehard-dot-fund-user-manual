@@ -1,51 +1,52 @@
-# Proposals
+# Propuestas
 
 <img class="screenshot" alt="Proposal panel" src="proposal_panel.png" />
 
-Proposals take place in a [discussion thread](discussion_threads.html), which encompasses both the discussion and the proposal. There can only be one active proposal at any time in any thread. 
+Las propuestas se llevan a cabo en el [hilo de discusión](discussion_threads.html), que abarca ambos, la discusión y la propuesta. Solo puede haber una propuesta activa a la vez en cada hilo.
 
-## Starting a proposal
+## Iniciar una propuesta
 
-You can create a new proposal with the **Start proposal** button on the thread page.
+Puedes crear una nueva propuesta con el botón **Empezar propuesta** en la página del hilo.
 
-When you start a new proposal you will be required to provide a brief **Title**, a **Closing date** and any relevant **Details**. Use the **Details** field to provide any information the group needs so everyone knows exactly what it means to agree or disagree with the proposal.
+Cuando empiezas una nueva propuesta se te pedirá proveer un **Titulo**, una **Fecha de cierre** y cualquier **Detalle** relevante. Utiliza el campo de **Detalle** para proveer cualquier información que el grupo necesita, para que todos sepan exactamente qué significa estar de acuerdo o no con la propuesta.  
 
-## Editing a proposal
+## Editar una propuesta
 
-Only the author of the proposal and the group coordinators can edit proposals. The proposal **title** and **details** can only be edited until the first member participates. However, the **closing time** can be changed at any time. 
+Solo el autor de la propuesta y el coordinador del grupo pueden editar la misma. El **Titulo** y los **Detalles** de la propuesta solo pueden ser editados hasta que el primer miembro participe. Sin embargo la fecha de **Cierre** puede ser cambiada en cualquier momento.
 
-To edit the proposal, select the **Edit proposal** option from the proposal options dropdown in the **Proposal** panel.
+Para editar la propuesta, selecciona la opción **Editar propuesta** desde el menú desplegable en el panel de la **Propuesta**
 
-## Stating your position
+## Da tu opinion
 
-When you’re ready participate in a proposal, you can select one of the four decision buttons:
+Cuando estés lista para participar en una propuesta, puedes seleccionar uno de los cuatro botones: 
 
-* **Agree** means you’re happy with the proposal.
+* **De acuerdo** significa que estás contenta con la propuesta.
 
-* **Abstain** means you’re happy for the group to decide without you.
+* **Me abstengo** significa que estás contenta con que el grupo decida sin ti.
 
-* **Disagree** means you think there might be a better alternative, but you’re willing to go with the group’s decision.
+* **En desacuerdo** significa que tu crees que hay una mejor alternativa, pero estás dispuesta a ir con la decisión del grupo.
 
-* **Block** means you’ve got serious objections and you’ll be extremely unhappy if this proposal goes ahead.
+* **Bloqueo** significa que tienes serias objeciones y que no serias feliz si la propuesta se lleva a cabo.
 
-When you’ve selected your position, you will be prompted to give a brief explanation as to why you feel this way.
+Cuando seleccionas tu posición, se te pedirá dar una breve explicación sobre por qué te sientes de esta forma. 
 
-Underneath the proposal pie, there will be a list containing the names, positions and position statements of members who have voted on the proposal. You can see what everyone else thinks, making it easy to catch up with the thread. There will also be a **View undecided members** link, which will display a list of the members who have not voted.
+Debajo del gráfico circular habrá una lista de nombres, posiciones y declaraciones sobre la posición, de los miembros que han votado en la propuesta; puedes ver lo que cada persona piensa, haciendo más fácil el estar al día con el hilo. También habrá un enlace **Ver miembros indecisos** donde podras ver una lista de los miembros que no han votado.
 
-## Changing your position
+## Cambiar tu posición
 
-If you wish to change your position you can do so by clicking the** Change your vote **link next to your position in the **Proposal** panel.
+Si deseas cambiar tu posición puedes hacerlo mediante el enlace **Cambia tu voto** debajo de tu posición en el panel de la **Propuesta**
 
-## Setting a proposal outcome
+## Dar el resultado de la propuesta
 
-When a proposal closes, it collapses into a **Previous proposals** panel. You can expand the proposal by clicking the **Expand **link inside the proposal preview.
+Cuando una propuesta cierra, se marca en el panel de **Propuestas previas**. puedes ver la propuesta haciendo clic en el enlace **Expandir** en la previsualización de la propuesta. 
 
-An editable outcome statement field will display underneath the proposal details, and the person who raised the proposal will be prompted via email to provide an outcome statement for their proposal. Proposal outcomes can be set by the person who started the proposal, or by the coordinators of the group. When the proposal outcome statement is set everyone in the group will receive an email notifying them of the outcome.
+Un campo editable de resultado se abrirá bajo el detalle de la propuesta, y la persona que ha iniciado la propuesta será invitada, a través de un correo electrónico, a dar el resultado de la propuesta. El resultado de la propuesta puede ser dado por la persona que ha iniciado la propuesta o por uno de los coordinadores del grupo. 
+Cuando el resultado de la propuesta sea enviado, los miembros del grupo serán notificados mediante un correo electrónico.  
 
-## Closing a proposal
+## Cerrar una propuesta
 
-Only the group member who started the proposal and the coordinators of the group can close an active proposal. To close a proposal, select the **Close proposal** option from the proposal options dropdown. 
+Solo el miembro del grupo que ha comenzado la propuesta y la coordinadora, pueden cerrar una propuesta activa. para cerrar una propuesta, selecciona la opción **Cerrar propuesta** desde el menú desplegable de la propuesta. 
 
-## Closed proposals/previous decisions
+## Propuestas cerradas/ propuestas anteriores
 
-Closed proposals are reduced to a proposal preview and collapsed into a **Previous proposals** panel. You can expand the proposal by clicking the **Expand **link inside the proposal preview.
+Propuestas cerradas son reducidas a una vista previa de la misma y se encuentran en el panel de **Propuestas previas**. Puedes expandir la propuesta haciendo clic en el enlace **Expandir** en la previsualización de la propuesta.
