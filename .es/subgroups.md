@@ -1,17 +1,17 @@
-# Subgroups
+# Subgrupos
 
-Loomio allows you to create subgroups within your groups. Subgroups let you break your group up into different teams. Loomio subgroups can contain members of the parent group and people who don’t belong to the parent group. Depending on your [group settings](group_settings.html), subgroups can be created either by everyone in the group, or by coordinators only.
+Loomio te permite crear subgrupos dentro de tu grupo. Subgrupos te permiten dividir tu grupo en diferentes equipos. Los subgrupos en Loomio pueden contener miembros del grupo principal, como también gente que no pertenece al grupo principal. dependiendo de la [configuración de tu grupo](group_settings.html), los subgrupos pueden ser creados por cualquiera en el grupo o por los coordinadores solamente. 
 
-To add a subgroup, select the **Add subgroup** option from the **Options** menu on your group page.
+Para añadir un subgrupo, selecciona la opción **Agregar un subgrupo** desde el menú de opciones en la página de tu grupo.
 
-## Subgroup privacy
+## Privacidad del subgrupo
 
-To visit your subgroup settings page, click the **Options** button on the group page and select the **Edit Group Settings** option from the dropdown menu.
+Para visitar la pagina de configuración de tu subgrupo, has clic en el botón de **Opciones** en la página de tu grupo y selecciona **Editar la configuración del grupo** del menú desplegable.
 
-Subgroup settings are the same as [group settings](group_settings.html), but with additional privacy settings.
+La configuración del subgrupo es la misma que la [configuración del grupo](group_settings.html) pero con configuraciones de privacidad adicionales.
 
-In the **Privacy **section of the **Edit Group Settings** form, there is a **Who can find this group? **field, which determines whether the subgroup is accessible to members of the parent group. When the **People in [parent group]** option is selected, the subgroup will be listed in the **Subgroups** panel on the parent group page. Members of the parent will also be able to access the subgroup if they navigate to the subgroup’s page.
+En la sección **Privacidad** del formulario **Editar la configuración del grupo**, hay un campo **¿Quien puede encontrar este grupo?**, que determina si tu subgrupo es accesible a los miembros del del grupo principal. Cuando la opción **Gente en el [grupo principal]** es seleccionada, el subgrupo será listado en el panel **Subgrupos**  en la página del grupo principal. Los miembros del grupo principal también serán capaces de acceder al subgrupo si navegan directamente a la página del subgrupo.
 
-There is also an additional privacy option relating to the subgroup's discussion privacy.The **Who can see discussions?** field of the **Privacy** section, allows you to choose whether you want discussions to be accessible to members of the parent, or to members of the subgroup only. If you choose to make the subgroup accessible to parent group members, but the discussion threads accessible to members only, then members of the parent will be able to access the subgroup's page, but not access any of the subgroup's threads.
+También hay opciones de privacidad adicionales relacionadas a la privacidad de las discusiones en el subgrupo, el campo de **¿Quién puede ver las discusiones?** en la sección de **Privacidad**, te permite elegir si quieres que las discusiones sean accesibles a los miembros del grupo principal o solo a los miembros del subgrupo. Si eliges hacer el subgrupo accesible a los miembros del grupo principal, pero los hilos de discusión solo accesibles a los miembros del subgrupo, los miembros del grupo principal podrán acceder a la página del subgrupo pero no acceder a ninguno de los hilos del mismo. 
 
-When the **People in [parent group]** option is deselected, only members of the subgroup will be able to find it.
+Cuando la opción **Gente en el [grupo principal]** no es seleccionada, solo los miembros del subgrupo podrán encontrarlo.
