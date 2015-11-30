@@ -1,44 +1,45 @@
-# Keeping up to date
+# Estar al día
 
-## Notifications
+## Notificaciones
 
-Notifications control how much you hear from a group or a specific discussion thread. There are four settings for both group notifications and thread notifications.
+Las notificaciones controlan cuánto correo recibes de un grupo en particular o un hilo de discusión. Hay cuatro configuraciones para las notificaciones de los grupos y los hilos.
 
-### Group notifications
+### Notificaciones de los grupos
 
-Your current group notifications setting will appear in a **Group notifications** card on your group page, underneath the **Members card**. You can change your group notifications setting by clicking the **Change** link inside the **Group notifications** card, and selecting one of the four options:
+La configuración actual de las notificaciones de tus grupos aparecerán en el panel **Notificaciones del grupo** en la página de tu grupo, debajo del panel de **Miembros**. Puedes cambiar la configuración de las notificaciones haciendo clic en el enlace **Cambiar** dentro del panel **Notificaciones del grupo** y seleccionando una de las cuatro opciones: 
 
-* **Email everything**: You will be emailed whenever there is activity (comments, votes, new threads, proposals, and proposal outcomes) in this group.
+* **Enviar todo**: Te será enviado correo electrónico cada vez que haya actividad ( comentarios, votos, hilos nuevos, propuestas, y resultados) en este grupo. 
 
-* **Email new threads and proposals**: You will be emailed about new threads and proposals (i.e. when a proposal is started, about to close or when a proposal outcome is created). **Email proposals** is the default for new groups.
+* **Enviar nuevos hilos y propuestas**: Correo electrónico te será enviado sobre nuevos hilos y propuestas (ej. cuando una propuesta es iniciada, a punto de cerrar, o cuando se cree un resultado en la misma). **Enviar propuestas** es la configuración por defecto en grupos nuevos.
 
-* **No emails**: You won't be emailed about activity in this group, but you'll see new group activity on your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
+* **No enviar correo electrónico**: No se te enviarán correos electrónicos sobre actividad en este grupo, pero veras la nueva actividad en tu casilla de [**No leido**](reading_loomio.html#unread-threads) y en la página de Hilos recientes.
 
-* **Mute group**: You won't be emailed about this group, and it will be removed from your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
+* **Silenciar grupo**: No te será enviado correo electrónico sobre este grupo, y será removido de tus paginas Hilos recientes y [**No leido**](reading_loomio.html#unread-threads).
 
-### Thread notifications
+### Notificación de los hilos
 
-When you start a new thread, it will inherit a default notifications setting from its group. Your current thread notifications setting will appear in a **Thread notifications** card on the thread page. You can change your thread notifications setting by clicking the **Change** link inside the **Thread notifications** card, and selecting one of the four options:
-
-
-* **Email everything**: You will be emailed whenever there is activity (comments, new proposals, votes and proposal outcomes) in this thread.
-
-* **Email proposals**: You will be emailed when a proposal is started, about to close or when a proposal outcome is created.
-
-* **No emails**: You won't be emailed about this thread.
-
-* **Mute thread**: You won't be emailed about this thread unless someone @mentions you. It will be removed from your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
-
-You can mute threads from thread previews that display on the group page, Recent Threads page and Unread page by hovering over the thread preview and selecting the **Mute** option. You can mark threads as read by selecting the **Mark as read** option. Marking a thread as read will remove it from your [**Unread**](reading_loomio.html#unread-threads) page.
-
-If you have thread notifications for a particular thread set to **Email everything**, you can reply to any comments you receive directly via email and your replies will be posted in the Loomio thread. You can also choose to view the comment in the context of the thread on Loomio by clicking the **view it on www.loomio.org** link in the footer of the email.
+Cuando inicias un nuevo hilo, recibirá la misma configuración de notificaciones que el grupo al que pertenece. Tu configuración actual de las notificaciones de los hilos aparecerá en el panel **Notificacion de los hilo** en la página del hilo; puedes cambiar la configuración del hilo haciendo clic en **Cambiar** y seleccionando una de las cuatro opciones:   
 
 
-## Email settings
+* **Enviar todo**: Seras notificado cuando sea que haya actividad (comentarios, nuevas propuestas, votos y resultados) en este hilo.
 
-Your **Email settings** page enables you to set default email notification settings for groups and threads. To visit your **Email settings** page, select the **Email settings** option from the user menu in the navigation bar.
+* **Enviar propuestas**: Se te enviará un correo electrónico cuando sea que se inicia una propuesta, cuando esté por cerrar o cuando un resultado sea difundido. 
 
-## Yesterday on Loomio
+* **No enviar correo electrónico**: Correo electrónico no se te enviará sobre este hilo.
 
-The **Yesterday on Loomio** email is a daily summary of content you haven't read from the previous day. The email contains everything that is not muted. You can turn this on or off from the **Email settings** page.
+* **Mute thread**: No se te enviará correo electrónico sobre este hilo a no ser que alguien te @mencione. Será removido de tus paginas Hilos recientes y [**No leído**](reading_loomio.html#unread-threads). 
+
+Puedes silenciar hilos desde la vista previa del mismo que se muestra en la pagina de tu grupo, y las páginas de Hilos Recientes y No leídos, pasando el ratón por encima y seleccionando la opción **Silenciar**. 
+Puedes marcar hilos como leídos seleccionando la opción **Marcar como leído**. Marcando un hilo como leído lo removerá de tu página [**No leído**](reading_loomio.html#unread-threads).
+
+Si tienes notificaciones de un hilo en particular marcado como ** Enviar todo**, puedes responder a cualquier comentario via correo electrónico y tu respuesta aparecerá en en hilo de Loomio. También puedes elegir ver el comentario en el contexto del hilo en Loomio haciendo clic en el enlace **velo en www.Loomio.org** al pie del correo electrónico. 
+
+
+## Configuración de correo electrónico
+
+Tu página de **Configuración de correo electrónico** te permite establecer la configuración de las notificaciones para tus grupos e hilos; para ver esta página, selecciona la opción **Configuración de correo electrónico** desde el menú de usuario en la barra de navegación. 
+
+## Ayer en Loomio 
+
+El correo electrónico **Ayer en Loomio** es un resumen diario del contenido que no has leído el día anterior. Este correo contiene todo lo que no está silenciado. Puedes activar o desactivar esta función desde la página **Configuración de correo electrónico**. 
 
