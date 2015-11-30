@@ -1,37 +1,37 @@
-# Your user profile
+# Tu perfil de usuario
 
-Your profile page lets you customise your Loomio identity. To visit your profile page select **Profile** from the user menu in the navigation bar.
+Tu página de perfil te deja personalizar tu identidad en Loomio. para visitar tu perfil selecciona **Perfil*** desde el menú de usuario en la página de navegación.
 
-## Updating your personal settings
-You can update the name, username, email address and language settings associated with your account by editing the corresponding fields on your profile page, and clicking **Update profile**.
+## Actualizar tu configuración personal
+Puedes actualizar el nombre, usuario, dirección de correo electrónico y lenguaje asociados con tu cuenta, editando el campo correspondiente en tu página de perfil y haciendo clic en **Actualizar perfil**. 
 
-## Uploading a profile photo
-When you first create a Loomio account, your initials will be the default image associated with your profile. You can upload a profile photo by clicking **Change picture** in the **Picture** section of your profile page. If you have a [Gravatar](https://en.gravatar.com/) you can set that as your profile picture by selecting **Use Gravatar**.
+## Añade una foto de perfil
+Cuando crea tu cuenta en Loomio por primera vez, tus iniciales serán la imagen por defecto asociada con tu perfil. Puedes añadir una foto de perfil haciendo click en **Cambiar imagen** bajo tu foto en la página de tu perfil. Si tienes un [Gravatar](https://en.gravatar.com/) puedes configurarlo como tu foto de perfil, para esto selecciona **Usar Gravatar**
 
-## Language settings
-Loomio is available in many languages. It will detect your browser’s language settings, or you can manually set your preferred language by visiting your [profile page](#your-user-profile) and selecting your language from the **Language** dropdown.
+## Configuración de lenguaje
+Loomio está disponible en varios lenguajes. Detectará automáticamente la configuración de  lenguaje de tu navegador, o puedes configurarlo automáticamente visitando tu [página de perfil](#your-user-profile) y seleccionando tu lenguaje del menú desplegable de **Lenguaje**
 
-## Usernames
-Your username is the name people will use to mention ([@mention](comments.html#-mentioning-group-members)) you in comments. You can change your username by editing the **Username** field on your [profile page](#your-user-profile) and clicking **Update profile**.
+## Nombre de usuario
+Tu nombre de usuario es el nombre que la gente utilizara para ([@mencionarte](comments.html#-mentioning-group-members)) en comentarios; puedes cambiarlo editando el campo **Nombre de usuario** en tu [página de perfil](#your-user-profile) y haciendo clic en **Actualizar perfil**.
 
-## Changing your password
-If you are logged in to Loomio you can change your password by visiting your profile page and clicking **Change your password**. If you are logged out then you can visit the [**Forgot your password?**](https://www.loomio.org/users/password/new) page.
+## Cambiar tu contraseña
+Si has iniciado sesión en Loomio puedes cambiar tu contraseña visitando tu página de perfil y haciendo clic en **Cambiar tu contraseña**. Si no has iniciado sesión puedes visitar la página [**¿Olvidaste la contraseña?**](https://www.loomio.org/users/password/new)
 
-## Deactivating your account
-If you are not the sole coordinator of any groups you can deactivate your account by visiting your [profile page](#your-user-profile) and clicking **Deactivate account**. If you are the sole coordinator of a group you will be prevented from deactivating your account until you’ve appointed another group coordinator, or archived the group.
+## Desactivar tu cuenta
+Si no eres el único coordinador de algún grupo puedes desactivar tu cuenta visitando tu [página de perfil](#your-user-profile) y haciendo clic en **Desactivar cuenta**. Si eres el único coordinador de un grupo, no podrás desactivar tu cuenta hasta que hayas apuntado a otro miembro como el coordinador o archivado el grupo.
 
-Once your account has been deactivated:
+Una vez que tu cuenta ha sido desactivada:
 
-* you will no longer be listed as a member of any groups
-* comments, proposals and discussions you’ve made will remain but your name will be removed from them
-* you will no longer receive Loomio-related emails
-* you will need to [contact us](https://loomio.org/contact) to reactive your account.
+* Ya no serás listado como miembro de ningún grupo.
+* Comentarios, propuestas y discusiones en las que has formado parte, permanecerán pero tu nombre será removido.
+* Ya no recibirás correo electrónico relacionado con Loomio.
+* Necesitarás [contactarnos](https://loomio.org/contact) para reactivar tu cuenta.
 
-## Reactivating your account
-To reactivate a deactivated account, [contact the Loomio team](https://loomio.org/contact).
+## Reactivar tu cuenta
+Para reactivar una cuenta desactivada [contacta al equipo de Loomio](https://loomio.org/contact).
 
-## Leaving a group
+## Dejar un grupo 
 
 <img class="screenshot" alt="Group options dropdown" src="options_dropdown.png" />
 
-If you are not the sole coordinator of a group then you can leave the group by selecting **Leave group** from the Options menu on the group page. If you are the sole coordinator of your group, you will be prevented from leaving until you appoint another coordinator or deactivate the group.
+Si no eres el único coordinador de un grupo, puedes dejarlo haciendo clic en **Dejar el grupo** desde el menú de opciones en la página del grupo. Si eres el único coordinador del grupo, no se te permitirá dejarlo hasta que no hayas apuntado a un nuevo coordinador o desactivado tu grupo.
