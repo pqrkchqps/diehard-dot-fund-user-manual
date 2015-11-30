@@ -12,5 +12,6 @@
 * [Leer Loomio](reading_loomio.md)
 * [Estando al día](keeping_up_to_date.md)
 * [Tu perfil de usuario](your_user_profile.md)
+* [Pricing](pricing.md)
 * [Preguntas Frecuentes](frequently_asked_questions.md)
 
