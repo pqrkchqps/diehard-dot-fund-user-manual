@@ -1,31 +1,31 @@
-# Frequently asked questions
+# Preguntas frecuentes sobre de los planes de pago
 
-## Our group has no money! Can we still use Loomio?
+## Nuestro grupo no tiene dinero! ¿Podemos utilizar Loomio de todas formas?
 
-Yes. You can choose the Gift plan (see our [Pricing](http://loomio.org/pricing) page).
+Si. Pueden elegir el Plan Donación (lee nuestra página [Planes de pago](http://loomio.org/pricing)
 
-## How does the Gift plan work?
+## ¿Cómo funciona el Plan de Donación?
 
-If your group chooses the Gift plan, your members will see a card like this on their group page:
+Si tu grupo elige el Plan de Donación, Tus miembros verán un panel como este en la pagina de tu grupo:
 
 <img class="screenshot" alt="Gift plan card" src="gift-plan-card.png" />
 
-## Do you have prices for annual subscriptions?
+## ¿Tienen precios por suscripciones anuales?
 
-Yes. Our Standard plan costs US$190 for a year (a saving of $38 on the monthly price), and the Plus plan is US$1790 per year (saving $358).
+Si. Nuestro plan Estándar cuesta US$190 al año (un ahorro de $38 en el total por mes), y el plan Más es US$1790 por año (un ahorro de $358)
 
-## Can I extend my trial?
+## ¿Puedo extender mi prueba gratis?
 
-Yes. Just email [contact@loomio.org](mailto:contact@loomio.org) and ask.
+Si. Solo contactanos a [contact@loomio.org](mailto:contact@loomio.org) y pídenos una extensión.
 
-## What credit cards do you take?
+## ¿Que tarjeta de crédito aceptan?
 
-Visa and Mastercard. We’re working on American Express.
+Visa y Mastercard. I estamos trabajando para aceptar American Express también.
 
-## Are you GST-registered?
+## ¿Están registrados como GST?
 
-Yes we are. In New Zealand GST is added to the price for all paid subscriptions. GST is not added to donations.
+En Nueva Zelanda el impuesto de GST es agregado al precio de toda suscripción. GST no es agregado a las donaciones. 
 
-## Can I get invoices?
+## ¿Puedo tener un recibo?
 
-When you first set up a subscription you will get an email from Chargify, our payment processor, with the subject line **[Loomio] Manage Your Subscription**. That will include a link to log in to your billing portal, which will let you download statements.
+Cuando eliges una suscripción por primera vez recibirás un correo electrónico de Chargify, nuestro procesador de pago, con el título **[Loomio] Administra tu Suscripción***. Este correo incluirá un enlace para iniciar sesión en tu portal de facturación, desde donde podrás descargar el resumen de cuenta.  
