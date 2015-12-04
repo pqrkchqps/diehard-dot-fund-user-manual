@@ -1,63 +1,63 @@
-# Frequently asked questions
+# Preguntas frecuentes
 
-## Where is my confirmation email?
+## ¿Dónde está mi correo de confirmación?
 
-If you don’t receive an email confirming your group registration, you might need to check your spam or junk mail folder – sometimes they end up in there.
+Si no recibes un correo electrónico confirmando la registración de tu grupo, deberías ver en tu carpeta de spam o correo basura, a veces terminan ahí.
 
-## I’ve forgotten my password, what do I do?
+## He olvidado mi contraseña ¿ahora qué hago? 
 
-If you’ve forgotten your password click the **"Forgot your password?"** link on the [Log in page](https://www.loomio.org/users/sign_in). You will be asked to enter the email address associated with your Loomio account and password reset instructions will be sent to this email address.
+Si has olvidado tu contraseña, haz clic en el enlace **”¿Olvidaste tu contraseña?”** en la página [Iniciar sesión](https://www.loomio.org/users/sign_in). Se te pedirá ingresar tu dirección de correo electrónico asociada a tu cuenta de Loomio, e instrucciones para reestablecer tu contraseña te serán enviadas a esa dirección.
 
-## Do I need a Loomio account to participate in discussions?
+## ¿Necesito una cuenta de Loomio para participar en discusiones?
 
-Yes. Even though there are different levels of group privacy, everyone who wishes to participate in a Loomio group needs to have a Loomio account.
+Sí, aunque hay diferentes niveles de privacidad en los grupos, cualquier persona que desea participar en un grupo de Loomio necesita tener una cuenta.
 
-## Does it cost to use Loomio?
+## ¿Cuesta dinero utilizar Loomio?
 
-Check out our pricing plans [here](https://www.loomio.org/pricing).
+Lee sobre nuestros planes de pago [aquí](https://www.loomio.org/pricing).
 
-## Can I sign in with Google, Facebook or Twitter?
+## ¿Puedo iniciar sesión con Google, Twitter o Facebook?
 
-Yes, see [Single sign-on](getting_started.html#single-sign-on).
+SI, lee sobre [Inicio de Entrada Única](getting_started.html#single-sign-on).
 
-## How can I set up my own instance of Loomio?
+## ¿Cómo puedo instalar mi propia versión de Loomio?
 
-There is an installation guide on our [Github wiki](https://github.com/loomio/loomio/wiki) and a [Loomio Community sub-group](https://www.loomio.org/g/C7I2YAPN/loomio-community-installing-loomio) dedicated to support and assistance with local installations. If you're thinking about installing your own version of Loomio, we highly recommend joining this group.
+Hay una guía de instalación en nuestro [Github wiki](https://github.com/loomio/loomio/wiki) y un [ subgrupo en la Communidad de Loomio](https://www.loomio.org/g/C7I2YAPN/loomio-community-installing-loomio) dedicada a apoyar y asistir con instalaciones locales. Si estás pensando instalar tu propia versión de Loomio, te recomendamos unirte a este grupo.    
 
-## What size groups work well on Loomio?
+## ¿Qué tamaño de grupos funciona bien en Loomio?
 
-Loomio currently works well for groups up to about 1000 people.
+Actualmente Loomio funciona bien para grupos de hasta 1000 personas.
 
-## I have approved membership requests for people who wanted to join my group but they haven’t shown up as members, what’s going on?
+## He aprobado membresías para gente que quiere unirse a mi grupo pero todavía no aparecen como miembros, ¿Por qué?
 
-If someone who has requested membership to your group hasn’t already got a Loomio account, they will need to create one before they can join your group. After you approve their membership request, they will receive a confirmation email. Following the link in this email will prompt them to create a Loomio account. When their account has been created they will show up as members of your group.
+Si alguien que ha pedido la membresía a tu grupo aún no tiene una cuenta de Loomio, necesitará crear una antes de poder unirse a tu grupo. Después de que apruebes su membresía, recibirán un correo electrónico de confirmación. Al seguir el enlace en ese correo, se les pedirá que creen una cuenta en Loomio. Cuando su cuenta sea creada, aparecerán como miembros de tu grupo.
 
-## How can I stop my signature being included in email replies to threads?
+## ¿Cómo hago para que mi firma no sea incluida en la respuesta a los hilos desde el correo electrónico?
 
-There is currently no official standard for distinguishing email signatures from the rest of the email body. To a computer the whole email is just a block of text. The easiest method we have for marking the end of the email body and the beginning of the signature is the double-dash method popularised by Gmail, which involves inserting a double-dash ('--') on its own line between the body of an email and the signature. Other common formats are recognised too, but Gmail's method is very easy to implement. Most programs trying to separate email body from signature (including Loomio) will correctly ignore email signatures if these dashes are included in the right place.
+Al corriente no hay un estándar oficial para distinguir las firmas del correo del resto del texto. Para una computadora todo el correo es un bloque de texto. El método más fácil que tenemos es marcar el fin del mensaje y el comienzo de la firma es el método de doble raya popularizado por Gmail, que involucra insertar una doble raya ('--') en su propia línea entre el cuerpo del mensaje y la firma. Otros formatos son reconocidos también, pero el método de gmail es fácil de implementar. La mayoría de los programas que traten de separar el texto del mensaje de la firma (inclusive Loomio) ignoraran firmas de correos si estas rayas están incluidas en el lugar indicado. 
 
-To be sure that your email signature is not included in your comment when you reply by email, you need to begin your signature with a double hyphen on its own line.
+Para estar segura de que la firma no es incluida en el comentario cuando respondas por correo, tienes que asegurarte de que en la línea anterior a tu firma hay una doble raya. 
 
-## Will Loomio work on my mobile device?
+## ¿Funciona Loomio en mi teléfono móvil? 
 
-Loomio is mobile responsive, so it will work on any device through a browser.
+Loomio es accesible para usar en el móvil, así que funcionará en cualquier dispositivo a través de un navegador web. 
 
-## How can I reactivate my account?
+## ¿Cómo puedo reactivar mi cuenta?
 
-To have your account reactivated, [contact us](https://loomio.org/contact).
+Para reactivar tu cuenta, [contáctanos](https://loomio.org/contact).
 
-## I’ve deactivated my group, can I restore it?
+## He desactivado mi grupo, ¿puedo reactivarlo?
 
-Deactivated groups can only be restored by a member of the Loomio team. [Contact us](https://loomio.org/contact) to reactivate your group.
+Grupos desactivados solo pueden ser reactivados por un miembro del equipo de Loomio [Contáctactanos](https://loomio.org/contact) para reactivar tu grupo.
 
-## What if I have a feature to suggest?
+## ¿Qué hago si tengo funcionalidades para recomendar?
 
-We also have an open Loomio Community sub-group dedicated to [Feature Ideas](https://www.loomio.org/g/GN7EFQTK/loomio-community-feature-ideas). You can contribute to discussions about new features there, or make suggest your own feature ideas.
+También tenemos un subgrupo abierto de la Comunidad de Loomio dedicado a las [Ideas Futuras](https://www.loomio.org/g/GN7EFQTK/loomio-community-feature-ideas). Ahí puedes contribuir a las discusiones sobre nuevas funcionalidades, o sugerir las tus propias ideas.
 
-## Is there a Loomio API?
+## ¿Hay un Loomio API?
 
-We're actively developing and using the API that the new Loomio 1.0 client uses. This implements everything a Loomio client talking to the web service would need. There is currently no server-to-server api, but Loomio is [open source](http://github.com/loomio/loomio) and we welcome contributions.
+Estamos activamente desarrollando y usando el API que el nuevo cliente de Loomio 1.0 usa. Esto implementa todo lo que un cliente de Loomio necesita para comunicarse con un servidor de internet. Actualmente no hay un API servidor-a-servidor, pero Loomio es [de codigo abierto](http://github.com/loomio/loomio) y bienvenimos a contribuidores.
 
-## Is it possible to have a Loomio subdomain?
+## ¿Es posible tener un subdominio personal en Loomio?
 
-Yes. We can, for example, set up **[your-group-name].loomio.org** as the URL for your group. [Contact us](https://loomio.org/contact) if you're interested.
+Sí, se puede, por ejemplo, configurar **[el-nombre-de-tu-grupo].loomio.org** como el URL para tu grupo. [Contáctanos](https://loomio.org/contact) si estás interesada.
