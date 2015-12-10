@@ -1,14 +1,12 @@
 # Configuraciones del grupo
 
-<img class="screenshot" alt="Group options dropdown" src="options_dropdown.png" />
+<img class="screenshot" alt="Group options dropdown" src="edit_group_settings.gif" />
 
 Los coordinadores pueden editar la configuración del grupo: **Perfil **, **Privacidad** y **Permisos**.
 
 Para editar la configuración de tu grupo abre el menú de **Opciones** en la página del grupo y selecciona **Editar la configuración del grupo**. 
 
 ## Perfil del grupo
-
-<img class="screenshot" alt="Edit Group Settings dialogue" src="edit_group_settings.png" />
 
 El perfil de tu grupo es el nombre y descripción del mismo.
 

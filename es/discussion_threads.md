@@ -28,6 +28,6 @@ Si la [configuración de tu grupo](group_settings.html) permite hilos públicos 
 
 Los **Miembros de grupo** pueden editar el título, contexto y privacidad de cualquier hilo que comienzen. Los **Coordinadores de grupo** pueden editar el título, contexto y privacidad de cualquier hilo en el grupo. Los **Coordinadores del grupo** también pueden determinar si los miembros del grupo pueden o no, editar los hilos de otros (ver [configuración del grupo](group_settings.html)).
 
-<img class="screenshot" alt="Discussion thread options dropdown" src="edit_thread.png" />
+<img class="screenshot" alt="Discussion thread options dropdown" src="edit_thread.gif" />
 
 A la opción **Editar hilo** accedes a través del menú desplegable de opciones del hilo.  
