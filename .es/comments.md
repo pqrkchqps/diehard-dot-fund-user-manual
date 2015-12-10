@@ -20,7 +20,7 @@ Si quieres llamar la atención de una persona en particular de tu grupo, marca u
 
 ## Editar comentarios
 
-<img class="screenshot" alt="Comment options dropdown" src="edit_comment.png" />
+<img class="screenshot" alt="Comment options dropdown" src="edit_comment.gif" />
 
 Automáticamente los grupos son configurados para que un comentario sólo pueda ser editado hasta que alguien más envíe un comentario en el hilo. Los coordinadores también pueden [configurar el grupo para permitir a los miembros editar sus comentarios en cualquier momento](group_settings.html#group-permissions-%E2%80%93-what-can-members-do). Si puedes editar tu comentario, la opción **Editar comentario** está en el menú desplegable **Opción de comentario**.
 

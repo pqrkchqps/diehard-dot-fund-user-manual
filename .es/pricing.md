@@ -8,7 +8,7 @@ Si. Pueden elegir el Plan Donación (lee nuestra página [Planes de pago](http:/
 
 Si tu grupo elige el Plan de Donación, Tus miembros verán un panel como este en la pagina de tu grupo:
 
-<img class="screenshot" alt="Gift plan card" src="gift-plan-card.png" />
+<img class="screenshot" alt="Gift plan card" src="gift_plan_card.png" />
 
 ## ¿Tienen precios por suscripciones anuales?
 
