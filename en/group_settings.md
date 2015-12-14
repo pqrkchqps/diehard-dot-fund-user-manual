@@ -1,14 +1,12 @@
 # Group settings
 
-<img class="screenshot" alt="Group options dropdown" src="options_dropdown.png" />
+<img class="screenshot" alt="Group options dropdown" src="edit_group_settings.gif" />
 
 Group coordinators can edit group settings: **Profile**, **Privacy** and **Permissions**.
 
 To edit your group settings, open the **Options** menu on the group page and select **Edit Group Settings**.
 
 ## Group profile
-
-<img class="screenshot" alt="Edit Group Settings dialogue" src="edit_group_settings.png" />
 
 Your group profile consists of your group name and group description.
 
