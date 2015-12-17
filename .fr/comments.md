@@ -1,33 +1,34 @@
-# Comments
+# Commentaires
 
-## Posting comments
+## Ecrire un commentaire
 
-To contribute to a thread, enter your comment into the comment form at the bottom of a thread and click the **Post** button. If Loomio has emailed you a comment, you can also reply directly from your email and your message will appear in the thread.
+Pour contribuer à une discussion, commencez par écrire dans le champ de formulaire situé au bas de la page, puis cliquez sur le bouton **Ecrire un message**. Si Loomio vous a envoyé un commentaire par email, vous pouvez aussi répondre directement depuis votre email et votre réponse apparaitra alors dans la discussion sur Loomio.
 
-## Markdown
+## Marquage du texte
 
-Loomio uses **Markdown** to let you format text and embed images. For more information on how to use Markdown, read [this guide](https://www.loomio.org/markdown).
+Loomio utilise un système de **marquage** pour formater le texte et insérer des images. Pour plus d'informations, lisez [ce guide](https://www.loomio.org/markdown).
 
-## Attaching files
+## Joindre des fichiers
 
 <img class="screenshot" alt="Attachment icon" src="attachment_icon.png" />
 
-You can attach files to comments using the attachment button next to the **Post** button on the comment form. You will be prompted to select a file from your device.
+Vous pouvez joindre des fichiers à vos commentaires en utilisant le bouton avec le trombone, situé à droite du bouton **Ecrire un message**.
 
-## @mentioning group members
+## @taguer un membre
 
-If you want to get the attention of a specific person in your group, type **@** into the comment field, followed by their name. As you type, a menu will appear, listing the members in your group that match that name. Select the member you want, then **Post** your comment. They will be notified that you’ve mentioned them in a comment.
+Si vous souhaitez attirer l'attention d'un membre spécifique, utilisez le symbole @ dans votre texte de commentaire suivi des premières lettres de son nom. Un menu apparait et vous propose une liste des membres correspondants à ce nom. Sélectionnez le nom de la personne dont vous souhaitez attirer l'attention et **envoyez votre message**. La personne concernée recevra une notification.
 
-## Editing comments
+## Editer un commentaire
 
-<img class="screenshot" alt="Comment options dropdown" src="edit_comment.gif" />
+<img class="screenshot" alt="Comment options dropdown" src="edit_comment.png" />
 
-By default, groups are configured so that a comment can only be edited until someone else contributes a comment to the thread. Group coordinators can also [configure groups to allow users to edit their comments at any time](group_settings.html#group-permissions-%E2%80%93-what-can-members-do). If you are able to edit your comment, the **Edit comment **option is in the **Comment options** dropdown.
+Par défaut, chaque groupe est configuré de manière à ce qu'un commentaire ne puisse être modifié que lorsque quelqu'un d'autre a posté dans la discussion. Le coordinateur du groupe peut [autoriser les membres à modifier leurs commentaires à tout moment.] (group_settings.html#group-permissions-%E2%80%93-what-can-members-do). Si cette option est activée, vous pouvez modifier votre commentaire en cliquant sur la petite flèche vers le bas, puis dans la liste déroulante, sur **Modifier le commentaire**.
 
-## Liking comments
+## «J'aime»
 
-You can show another member of your group that you appreciate or understand what they’ve said by using the **Like** button below the comment. This will add your name to the list of people who like the comment. You can undo the **Like** action by clicking **Unlike** on the comment.
+Pour montrer que vous appréciez une contribution, vous pouvez cliquer sur **J'aime** au bas de celle-ci. Votre nom apparaitra alors au-dessous du message. Vous pouvez annuler cette action en cliquant sur **Je n'aime plus**.
 
-## Deleting comments
+## Effacer un commentaire
 
-You can delete your own comments by selecting the **Delete comment** option from the **Comment options** dropdown. Group coordinators can delete any comment in the group.
+Vous pouvez effacer vos propres commentaires en cliquant sur la petite flèche vers le bas, puis dans la liste déroulante, sur **Effacer le commentaire**. Le coordinateur du groupe peut effacer tous les commentaires.
+
