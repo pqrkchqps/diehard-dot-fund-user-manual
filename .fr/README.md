@@ -1,22 +1,17 @@
-![Loomio Logo](logo.png)
+![Loomio Logo](logo.png) 
 
-A comprehensive guide to using [Loomio](https://loomio.org/).
+Le guide complet de [Loomio](https://loomio.org/).
 
-## What is Loomio?
+## Loomio, c'est quoi?
 
-Loomio is a simple, user-friendly online tool for collaborative decision-making. Loomio lets you host discussions online, invite the right people to participate, come to timely decisions and transform deliberation into real-world action.
+Loomio est un outil en ligne, simple, facile à utiliser, qui permet des prises de décision collaborative. Loomio vous permet d'engager des discussions en y invitant les personnes concernées. Au moment opportun, Loomio vous permet de prendre des décisions et de transformer vos délibérations en actions dans le monde réel.
 
-## How Loomio works
+## Comment Loomio fonctionne-t-il ?
 
-* **Start a group** to collaborate with people on Loomio
+* **Créez un groupe** pour commencer à collaborer sur Loomio
+* **Invitez des personnes** à vous rejoindre dans votre groupe
+* **Commencez une discussion** sur le sujet qui vous préoccupe
+* **Faites une proposition** afin d'avoir une idée du ressenti de chacun
+* **Décidez ensemble** - tout le monde peut donner son accord, s'abstenir, exprimer son désaccord, ou bloquer la proposition - vous aurez un résultat rapide et verrez en un coup d'oeil ce que chacun pense de la proposition.
 
-* **Invite people** into your group
-
-* **Start a discussion** on any topic
-
-* **Make a proposal** to see how everyone feels about a particular course of action
-
-* **Decide together** - anyone can agree, abstain, disagree, or block – so you can see how everyone feels about the proposal.
-
-
-[Check out this video](https://www.youtube.com/watch?v=pF-wpXo8Rdw) for a quick demonstration of how to use Loomio.
+[Regardez cette vidéo](https://www.youtube.com/watch?v=pF-wpXo8Rdw) pour une démonstration rapide du fonctionnement de Loomio.
