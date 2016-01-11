@@ -1,6 +1,6 @@
 # Subgroups
 
-<img class="screenshot" alt="subgroups" src="add_subgroup.gif" />
+<img class="screenshot" alt="subgroups" src="add-subgroup.gif" />
 
 Loomio allows you to create subgroups within your groups. Subgroups let you break your group up into different teams. Loomio subgroups can contain members of the parent group and people who don’t belong to the parent group. Depending on your [group settings](group_settings.html), subgroups can be created either by everyone in the group, or by coordinators only.
 
