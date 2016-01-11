@@ -1,5 +1,7 @@
 # Your user profile
 
+<img class="screenshot" alt="user profile" src="user_profile.gif" />
+
 Your profile page lets you customise your Loomio identity. To visit your profile page select **Profile** from the user menu in the navigation bar.
 
 ## Updating your personal settings

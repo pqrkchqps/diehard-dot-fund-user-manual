@@ -4,13 +4,13 @@
 
 Los coordinadores pueden editar la configuración del grupo: **Perfil **, **Privacidad** y **Permisos**.
 
-Para editar la configuración de tu grupo abre el menú de **Opciones** en la página del grupo y selecciona **Editar la configuración del grupo**. 
+Para editar la configuración de tu grupo abre el menú de **Opciones** en la página del grupo y selecciona **Editar la configuración del grupo**.
 
 ## Perfil del grupo
 
 El perfil de tu grupo es el nombre y descripción del mismo.
 
-La descripción provee a los nuevos miembros un entendimiento claro de cuál es la finalidad del grupo. Cuando agregues la descripcion del grupo, describe cual es la intención de este grupo, por ej. *Un grupo público para que aprobemos pedidos para el uso de la galería* o *El espacio para que los miembros de la junta aprueben propuestas del presupuesto*. 
+La descripción provee a los nuevos miembros un entendimiento claro de cuál es la finalidad del grupo. Cuando agregues la descripcion del grupo, describe cual es la intención de este grupo, por ej. *Un grupo público para que aprobemos pedidos para el uso de la galería* o *El espacio para que los miembros de la junta aprueben propuestas del presupuesto*.
 
 ## Privacidad del grupo
 
@@ -27,6 +27,8 @@ Nota: si tienes un grupo Secreto y lo cambias a Abierto, todos tus hilos existen
 
 ## Permisos del grupo -- ¿Qué pueden hacer los miembros?
 
+<img class="screenshot" alt="Group options dropdown" src="editar_permisos.gif" />
+
 Los coordinadores del grupo configuran los permisos del grupo y deciden así lo que los miembros pueden hacer en su grupo.
 
 ### Permitir hilos publicos
@@ -37,7 +39,7 @@ Cuando comienzas un nuevo hilo, puedes decidir si es públicoo privado.
 ### Invitar y aprobar a nuevos miembros
 
 Esto les permite a todos en tu grupo invitar nuevas personas y aprobar pedidos de membresía.
-Cuando no sea seleccionado solo los coordinadores del grupo podrán invitar gente y aprobar membresías. 
+Cuando no sea seleccionado solo los coordinadores del grupo podrán invitar gente y aprobar membresías.
 
 ### Crear sub-grupos
 
@@ -45,7 +47,7 @@ Esto les permite a todos en tu grupo crear subgrupos. Cuando no sea seleccionado
 
 ### Comenzar hilos
 
-Esto les permite a todos en tu grupo comenzar nuevos hilos. Cuando no sea seleccionado solo los coordinadores serán capaces de comenzar discusiones. 
+Esto les permite a todos en tu grupo comenzar nuevos hilos. Cuando no sea seleccionado solo los coordinadores serán capaces de comenzar discusiones.
 
 ### Editar el contexto de cualquier hilo en tu grupo
 
@@ -53,7 +55,7 @@ Esto les permite a todos en tu grupo editar el contexto de cualquier hilo. Cuand
 
 ### Editar sus comentarios en cualquier momento
 
-Esto les permite a todos en tu grupo [editar sus comentarios](comments.html#editing-a-comment). 
+Esto les permite a todos en tu grupo [editar sus comentarios](comments.html#editing-a-comment).
 Cuando no es seleccionado un comentario solo puede ser editado hasta que alguien más comenta en el hilo.
 
 ### Iniciar propuestas

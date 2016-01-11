@@ -4,7 +4,7 @@ Como coordinador de un grupo de Loomio, eres responsable de guiar tu grupo a tra
 
 ## Añadir una foto de portada
 
-Cuando entras por primera vez a tu nuevo grupo de Loomio habrá una imagen de portada seleccionada al azar y un lugar para el logo de tu grupo. Puedes customizar como se ve tu grupo agregando tu propia foto de portada y logo. Puedes subir una nueva foto o logo seleccionando el botón con el icono de una cámara de fotos en el área determinada. 
+Cuando entras por primera vez a tu nuevo grupo de Loomio habrá una imagen de portada seleccionada al azar y un lugar para el logo de tu grupo. Puedes customizar como se ve tu grupo agregando tu propia foto de portada y logo. Puedes subir una nueva foto o logo seleccionando el botón con el icono de una cámara de fotos en el área determinada.
 
 ## Manejar membresías
 
@@ -14,7 +14,7 @@ Los coordinadores pueden añadir y remover miembros, y dar o quitar permisos de 
 
 ### Añadir/quitar coordinadores
 
-En la página de **Miembros** hay una casilla junto a cada miembro. Cuando esta casilla es seleccionada, el miembro es un coordinador. Al deseleccionar la casilla remueves los permisos de coordinador de ese miembro. 
+En la página de **Miembros** hay una casilla junto a cada miembro. Cuando esta casilla es seleccionada, el miembro es un coordinador. Al deseleccionar la casilla remueves los permisos de coordinador de ese miembro.
 
 ### Añadir/remover miembros
 
@@ -24,7 +24,7 @@ En la página de **Miembros** junto a cada miembro hay un botón **Eliminar** ![
 
 Si tu [configuración de privacidad del grupo](group_settings.html#group-privacy) le permite a la gente unirse a través de **Pide unirte**, un coordinador tiene que aprobar cada pedido de membresía. Los coordinadores recibirán un correo electrónico cada vez que haya un nuevo pedido de membresía. El enlace en el correo electrónico de notificación te llevará a la página **Pedidos de membresía** donde puedes aceptar o denegar el pedido.   
 
-Si hay un pedido pendiente de membresía también será visible en la página de tu grupo en el panel **Pedidos de membresía** 
+Si hay un pedido pendiente de membresía también será visible en la página de tu grupo en el panel **Pedidos de membresía**
 
 ## Desactivar/archivar tu grupo.
 

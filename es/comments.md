@@ -2,7 +2,7 @@
 
 ## Escribir comentarios
 
-Para contribuir a un hilo, escribe tu comentario en la casilla de comentarios al final del hilo y has click en el botón **Enviar**. Si Loomio te ha enviado un correo electrónico con un comentario, tambien puedes responder directamente desde tu correo y tu mensaje aparecerá en el hilo. 
+Para contribuir a un hilo, escribe tu comentario en la casilla de comentarios al final del hilo y has click en el botón **Enviar**. Si Loomio te ha enviado un correo electrónico con un comentario, tambien puedes responder directamente desde tu correo y tu mensaje aparecerá en el hilo.
 
 ## Markdown
 

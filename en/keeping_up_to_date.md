@@ -6,6 +6,8 @@ Notifications control how much you hear from a group or a specific discussion th
 
 ### Group notifications
 
+<img class="screenshot" alt="group notifications" src="edit_group_notifications.gif" />
+
 Your current group notifications setting will appear in a **Group notifications** card on your group page, underneath the **Members card**. You can change your group notifications setting by clicking the **Change** link inside the **Group notifications** card, and selecting one of the four options:
 
 * **Email everything**: You will be emailed whenever there is activity (comments, votes, new threads, proposals, and proposal outcomes) in this group.
@@ -17,6 +19,8 @@ Your current group notifications setting will appear in a **Group notifications*
 * **Mute group**: You won't be emailed about this group, and it will be removed from your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
 
 ### Thread notifications
+
+<img class="screenshot" alt="notifications" src="edit_thread_notifications.gif" />
 
 When you start a new thread, it will inherit a default notifications setting from its group. Your current thread notifications setting will appear in a **Thread notifications** card on the thread page. You can change your thread notifications setting by clicking the **Change** link inside the **Thread notifications** card, and selecting one of the four options:
 
@@ -41,4 +45,3 @@ Your **Email settings** page enables you to set default email notification setti
 ## Yesterday on Loomio
 
 The **Yesterday on Loomio** email is a daily summary of content you haven't read from the previous day. The email contains everything that is not muted. You can turn this on or off from the **Email settings** page.
-

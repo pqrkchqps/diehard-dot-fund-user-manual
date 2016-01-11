@@ -1,9 +1,11 @@
 # Tu perfil de usuario
 
+<img class="screenshot" alt="perfil de usuario" src="perfil_usuario.gif" />
+
 Tu página de perfil te deja personalizar tu identidad en Loomio. para visitar tu perfil selecciona **Perfil*** desde el menú de usuario en la página de navegación.
 
 ## Actualizar tu configuración personal
-Puedes actualizar el nombre, usuario, dirección de correo electrónico y lenguaje asociados con tu cuenta, editando el campo correspondiente en tu página de perfil y haciendo clic en **Actualizar perfil**. 
+Puedes actualizar el nombre, usuario, dirección de correo electrónico y lenguaje asociados con tu cuenta, editando el campo correspondiente en tu página de perfil y haciendo clic en **Actualizar perfil**.
 
 ## Añade una foto de perfil
 Cuando crea tu cuenta en Loomio por primera vez, tus iniciales serán la imagen por defecto asociada con tu perfil. Puedes añadir una foto de perfil haciendo click en **Cambiar imagen** bajo tu foto en la página de tu perfil. Si tienes un [Gravatar](https://en.gravatar.com/) puedes configurarlo como tu foto de perfil, para esto selecciona **Usar Gravatar**
@@ -30,7 +32,7 @@ Una vez que tu cuenta ha sido desactivada:
 ## Reactivar tu cuenta
 Para reactivar una cuenta desactivada [contacta al equipo de Loomio](https://loomio.org/contact).
 
-## Dejar un grupo 
+## Dejar un grupo
 
 <img class="screenshot" alt="Group options dropdown" src="options_dropdown.png" />
 

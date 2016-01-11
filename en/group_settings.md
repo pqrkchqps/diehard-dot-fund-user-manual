@@ -27,6 +27,8 @@ Note, if you have a Secret group and change it to Open, all your existing thread
 
 ## Group permissions – what can members do?
 
+<img class="screenshot" alt="Group options dropdown" src="edit_permissions.gif" />
+
 Coordinators set the group permissions to configure what members can do in their group.
 
 ### Allow public threads
