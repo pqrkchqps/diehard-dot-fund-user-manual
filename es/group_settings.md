@@ -16,9 +16,9 @@ La descripción provee a los nuevos miembros un entendimiento claro de cuál es 
 
 Tu configuración de privacidad determina quién puede encontrar tu grupo, quién puede ver los hilos en tu grupo, y como se une la gente al mismo.
 
-Cuando comienzas un grupo nuevo, será automáticamente configurado como **Cerrado**: los hilos solo son visibles para los miembros del grupo, pero el nombre, descripción y listado de miembros será público. Esto significa que la gente puede encontrar tu grupo y pedir membresía, pero el contenido de las discusiones y las decisiones serán privadas.
+Cuando comienzas un grupo nuevo, será automáticamente configurado como **Cerrado**: los hilos y el listado de miembros solo es visibles para los miembros del grupo; pero el nombre y la descripción serán público. Esto significa que la gente puede encontrar tu grupo y pedir membresía, pero el contenido de las discusiones y las decisiones serán privadas, a no ser que permitas hilos públicos.
 
-Si quieres que el contenido de las discusiones y las decisiones seán públicas en línea, cambia la privacidad de tu grupo a **Abierto**.
+Si quieres que el contenido de las discusiones y las decisiones seán públicas en línea, cambia la privacidad de tu grupo a **Abierto**. El listado de los miembros del grupo solo será visible para otros miembros del mismo.
 
 Si quieres esconder tu grupo totalmente, configura la privacidad como **Secreto**. Esto significa que solo los miembros invitados serán capaces de ver el nombre, descripcion, lista de miembros e hilos del grupo.
 
