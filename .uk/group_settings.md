@@ -18,9 +18,9 @@ The description gives new members a clear understanding of what that group is fo
 
 Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.
 
-When you start a new group, it will be automatically set to **Closed**: threads are only visible to group members, but the group name, description, and members list will be public. This means people can find your group and ask to join it, but the content of your discussions and decisions will stay private.
+When you start a new group, it will be automatically set to **Closed**: threads and members list are only visible to group members, but the group name and description are public. This means people can find your group and ask to join it, but the content of your discussions and decisions will stay private, unless you allow public threads.
 
-If you want the content of your discussions and decisions to be public on the web, change your group privacy to **Open**.
+If you want the content of your discussions and decisions to be public on the web, change your group privacy to **Open**. The members list will only be visible to other members.
 
 If you want to totally hide your group, set your group privacy to **Secret**. This will mean only invited members will be able to see the group name, description, members list, and threads.
 
