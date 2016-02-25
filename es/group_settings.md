@@ -1,6 +1,6 @@
 # Configuraciones del grupo
 
-<img class="screenshot" alt="Group options dropdown" src="edit_group_settings.gif" />
+<img class="screenshot" alt="Group options dropdown" src="editar_configuracion_grupal.gif" />
 
 Los coordinadores pueden editar la configuración del grupo: **Perfil **, **Privacidad** y **Permisos**.
 
