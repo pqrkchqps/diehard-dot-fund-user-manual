@@ -1,33 +1,33 @@
-# Comments
+#تعليقات
+## نشر تعليقات
 
-## Posting comments
+للمشاركة في موضوع، أدخل تعليقك في نموذج التعليق في أسفل الموضوع و أضغط على زر **نشر**. إن تم إرسال تعليق لك عبر رسالة الكترونية من قبل لوميو، يمكنك أيضاً الرد بشكل مباشر عبر بريدك الإلكتروني و ستظهر رسالتك في الموضوع. 
 
-To contribute to a thread, enter your comment into the comment form at the bottom of a thread and click the **Post** button. If Loomio has emailed you a comment, you can also reply directly from your email and your message will appear in the thread.
+##  التخفيض
 
-## Markdown
+لوميو يستخدم نظام **التخفيض** ليدعك تنسق النصوص و تستضيف الصور. لمزيد من المعلومات حول كيفية استخدام التخفيض، يرجى الإطلاع على [الدليل] (https//www.loomio.org/markdown).
 
-Loomio uses **Markdown** to let you format text and embed images. For more information on how to use Markdown, read [this guide](https://www.loomio.org/markdown).
-
-## Attaching files
+## إرفاق الملفات
 
 <img class="screenshot" alt="Attachment icon" src="attachment_icon.png" />
 
-You can attach files to comments using the attachment button next to the **Post** button on the comment form. You will be prompted to select a file from your device.
+يمكنك إرفاق الملفات في تعليقاتك باستخدام زر الإرفاق بجانب زر **نشر** على نموذج التعليق. سيتم دفعك لنافذة اختيار الملفات من جهازك.
 
-## @mentioning group members
+## @ذكر أعضاء المجموعة
 
-If you want to get the attention of a specific person in your group, type **@** into the comment field, followed by their name. As you type, a menu will appear, listing the members in your group that match that name. Select the member you want, then **Post** your comment. They will be notified that you’ve mentioned them in a comment.
+إن كنت تريد لفت انتباه عضو معين في مجموعتك، قم بكتابة **@** في التعليق بالإضافة إلى اسم الشخص. أثناء كتابتك ستفتح قائمة تحتوي على أسماء الأعضاء في مجموعتك و الذين أسماؤهم توافق الإسم الذي تكتبه. اختر العضو الذي تريده، و أضغط على **نشر** تعليقك. سيتم إبلاغ العضو الذي ذكرته في التعليق.
 
-## Editing comments
+## تعديل التعليقات
 
 <img class="screenshot" alt="Comment options dropdown" src="edit_comment.gif" />
 
-By default, groups are configured so that a comment can only be edited until someone else contributes a comment to the thread. Group coordinators can also [configure groups to allow users to edit their comments at any time](group_settings.html#group-permissions-%E2%80%93-what-can-members-do). If you are able to edit your comment, the **Edit comment **option is in the **Comment options** dropdown.
+يتم برمجة المجموعات بشكل تلقائي لإتاحة الفرصة لتعديل التعليق قبل أن يعلق أحد ما على نفس الموضوع. يمكن لمنسقي المجموعات [تعديل خيارات المجموعة لإتاحة الفرصة للمستخدمين لتعديل تعليقاتهم في أي وقت] (group_settings.html#group-permissions-%E2%80%93-what-can-members-do). إن كنت قادراً على تعديل تعليقاتك، يمنك الضغط على خيار **تعديل التعليق** الموجود ضمن قائمة **خيارات التعليقات**.
 
-## Liking comments
+## الإعجاب بتعليق
 
-You can show another member of your group that you appreciate or understand what they’ve said by using the **Like** button below the comment. This will add your name to the list of people who like the comment. You can undo the **Like** action by clicking **Unlike** on the comment.
+يمكنك إظهار إعجابك أو تقديرك لما قاله أحد الأعضاء في المجموعة عبر استخدام زر **إعجاب** في أسفل التعليق. سيؤدي هذا لإضافة اسمك إلى قائمة المعجبين بهذا التعليق. يمكنك التراجع عن **الإعجاب** عبر الضغط على **عدم الإعجاب** على التعليق.
 
-## Deleting comments
+## حذف تعليق
 
-You can delete your own comments by selecting the **Delete comment** option from the **Comment options** dropdown. Group coordinators can delete any comment in the group.
+يمكنك حذف تعليقاتك باختيار **حذف تعليق** من قائمة **خيارات التعليقات**. منسقو المجموعات يستطيعون حذف أي تعليق في المجموعة.
+
