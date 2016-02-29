@@ -1,44 +1,44 @@
-# Keeping up to date
+# 保持最新狀態
 
-## Notifications
+## 通知
 
-Notifications control how much you hear from a group or a specific discussion thread. There are four settings for both group notifications and thread notifications.
+通知控制了您可以從群組或特定的討論串聽到多少東西。群組通知與討論串設定都有四個設定。
 
-### Group notifications
+### 群組通知
 
-Your current group notifications setting will appear in a **Group notifications** card on your group page, underneath the **Members card**. You can change your group notifications setting by clicking the **Change** link inside the **Group notifications** card, and selecting one of the four options:
+您目前的群組通知設定會出現在您群組頁面的 **成員卡片** 下的 **群組通知** 卡片中。您可以透過點選在 **群組通知** 卡片中的 **變更** 連結，並選取下面四個選項之一來變更：
 
-* **Email everything**: You will be emailed whenever there is activity (comments, votes, new threads, proposals, and proposal outcomes) in this group.
+* **有事就寄電子郵件**：在該群組中有任何動態（意見、投票、新討論串、提案與提案結果）時，您都會收到電子郵件。
 
-* **Email new threads and proposals**: You will be emailed about new threads and proposals (i.e. when a proposal is started, about to close or when a proposal outcome is created). **Email proposals** is the default for new groups.
+* **發送關於新討論串與提案的電子郵件**：您將會收到關於新討論串與提案（例如當提案啟動、將要定案或是當提案結果被確立）的電子郵件。 **寄送提案相關的電子郵件** 是新群組的預設值。
 
-* **No emails**: You won't be emailed about activity in this group, but you'll see new group activity on your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
+* **不寄電子郵件**：您將不會收到在這個群組中任何活動的電子郵件，但是您還是會在您的[**未讀**](reading_loomio.html#unread-threads)與最近頁面中看到新的群組活動。
 
-* **Mute group**: You won't be emailed about this group, and it will be removed from your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
+* **群組靜音**：您將不會收到任何關於這個群組的電子郵件，且它將會從您的[**未讀**](reading_loomio.html#unread-threads)與最近頁面中移除。
 
-### Thread notifications
+### 討論串通知
 
-When you start a new thread, it will inherit a default notifications setting from its group. Your current thread notifications setting will appear in a **Thread notifications** card on the thread page. You can change your thread notifications setting by clicking the **Change** link inside the **Thread notifications** card, and selecting one of the four options:
-
-
-* **Email everything**: You will be emailed whenever there is activity (comments, new proposals, votes and proposal outcomes) in this thread.
-
-* **Email proposals**: You will be emailed when a proposal is started, about to close or when a proposal outcome is created.
-
-* **No emails**: You won't be emailed about this thread.
-
-* **Mute thread**: You won't be emailed about this thread unless someone @mentions you. It will be removed from your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
-
-You can mute threads from thread previews that display on the group page, Recent Threads page and Unread page by hovering over the thread preview and selecting the **Mute** option. You can mark threads as read by selecting the **Mark as read** option. Marking a thread as read will remove it from your [**Unread**](reading_loomio.html#unread-threads) page.
-
-If you have thread notifications for a particular thread set to **Email everything**, you can reply to any comments you receive directly via email and your replies will be posted in the Loomio thread. You can also choose to view the comment in the context of the thread on Loomio by clicking the **view it on www.loomio.org** link in the footer of the email.
+當您啟動一個新的討論串時，它將會從它的群組繼承預設的通知設定。您目前的討論串通知設定將會顯示在討論串頁面上的 **討論串通知** 卡片中。您可以透過點選在 **討論串通知** 中的 **變更** 連結，然後選擇下列四個選項的其中一個，來變更您的討論串通知設定：
 
 
-## Email settings
+* **有事就寄電子郵件**：您將會在該討論串有動態（意見、新提案、投票與提案結果）時收到電子郵件。
 
-Your **Email settings** page enables you to set default email notification settings for groups and threads. To visit your **Email settings** page, select the **Email settings** option from the user menu in the navigation bar.
+* **寄送提案相關的電子郵件**：您將在提案啟動、將要定案或是當提案結果被確立時收到電子郵件。
 
-## Yesterday on Loomio
+* **不寄電子郵件**：您將不會收到任何關於這個討論串的電子郵件。
 
-The **Yesterday on Loomio** email is a daily summary of content you haven't read from the previous day. The email contains everything that is not muted. You can turn this on or off from the **Email settings** page.
+* **討論串設為靜音**：您將不會收到任何關於這個討論串的電子郵件，除非有人@提及您。它將會被從您的[**未讀**](reading_loomio.html#unread-threads)與最近頁面中移除。
+
+您可以從顯示在群組頁面上、最近的討論串頁面與未讀頁面中的討論串預覽靜音討論串，只要將滑鼠停在討論串預覽上面並選取 **靜音** 選項。您可以透過選取 **標記為已讀** 選項來將討論串標記為已讀。將討論串標記為已讀會將它從您的[**未讀**](reading_loomio.html#unread-threads)與最近頁面中移除。
+
+若您有關於特定討論串的通知設定為 **有事就寄電子郵件** ，您可以直接從您收到的電子郵件回覆任何意見，而您的意見將會在 Loomio 討論串上貼出。您也可以選擇透過點選在您電子郵件底部的 **在 www.loomio.org 上檢視它** 連結來在 Loomio 上的討論串中檢視意見。
+
+
+## 電子郵件設定
+
+您的 **電子郵件設定** 頁面讓您可以設定群組與討論串的預設電子郵件通知設定。要造訪您的 **電子郵件設定** 頁面，從您在導覽列中的使用者選單裡選取 **電子郵件設定** 。
+
+## 昨日 Loomio
+
+**昨日 Loomio** 電子郵件是一封您自前一天登入以來尚未閱讀的每日總結。該封電子郵件包含了每樣您尚未靜音的東西。您可以在 **電子郵件設定** 頁面中將這個功能關閉。
 

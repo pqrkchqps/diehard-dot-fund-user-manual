@@ -1,33 +1,33 @@
-# Comments
+# 意見
 
-## Posting comments
+## 留下
 
-To contribute to a thread, enter your comment into the comment form at the bottom of a thread and click the **Post** button. If Loomio has emailed you a comment, you can also reply directly from your email and your message will appear in the thread.
+要貢獻到這個討論串上，輸入您的意見到討論串底部的意見區中，然後按下 **貼文** 按鈕。如果 Loomio 已經寄送關於意見的電子郵件給您，您也可以直接從您的電子郵件中回覆，您的訊息將會出現在討論串中。
 
 ## Markdown
 
-Loomio uses **Markdown** to let you format text and embed images. For more information on how to use Markdown, read [this guide](https://www.loomio.org/markdown).
+Loomio 使用 **Markdown** 讓您可以格式化文字與嵌入圖片。需要更多關於如何使用 Markdown 的資訊，請閱讀[這篇指南](https://www.loomio.org/markdown)。
 
-## Attaching files
+## 附加檔案
 
-<img class="screenshot" alt="Attachment icon" src="attachment_icon.png" />
+<img class="screenshot" alt="附件圖示" src="attachment_icon.png" />
 
-You can attach files to comments using the attachment button next to the **Post** button on the comment form. You will be prompted to select a file from your device.
+您可以使用在意見區內的 **貼文** 按鈕旁的附加檔案按鈕附加檔案到意見中。系統將提示您從您的裝置中選取檔案。
 
-## @mentioning group members
+## @提及群組成員
 
-If you want to get the attention of a specific person in your group, type **@** into the comment field, followed by their name. As you type, a menu will appear, listing the members in your group that match that name. Select the member you want, then **Post** your comment. They will be notified that you’ve mentioned them in a comment.
+若您想要得到在您的群組中某個人的注意，在意見區中輸入 **@** ，後面輸入他們的名字。當您輸入時，將會出現選單，裡面會列出所有在您的群組中符合這個名字的成員。選取您想要的成員，然後 **貼出** 您的意見。他們將會注意到您已在意見中提及他們。
 
-## Editing comments
+## 編輯意見
 
-<img class="screenshot" alt="Comment options dropdown" src="edit_comment.png" />
+<img class="screenshot" alt="意見選項下拉式選單" src="edit_comment.png" />
 
-By default, groups are configured so that a comment can only be edited until someone else contributes a comment to the thread. Group coordinators can also [configure groups to allow users to edit their comments at any time](group_settings.html#group-permissions-%E2%80%93-what-can-members-do). If you are able to edit your comment, the **Edit comment **option is in the **Comment options** dropdown.
+預設情況下，群組會被設定為只有在有其他人貢獻意見到討論串後才能編輯意見。群組協調者也可以[設定群組以讓使用者可以在任意時間編輯他們的意見](group_settings.html#group-permissions-%E2%80%93-what-can-members-do)。若您可以編輯您的意見， **編輯意見** 選項將會出現在 **意見選項** 下拉式選單中。
 
-## Liking comments
+## 對意見按讚
 
-You can show another member of your group that you appreciate or understand what they’ve said by using the **Like** button below the comment. This will add your name to the list of people who like the comment. You can undo the **Like** action by clicking **Unlike** on the comment.
+您可以透過使用在意見底下的 **讚** 按鈕展現您對您群組中其他成員的欣賞或是了解他們在說些什麼。這將會將您的名字加入到喜歡這個意見的人們的清單中。您也可以透過點選在意見中的 **收回讚** 按鈕來復原 **讚** 的動作。
 
-## Deleting comments
+## 刪除意見
 
-You can delete your own comments by selecting the **Delete comment** option from the **Comment options** dropdown. Group coordinators can delete any comment in the group.
+您可以透過選取在 **意見選項** 下拉式選單中的 **刪除意見** 選項來刪除您的意見。群組協調者可以刪除任何在群組中的意見。

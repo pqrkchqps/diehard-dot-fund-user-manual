@@ -1,33 +1,33 @@
-# Discussion threads
+# 討論串
 
-<img class="screenshot" alt="Discussion thread" src="thread_page.png" />
+<img class="screenshot" alt="討論串" src="thread_page.png" />
 
-Discussion threads are where your group can discuss a topic, exchange information and make decisions together.
+討論串是您的群組要討論話題、交換資訊並共同作出決策的地方。
 
-The thread page is divided into three main sections:
+討論串頁面共分為三個主要的部份：
 
-1. The **Context** panel contains the thread title, context and thread options.
+1.  **內容** 面版包含了討論串標題、內容與討論串選項。
 
-2. The **Activity **feed contains any updates to the thread. For example, if someone posts a new comment, or starts a new proposal, that activity will show up in this list.
+2.  **活動** feed 包含了討論串中的任何更新。舉例來說，如果某人貼出了一篇新的意見，或是啟動了一個新的提案，就會在這個清單中顯示活動。
 
-3. The **Proposal **section contains any current or closed proposals for that thread.
+3.  **提案** 部份包含了任何該討論串目前進行中或是已定案的提案。
 
-## Starting a thread
+## 啟動討論串
 
-You can start a new thread from anywhere in the app via the **Action Menu**. There is also a **Start a thread **button on the group page.
+您可以在應用程式內任何地方透過 **動作選單** 來啟動一個新的討論串。在群組頁面上也有一個 **啟動討論串** 的按鈕。
 
-The **Start new thread** form asks for a **Title** and **Context**. The **Title** is a succinct description of the topic being discussed. The **Context** is where you can share any background information your group members need to participate meaningfully in the thread. You can update the **Context **at any time, which can be a useful way to summarise a complex thread.
+**啟動新討論串** 表單將會要求您填入 **標題** 與 **內容** 。 **標題** 是要討論的話題的簡要描述。 **內容** 是讓您分享背景資訊給您需要參與此討論串的成員的地方。您隨時都可以更新 **內容** ，這是一個來總結複雜討論串的有效方法。
 
-Loomio uses **Markdown** for text formatting. You can use Markdown in the context panel to format your discussion context, or to embed images. For more information on how to use Markdown, click the **Formatting help** link underneath the comment box at the bottom of the thread page to open [the Markdown guide](https://loomio.org/markdown).
+Loomio 使用 **Markdown** 來格式化文字。您可以在內容面板中使用 Markdown 來格式化您的討論內容，或是嵌入圖片。要知道更多關於如何使用 Markdown 的資訊，點選在討論串頁面底部，意見框下面的 **格式化說明** 連結以開啟[Markdown 指南](https://loomio.org/markdown).
 
-## Thread privacy
+## 討論賺隱私
 
-If your [group settings](group_settings.html) allow both public and private threads, when you start a thread you can choose whether it is public (publicly searchable), or private (only visible to members of your group).
+如果您的[群組設定](group_settings.html)同時允許公開與私密討論串，當您啟動討論串時，您可以選擇它要成為公開的（可公開搜尋），或是私密的（僅有您群組的成員可見）。
 
-## Editing a thread
+## 編輯討論串
 
-**Group members** can edit the title, context and privacy of any thread they have started. **Group coordinators** can edit the title, context and privacy of any threads taking in the group. **Group coordinators** can also determine whether or not group members can edit each others’ threads (see [Group settings](group_settings.html)).
+**群組成員** 可以編輯任何他們啟動的討論串的標題、內容與隱私。 **群組協調者** 可以編輯任何在群組中的討論串的標題、內容與隱私。 **群組協調者** 也可以決定是否要讓群組成員可以編極其他人的討論串（見[群組設定](group_settings.html)）。
 
-<img class="screenshot" alt="Discussion thread options dropdown" src="edit_thread.png" />
+<img class="screenshot" alt="討論串選項下拉選單" src="edit_thread.png" />
 
-The **Edit thread **option is accessed via the thread options dropdown.
+**編輯討論串** 選項是從討論串選項下拉式選單使用的。

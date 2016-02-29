@@ -1,13 +1,13 @@
-# Inviting new members
+# 邀請新成員
 
-<img class="screenshot" alt="Action menu" src="action menu.png" />
+<img class="screenshot" alt="動作選單" src="action menu.png" />
 
-Depending on your [group settings](group_settings.html), new members can be invited either by everyone in the group, or by coordinators only. You’ll find the **Invite people** option on the **Members** panel on your group page, and in the **Action Menu **which can be accessed from anywhere in the app.
+取決於您的[群組設定](group_settings.html)，新成員可以被任何在群組中的人邀請，或是僅有協調者可以邀請。您將會在您群組頁面中的 **成員** 面板上找到 **邀請夥伴** 選項，以及可在應用程式的任何地方造訪的 **動作選單** 。
 
-You can invite multiple people at once by entering their email addresses into the form, separated by commas. When you submit the invitations form an email will be sent to each of the email addresses you supplied, containing a unique invitation link.
+您可以透過在表單中一次輸入多個電子郵件地址來邀請許多夥伴，請以逗號分開。當您填好邀請函表格時，電子郵件形式的邀請函將會寄送到每個您填寫的電子郵件地址中，並包含了一個獨一無二的邀請連結。
 
-Optionally, you can also choose to add a custom message to the invitation, which can be a great way to engage new members. People will want to know why they’ve been invited, what’s expected of them, and why it’s worth their time to learn how to use a new tool.
+您也可以加入自訂訊息至邀請函中，這也許是一個吸引新成員的好方法。夥伴們將會想要知道為什麼他們會被邀請，對他們的期望，以及為什麼值得花他們的時間來學習使用這個新工具。
 
-## Pending invitations
+## 擱置中的邀請函
 
-If there is an outstanding invitation that has not yet been accepted, it will be displayed in the Pending Invitations section of the **Members** page, which is accessed via the **Manage Members **link in the **Options **menu on the group page. You can revoke a pending invitation with the cancel button (the circled-X icon).
+如果有尚未被接受的邀請，它將會顯示在 **成員** 頁面中的擱置中的邀請函一節裡，其可以透過在群組頁面中的 **選項** 選單裡的 **管理成員** 連結造訪。您可以使用取消按鈕（圓形的 X 圖示）來撤銷擱置中的邀請函。
