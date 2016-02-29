@@ -1,33 +1,30 @@
-# Discussion threads
+# موضوعات النقاش
 
 <img class="screenshot" alt="Discussion thread" src="thread_page.png" />
 
-Discussion threads are where your group can discuss a topic, exchange information and make decisions together.
+موضوعات النقاش هي حيث يمكن لمجموعتك نقاش موضوعات، تبادل معلومات و صناعة قرارات معاً.
 
-The thread page is divided into three main sections:
+تم تقسيم صفحة الموضوعات إلى ثلاثة أقسام رئيسية:
 
-1. The **Context** panel contains the thread title, context and thread options.
+1. لوحة **السياق** و التي تحتوي على عنوان الموضوع، سياق الموضوع و خيارات الموضوع. 
+2. تغذية **النشاط** و التي تحتوي على أي تحديثات حول الموضوع. على سبيل المثال، إن قام أحدهم بنشر تعليق جديد، أو بدأ مقترحاً جديداً، سيظهر النشاط على هذه القائمة.
+3. قسم **المقترح** و الذي يحتوي على أي مقترحات حالية أو مغلقة في الموضوع.
 
-2. The **Activity **feed contains any updates to the thread. For example, if someone posts a new comment, or starts a new proposal, that activity will show up in this list.
+## بدء موضوع
 
-3. The **Proposal **section contains any current or closed proposals for that thread.
+يمكنك البدء بموضوع جديد من أي مكان في التطبيق عبر **قائمة النشاطات**. هناك أيضاً زر **ابدأ موضوعاً** على صفحة المجموعة.
 
-## Starting a thread
+سيقوم نموذج **بداية موضوع جديد** بطلب **عنوان** و **سياق** للموضوع. **العنوان** هو عبارة عن وصف مختصر للموضوع الذي تتم مناقشته. **السياق** هو حيث يمكنك مشاركة أي معلومات تتعلق بالموضوع و يحتاجها أعضاء المجموعة ليتمكنوا من المشاركة بشكل فعال في الموضوع.
+يمكنك تحديث **السياق** في أي وقت، و هو الأمر الذي يمكن أن يكون طريقة مفيدة لتلخيص موضوع معقد.
 
-You can start a new thread from anywhere in the app via the **Action Menu**. There is also a **Start a thread **button on the group page.
+يستخدم لوميو نظام **التخفيض** لتنسيق النصوص. يمكنك استخدام التخفيض من لوحة السياق لتنسيق سياق النقاش، أو لاستضافة صورة. لمزيد من المعلومات حول كيفية استخدام نظام التخفيض، قم بالضغط على رابط **مساعدة التنسيق** تحت مربع التعليق في أسفل صفحة الموضوع لفتح [دليل التخفيض] (https://loomio.org/markdown).
 
-The **Start new thread** form asks for a **Title** and **Context**. The **Title** is a succinct description of the topic being discussed. The **Context** is where you can share any background information your group members need to participate meaningfully in the thread. You can update the **Context **at any time, which can be a useful way to summarise a complex thread.
+## خصوصية الموضوع
 
-Loomio uses **Markdown** for text formatting. You can use Markdown in the context panel to format your discussion context, or to embed images. For more information on how to use Markdown, click the **Formatting help** link underneath the comment box at the bottom of the thread page to open [the Markdown guide](https://loomio.org/markdown).
+إن كانت [خيارات المجموعة] (group_settings.html) الخاصة بك تسمح بالمواضيع الخاصة و العامة معاً، يمكنك عندها اختيار خصوصية الموضوع عند البدء بموضوع جديد فيما إذا كنت تريد للموضوع أن يكون عاماً (يمكن إيجاده بالبحث)، أو خاصاً (ظاهراً فقط للأعضاء في المجموعة).
 
-## Thread privacy
+## تعديل موضوع
 
-If your [group settings](group_settings.html) allow both public and private threads, when you start a thread you can choose whether it is public (publicly searchable), or private (only visible to members of your group).
+يمكن **لإعضاء المجموعة** تعديل العنوان، السياق، و الخصوصية لأي موضوع قاموا بالبدء به. يمكن **لمنسقي المجموعة** تعديل العنوان، السياق، و الخصوصية لأي موضوع في المجموعة. يمكن أيضاً **لمنسقي المجموعة** تحديد إمكانية الأعضاء لتعديل موضوعات بعضهم (انظر [إعدادات المجموعة] (group_settings.html)).
 
-## Editing a thread
-
-**Group members** can edit the title, context and privacy of any thread they have started. **Group coordinators** can edit the title, context and privacy of any threads taking in the group. **Group coordinators** can also determine whether or not group members can edit each others’ threads (see [Group settings](group_settings.html)).
-
-<img class="screenshot" alt="Discussion thread options dropdown" src="edit_thread.gif" />
-
-The **Edit thread **option is accessed via the thread options dropdown.
+يمكن الوصول لخيار **تعديل الموضوع** عبر قائمة خيارات الموضوع.
