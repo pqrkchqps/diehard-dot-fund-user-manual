@@ -1,59 +1,63 @@
-# Frequently asked questions
+# أسئلة متكررة
 
-## Where is my confirmation email?
+## أين رسالة التأكيد؟
 
-If you don’t receive an email confirming your group registration, you might need to check your spam or junk mail folder – sometimes they end up in there.
+إن لم تستقبل رسالة الكترونية لتأكيد تسجيل مجموعتك، ربما سيكون عليك التأكد من صندوق البريد غير الهام أو البريد المؤذي – يمكن لرسالتنا أن تصل إلى هناك في بعض الأوقات.
 
-## I’ve forgotten my password, what do I do?
+## لقد نسيت كلمة مروري، ماذا أفعل؟
 
-If you’ve forgotten your password click the **"Forgot your password?"** link on the [Log in page](https://www.loomio.org/users/sign_in). You will be asked to enter the email address associated with your Loomio account and password reset instructions will be sent to this email address.
+إن كنت قد نسيت كلمة مرورك، قم بالضغط على رابط **نسيت كلمة المرور؟** على [صفحة الدخول] (https://www.loomio.org/users/sign_in). سيتم الطلب منك أن تدخل عنوان بريدك الالكتروني الذي تستخدمه لحساب لوميو و سنقوم بإرسال رسالة الكترونية على هذا العنوان يحتوي إرشادات إعادة تعيين كلمة المرور. 
 
-## Do I need a Loomio account to participate in discussions?
+## هل أحتاج حساب لوميو لكي أشارك في النقاشات؟
 
-Yes. Even though there are different levels of group privacy, everyone who wishes to participate in a Loomio group needs to have a Loomio account.
+أجل. رغم أنه هنالك مستويات مختلفة من خصوصية المجموعة، على جميع من يرغب في المشاركة في مجموعة لوميو أن يمتلك حساباً على لوميو.
 
-## Does it cost to use Loomio?
+# هل هناك تكاليف لاستخدام لوميو؟
 
-Check out our pricing plans [here](https://www.loomio.org/pricing).
+يمكنك الاطلاع على خطط التسعير الخاصة بنا [هنا] (https://www.loomio.org/pricing).
 
-## Can I sign in with Google, Facebook or Twitter?
+## هل بإمكاني تسجيل الدخول باستخدام غووغل، الفيسبوك أو تويتر؟
 
-Yes, see [Single sign-on](getting_started.html#single-sign-on).
+أجل. انظر [تسجيل الدخول الفردي] (getting_started.html#single-sign-on).
 
-## How can I set up my own instance of Loomio?
+## كيف يمكن لي تنصيب نموذجي الخاص من لوميو؟
 
-There is an installation guide on our [Github wiki](https://github.com/loomio/loomio/wiki) and a [Loomio Community sub-group](https://www.loomio.org/g/C7I2YAPN/loomio-community-installing-loomio) dedicated to support and assistance with local installations. If you're thinking about installing your own version of Loomio, we highly recommend joining this group.
+هناك دليل للتحميل على [Github wiki](https://github.com/loomio/loomio/wiki) الخاص بنا بالإضافة إلى [مجموعة مجتمع لوميو الفرعية] (https://www.loomio.org/g/C7I2YAPN/loomio-community-installing-loomio) و التي تم تخصيصها للدعم و المساعدة في التحميلات المحلية. إن كنت تفكر في تحميل نسختك الخاصة من لوميو، فنحن ننصحك بشدة بالانضمام لهذه المجموعة. 
 
-## I have approved membership requests for people who wanted to join my group but they haven’t shown up as members, what’s going on?
+## ماهو حجم المجموعات التي يمكن لها أن تنجح في لوميو؟
 
-If someone who has requested membership to your group hasn’t already got a Loomio account, they will need to create one before they can join your group. After you approve their membership request, they will receive a confirmation email. Following the link in this email will prompt them to create a Loomio account. When their account has been created they will show up as members of your group.
+حالياً فإن لوميو جيد جداً بالنسبة للمجموعات حتى 1000 شخص.
 
-## How can I stop my signature being included in email replies to threads?
+## لقد قمت بالموافقة على طلب عضوية لأشخاص أرادوا الانضمام لمجموعتي و لكنهم لم يظهروا كأعضاء، مالذي يحصل؟
 
-There is currently no official standard for distinguishing email signatures from the rest of the email body. To a computer the whole email is just a block of text. The easiest method we have for marking the end of the email body and the beginning of the signature is the double-dash method popularised by Gmail, which involves inserting a double-dash ('--') on its own line between the body of an email and the signature. Other common formats are recognised too, but Gmail's method is very easy to implement. Most programs trying to separate email body from signature (including Loomio) will correctly ignore email signatures if these dashes are included in the right place.
+إن كان هناك شخص ما قد طلب العضوية في مجموعتك و لكنه لا يمتلك حساب لوميو بعد، سيتوجب عليهم أن يبدأوا حساباً قبل أن يتمكنوا من الانضمام للمجموعة. بعد أن توافق على طلب عضويتهم، سيتم إرسال رسالة الكترونية بالتأكيد لهم. باتباع الرابط في هذه الرسالة الالكترونية سيتم توجيههم نحو صفحة الاشتراك في لوميو. عندما ينتهون من الاشتراك في لوميو سيتم إظهارهم في قائمة الأعضاء في مجموعتك.
 
-To be sure that your email signature is not included in your comment when you reply by email, you need to begin your signature with a double hyphen on its own line.
+## كيف لي أن أوقف توقيعي من الظهور التعليقات التي أرسلها بشكل مباشر من البريد الالكتروني؟
 
-## Will Loomio work on my mobile device?
+ليس هناك حالياً أي مقياس رسمي لفصل التوقيعات عن باقي جسم الرسالة الالكترونية. الرسالة الالكترونية عبارة جسم نصي واحد. الطريقة الأسهل التي نملكها لتحديد نهاية الرسالة الالكترونية و بدء قسم التوقيع هي طريقة الشرطة المزدوجة التي تم تعميمها من قبل الجيميل، و التي تتضمن إدخال شرطة مزدوجة (‘—‘) بين جسم الرسالة و التوقيع.  التنسيقات المتداولة الأخرى معترف بها أيضاً، و لكن طريقة الجيميل هي أسهل طريقة للتنفيذ. أغلب البرامج التي تحاول أن تفصل بين جسم الرسالة و التوقيع (بما فيهم لوميو) ستقوم بتجاهل التوقيع إن تم استخدام هذه الطريقة بشكل دقيق.
 
-Loomio is mobile responsive, so it will work on any device through a browser.
+ من أجل أن تكون متأكداً من أن توقيع رسالتك الالكترونية ليس متضمناً في التعليق عندما ترد عبر البريد الالكتروني عليك أن تبدأ توقيعك بفاصل شرطة مزدوجة في سطر مستقل.
 
-## How can I reactivate my account?
+## هل يعمل لوميو على هاتفي النقال؟
 
-To have your account reactivated, [contact us](https://loomio.org/contact).
+لوميو متوافق مع الهواتف النقالة و سيعمل على أي جهاز من خلال المتصفح.
 
-## I’ve deactivated my group, can I restore it?
+## كيف لي أن أعيد تفعيل حسابي؟
 
-Deactivated groups can only be restored by a member of the Loomio team. [Contact us](https://loomio.org/contact) to reactivate your group.
+لكي تعيد تفعيل حسابك، [اتصل بنا] (https://loomio.org/contact).
 
-## What if I have a feature to suggest?
+## لقد قمت بحذف مجموعتي، كيف لي أن أستعيدها؟
 
-We also have an open Loomio Community sub-group dedicated to [Feature Ideas](https://www.loomio.org/g/GN7EFQTK/loomio-community-feature-ideas). You can contribute to discussions about new features there, or make suggest your own feature ideas.
+المجموعات المحذوفة يمكن استعادتها حصراً عن طريق أعضاء فريق لوميو، [اتصل بنا] (https://loomio.org/contact) لإعادة تفعيل مجموعتك.
 
-## Is there a Loomio API?
+## ماذا لو كان لدي ميزة أود أن أقترحها؟
 
-We're actively developing and using the API that the new Loomio 1.0 client uses. This implements everything a Loomio client talking to the web service would need. There is currently no server-to-server api, but Loomio is [open source](http://github.com/loomio/loomio) and we welcome contributions.
+نحن أيضاً لدينا مجموعة مجتمع لوميو الفرعية المفتوحة ل [اقتراحات الميزات] (https://www.loomio.org/g/GN7EFQTK/loomio-community-feature-ideas). يمكنك المساهمة في النقاشات حول الميزات الجديدة هناك، أو اقترح الميزات التي ترغب بها.
 
-## Is it possible to have a Loomio subdomain?
+## هناك واجهة برمجة تطبيقات خاصة بلوميو؟ 
 
-Yes. We can, for example, set up **[your-group-name].loomio.org** as the URL for your group. [Contact us](https://loomio.org/contact) if you're interested.
+نحن نعمل باستمرار على تطوير و استخدام واجهة برمجة تطبيقات (API) ليتم استخدامها من قبل عملاء النسخة 1.0 الجديدة من لوميو. سيقوم هذا بتنفيذ كل شيء يحتاجه عميل لوميو من مخدم الشبكة. ليس هناك حالياً واجهة برمجة تطبيقات من مخدم لمخدم، و لكن لوميو [مصدر مفتوح] (http://github.com/loomio/loomio) و يرحب بالمساهمة.
+
+## هل بالإمكان الحصول على نطاق فرعي للوميو؟
+
+أجل. يمكننا على سبيل المثال تنصيب **.loomio.org[اسم مجموعتك]** كرابط لمجموعتك. [اتصل بنا] (https://loomio.org/contact) إن كنت مهتماً. 
