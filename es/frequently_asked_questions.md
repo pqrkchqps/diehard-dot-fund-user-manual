@@ -4,7 +4,7 @@
 
 Si no recibes un correo electrónico confirmando la registración de tu grupo, deberías ver en tu carpeta de spam o correo basura, a veces terminan ahí.
 
-## He olvidado mi contraseña ¿ahora qué hago? 
+## He olvidado mi contraseña ¿ahora qué hago?
 
 Si has olvidado tu contraseña, haz clic en el enlace **”¿Olvidaste tu contraseña?”** en la página [Iniciar sesión](https://www.loomio.org/users/sign_in). Se te pedirá ingresar tu dirección de correo electrónico asociada a tu cuenta de Loomio, e instrucciones para reestablecer tu contraseña te serán enviadas a esa dirección.
 
@@ -24,23 +24,19 @@ SI, lee sobre [Inicio de Entrada Única](getting_started.html#single-sign-on).
 
 Hay una guía de instalación en nuestro [Github wiki](https://github.com/loomio/loomio/wiki) y un [ subgrupo en la Communidad de Loomio](https://www.loomio.org/g/C7I2YAPN/loomio-community-installing-loomio) dedicada a apoyar y asistir con instalaciones locales. Si estás pensando instalar tu propia versión de Loomio, te recomendamos unirte a este grupo.    
 
-## ¿Qué tamaño de grupos funciona bien en Loomio?
-
-Actualmente Loomio funciona bien para grupos de hasta 1000 personas.
-
 ## He aprobado membresías para gente que quiere unirse a mi grupo pero todavía no aparecen como miembros, ¿Por qué?
 
 Si alguien que ha pedido la membresía a tu grupo aún no tiene una cuenta de Loomio, necesitará crear una antes de poder unirse a tu grupo. Después de que apruebes su membresía, recibirán un correo electrónico de confirmación. Al seguir el enlace en ese correo, se les pedirá que creen una cuenta en Loomio. Cuando su cuenta sea creada, aparecerán como miembros de tu grupo.
 
 ## ¿Cómo hago para que mi firma no sea incluida en la respuesta a los hilos desde el correo electrónico?
 
-Al corriente no hay un estándar oficial para distinguir las firmas del correo del resto del texto. Para una computadora todo el correo es un bloque de texto. El método más fácil que tenemos es marcar el fin del mensaje y el comienzo de la firma es el método de doble raya popularizado por Gmail, que involucra insertar una doble raya ('--') en su propia línea entre el cuerpo del mensaje y la firma. Otros formatos son reconocidos también, pero el método de gmail es fácil de implementar. La mayoría de los programas que traten de separar el texto del mensaje de la firma (inclusive Loomio) ignoraran firmas de correos si estas rayas están incluidas en el lugar indicado. 
+Al corriente no hay un estándar oficial para distinguir las firmas del correo del resto del texto. Para una computadora todo el correo es un bloque de texto. El método más fácil que tenemos es marcar el fin del mensaje y el comienzo de la firma es el método de doble raya popularizado por Gmail, que involucra insertar una doble raya ('--') en su propia línea entre el cuerpo del mensaje y la firma. Otros formatos son reconocidos también, pero el método de gmail es fácil de implementar. La mayoría de los programas que traten de separar el texto del mensaje de la firma (inclusive Loomio) ignoraran firmas de correos si estas rayas están incluidas en el lugar indicado.
 
-Para estar segura de que la firma no es incluida en el comentario cuando respondas por correo, tienes que asegurarte de que en la línea anterior a tu firma hay una doble raya. 
+Para estar segura de que la firma no es incluida en el comentario cuando respondas por correo, tienes que asegurarte de que en la línea anterior a tu firma hay una doble raya.
 
-## ¿Funciona Loomio en mi teléfono móvil? 
+## ¿Funciona Loomio en mi teléfono móvil?
 
-Loomio es accesible para usar en el móvil, así que funcionará en cualquier dispositivo a través de un navegador web. 
+Loomio es accesible para usar en el móvil, así que funcionará en cualquier dispositivo a través de un navegador web.
 
 ## ¿Cómo puedo reactivar mi cuenta?
 

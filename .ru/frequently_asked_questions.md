@@ -24,10 +24,6 @@ Yes, see [Single sign-on](getting_started.html#single-sign-on).
 
 There is an installation guide on our [Github wiki](https://github.com/loomio/loomio/wiki) and a [Loomio Community sub-group](https://www.loomio.org/g/C7I2YAPN/loomio-community-installing-loomio) dedicated to support and assistance with local installations. If you're thinking about installing your own version of Loomio, we highly recommend joining this group.
 
-## What size groups work well on Loomio?
-
-Loomio currently works well for groups up to about 1000 people.
-
 ## I have approved membership requests for people who wanted to join my group but they haven’t shown up as members, what’s going on?
 
 If someone who has requested membership to your group hasn’t already got a Loomio account, they will need to create one before they can join your group. After you approve their membership request, they will receive a confirmation email. Following the link in this email will prompt them to create a Loomio account. When their account has been created they will show up as members of your group.
