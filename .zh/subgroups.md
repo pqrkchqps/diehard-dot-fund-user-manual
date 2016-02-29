@@ -1,17 +1,17 @@
-# Subgroups
+# 子群組
 
-Loomio allows you to create subgroups within your groups. Subgroups let you break your group up into different teams. Loomio subgroups can contain members of the parent group and people who don’t belong to the parent group. Depending on your [group settings](group_settings.html), subgroups can be created either by everyone in the group, or by coordinators only.
+Loomio 讓您可以在您的群組中建立子群組。子群組讓您可以將您的群組拆分為不同的團隊。Loomio 的子群組可以包含母群組的成員及不屬於母群組的成員。這取決於您的[群組設定](group_settings.html)，子群組可以被設定為可以被任何在群組中的人建立，或是僅供協調者建立。
 
-To add a subgroup, select the **Add subgroup** option from the **Options** menu on your group page.
+要新增子群組，從在您群組的頁面中的 **選項** 選單裡選取 **新增子群組** 選項。
 
-## Subgroup privacy
+## 子群組隱私
 
-To visit your subgroup settings page, click the **Options** button on the group page and select the **Edit Group Settings** option from the dropdown menu.
+要造訪您的子群組設定頁面，在您群組的頁面上點選 **選項** 按鈕並從下拉式選單中選取 **編輯群組設定** 選項。
 
-Subgroup settings are the same as [group settings](group_settings.html), but with additional privacy settings.
+子群組設定與[群組設定](group_settings.html)相同，但是包含了額外的隱私設定。
 
-In the **Privacy **section of the **Edit Group Settings** form, there is a **Who can find this group? **field, which determines whether the subgroup is accessible to members of the parent group. When the **People in [parent group]** option is selected, the subgroup will be listed in the **Subgroups** panel on the parent group page. Members of the parent will also be able to access the subgroup if they navigate to the subgroup’s page.
+在 **編輯群組設定** 表單中的 **隱私** 部份，有一個 **誰可以找到這個群組？** 欄位，其決定了子群組是否可以被母群組的成員造訪。當 **在[母群組]中的夥伴** 選項被勾選時，子群組將會被列在母群組頁面的 **子群組** 面板中。若母群組的成員找到子群組的頁面，他們將也可以造訪子群組。
 
-There is also an additional privacy option relating to the subgroup's discussion privacy.The **Who can see discussions?** field of the **Privacy** section, allows you to choose whether you want discussions to be accessible to members of the parent, or to members of the subgroup only. If you choose to make the subgroup accessible to parent group members, but the discussion threads accessible to members only, then members of the parent will be able to access the subgroup's page, but not access any of the subgroup's threads.
+也有一個關於子群組討論隱私的額外選項。 **隱私** 部份的 **誰可以檢視討論串？** 欄位，讓您可以選取討論串是否可以被母群組的成員造訪，或是僅供子群組的成員造訪。若您選擇讓子群組可被母群組的成員造訪，但討論串僅供子群組成員造訪，母群組的成員將只能造訪子群組的頁面，但無法造訪任何子群組的討論串。
 
-When the **People in [parent group]** option is deselected, only members of the subgroup will be able to find it.
+當 **在[母群組]中的夥伴** 選項被取消勾選時，只有子群組的成員才能找到它。

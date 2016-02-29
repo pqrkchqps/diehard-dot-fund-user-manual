@@ -1,25 +1,25 @@
-# Reading Loomio
+# 讀取 Loomio
 
-## Recent Threads
+## 最近的討論串
 
-**Recent Threads** is the landing page when you sign into Loomio. It gives you an overview of the most recent activity happening in your groups. The **Recent Threads** page displays content from your groups in a prioritised list. Open proposals are at the top, followed by **Starred** threads, then all of the threads from your groups, sorted by most recent activity; **Today**, **Yesterday**,** This month**,** Older than a month**.
+**最近的討論串** 是您登入 Loomio 後的第一個頁面。它會給您在您的群組中的最近活動的概覽。 **最近的討論串** 頁面從您的群組中以有優先次序的方式顯示內容。開放的提案在頂部，然後是 **標星號** 的討論串，再來才是您群組中所有的討論串，以最近活動的順序排列； **今天** ， **昨天** ， **這個月** ， **多於一個月** 。
 
-If a thread or proposal title is **bold** then new activity has taken place there since you last visited. Numbers in parentheses after titles reflect how many new comments or votes have been posted since you last visited. Proposals will show a pie graph, with your position on the proposal superimposed on the graph. If you haven’t yet stated a position, this will show a question mark. 
+如果討論串或提案標題以 **粗體** 顯示，那就是代表在您最後一次造訪過後有新的活動。在標題後面，括號內的數字反應出了自您上次造訪過後有多少新的意見或是投票已經被貼出。提案將會顯示圓餅圖，其上則是您的立場。若您尚未表達您的立場，那裡將會顯示一個問號。 
 
-## Starred threads
+## 標記討論串星號
 
-Clicking the star icon on a thread preview marks that thread ‘starred’. Use stars to mark certain threads as important. Only you can see if you’ve starred a thread.
+在討論串預覽上點選星號圖示會將該討論串標記「星號」。使用星號來標記特定的討論串為重要的討論串。只有您可以看見您已經標記了哪些討論串。
 
-## Filter threads
+## 過濾討論串
 
-The **Filter Threads **dropdown lets you choose to see:
+**過濾討論串** 下拉選單讓您可以選擇要檢視：
 
-* **Recent Threads:** all threads and proposals with recent activity.
+* **最近的討論串：** 所有最近有活動的討論串與提案。
 
-* **Participating threads**: only the threads and proposals which you’ve participated in.
+* **參與的討論串**：只有您參與過的討論串與提案。
 
-* **Muted: **only the threads which you’ve previously [muted](keeping_up_to_date.html#thread-volume).
+* **靜音：** 只有您先前[靜音](keeping_up_to_date.html#thread-volume)的討論串。
 
-## Unread Threads
+## 未讀的討論串
 
-This page shows all the threads and proposals that have new content since you last visited, sorted by group. You can click **Mark as read **on a thread preview to clear it from this page without actually visiting the thread. You can also [mute](keeping_up_to_date.html#thread-volume)** **threads here.
+這個頁面顯示了所有自您最後一次造訪後有新內容的討論串與提案，以群組排序。您可以在討論串預覽上點選 **標記為已讀** 以將其從這個頁面清除，而不需要真的造訪討論串。您也可以在此 **[靜音](keeping_up_to_date.html#thread-volume)** 討論串。

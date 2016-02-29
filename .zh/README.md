@@ -1,22 +1,22 @@
-![Loomio Logo](logo.png)
+![Loomio 標誌](logo.png)
 
-A comprehensive guide to using [Loomio](https://loomio.org/).
+一份使用 [Loomio](https://loomio.org/) 的綜合指南。
 
-## What is Loomio?
+## Loomio 是什麼？
 
-Loomio is a simple, user-friendly online tool for collaborative decision-making. Loomio lets you host discussions online, invite the right people to participate, come to timely decisions and transform deliberation into real-world action.
+Loomio 是一套簡單、人性化的線上協同決策制定利器。 Loomio 讓您能在線上主持討論、邀請對的人來參與，即時作出討論，進而在深思熟慮後轉變為現實世界的行動。
 
-## How Loomio works
+## Loomio 如何運作
 
-* **Start a group** to collaborate with people on Loomio
+* **啟動群組** 用來與在 Loomio 上的人協同合作
 
-* **Invite people** into your group
+* **邀請夥伴** 到您的群組中
 
-* **Start a discussion** on any topic
+* **啟動討論** 任何主題都可以！
 
-* **Make a proposal** to see how everyone feels about a particular course of action
+* **做出提案** 來觀看每個人對於特定的行動的感受
 
-* **Decide together** - anyone can agree, abstain, disagree, or block – so you can see how everyone feels about the proposal.
+* **共同決策** - 任何人可以同意、放棄、反對或阻擋 — 這樣您可以了解每個人對提案的感覺。
 
 
-[Check out this video](https://www.youtube.com/watch?v=pF-wpXo8Rdw) for a quick demonstration of how to use Loomio.
+[看看這部影片](https://www.youtube.com/watch?v=pF-wpXo8Rdw)，這是一部快速簡介如何使用 Loomio 的影片。

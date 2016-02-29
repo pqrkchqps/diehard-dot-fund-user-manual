@@ -1,51 +1,51 @@
-# Proposals
+# 提案
 
-<img class="screenshot" alt="Proposal panel" src="proposal_panel.png" />
+<img class="screenshot" alt="提案面板" src="proposal_panel.png" />
 
-Proposals take place in a [discussion thread](discussion_threads.html), which encompasses both the discussion and the proposal. There can only be one active proposal at any time in any thread. 
+提案將會在[討論串](discussion_threads.html)中提出，其中包含了討論與提案。一個討論串在同一時間只能有一個活躍的提案。 
 
-## Starting a proposal
+## 啟動提案
 
-You can create a new proposal with the **Start proposal** button on the thread page.
+您可以使用在討論串頁面中的 **啟動提案** 按鈕來建立新提案。
 
-When you start a new proposal you will be required to provide a brief **Title**, a **Closing date** and any relevant **Details**. Use the **Details** field to provide any information the group needs so everyone knows exactly what it means to agree or disagree with the proposal.
+當您啟動新提案時，您將會需要提供 **標題** 、 **定案日期** 與任何相關的 **詳細內容** 。使用 **詳細內容** 欄位來提供任何群組成員需要知道以便對提案作出決定的資訊。
 
-## Editing a proposal
+## 編輯提案
 
-Only the author of the proposal and the group coordinators can edit proposals. The proposal **title** and **details** can only be edited until the first member participates. However, the **closing time** can be changed at any time. 
+只有提案的作者與群組協調者才能編輯提案。提案的 **標題** 與 **詳細內容** 只能在有第一個成員參與後才能編輯。然而， **定案時間** 可以在任何時候變更。 
 
-To edit the proposal, select the **Edit proposal** option from the proposal options dropdown in the **Proposal** panel.
+要編輯提案，使用在 **提案** 面板中的提案選項下拉選單中選取 **編輯提案** 選項。
 
-## Stating your position
+## 表達您的立場
 
-When you’re ready participate in a proposal, you can select one of the four decision buttons:
+當您準備好參與提案時，您可以選取下面四個選項的其中一個：
 
-* **Agree** means you’re happy with the proposal.
+* **贊成** 代表您滿意這個提案。
 
-* **Abstain** means you’re happy for the group to decide without you.
+* **棄權** 代表您很樂意見到群組決定沒有您的參與。
 
-* **Disagree** means you think there might be a better alternative, but you’re willing to go with the group’s decision.
+* **反對** 代表您覺得可能有更好的替代方案，但是您願意順著群組的決策走。
 
-* **Block** means you’ve got serious objections and you’ll be extremely unhappy if this proposal goes ahead.
+* **阻擋** 代表您強烈反對，且您非常不樂見此提案繼續進行。
 
-When you’ve selected your position, you will be prompted to give a brief explanation as to why you feel this way.
+當您選定您的立場後，系統會提示您解釋為什麼您有這種感受。
 
-Underneath the proposal pie, there will be a list containing the names, positions and position statements of members who have voted on the proposal. You can see what everyone else thinks, making it easy to catch up with the thread. There will also be a **View undecided members** link, which will display a list of the members who have not voted.
+在提案圓餅圖下方，將會有一個包含名字、立場、立場陳述以及尚未在此提案中投票的成員的清單。您可以看到每個人怎麼想，所以可以很容易地知道討論串怎麼了。也有 **檢視未決定的成員** 連結，其將會顯示尚未投票成員的清單。
 
-## Changing your position
+## 變更您的立場
 
-If you wish to change your position you can do so by clicking the** Change your vote **link next to your position in the **Proposal** panel.
+若您想要變更您的立場，您可以透過點選在 **提案** 面板中的 **變更您的投票** 連結做到。
 
-## Setting a proposal outcome
+## 確立提議結果
 
-When a proposal closes, it collapses into a **Previous proposals** panel. You can expand the proposal by clicking the **Expand **link inside the proposal preview.
+當提案定案時，它將會摺疊到 **上一個提案** 面板中。您可以在提案預覽中點選 **查看詳細資訊** 連結來觀看完整的提案。
 
-An editable outcome statement field will display underneath the proposal details, and the person who raised the proposal will be prompted via email to provide an outcome statement for their proposal. Proposal outcomes can be set by the person who started the proposal, or by the coordinators of the group. When the proposal outcome statement is set everyone in the group will receive an email notifying them of the outcome.
+可編輯的提案結果欄位將會顯示在提案詳細內容下方，而提出提案的人將會被系統透過電子郵件提供他們提案的結果陳述。提案結果可以被啟動提案的人確立，或是由群組的協調者確立。在提案結果陳述已確立後，每個在群組中的人都將會收到一封提醒他們提案結果的電子郵件。
 
-## Closing a proposal
+## 提案定案
 
-Only the group member who started the proposal and the coordinators of the group can close an active proposal. To close a proposal, select the **Close proposal** option from the proposal options dropdown. 
+只有啟動提案的群組成員及群組協調者才能關閉活躍的提案。要定案提案，從提案選項下拉選單中選取 **定案提案** 選項。 
 
-## Closed proposals/previous decisions
+## 已關閉的提案／先前的提案
 
-Closed proposals are reduced to a proposal preview and collapsed into a **Previous proposals** panel. You can expand the proposal by clicking the **Expand **link inside the proposal preview.
+已關閉的提案會被縮減為提案預覽，並摺疊到 **上一個提案** 面板中。您可以透過點選在提案預覽中的 **查看詳細資訊** 連結展開提案。

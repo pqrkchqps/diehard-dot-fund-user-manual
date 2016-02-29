@@ -1,37 +1,37 @@
-# Your user profile
+# 您的使用者簡歷
 
-Your profile page lets you customise your Loomio identity. To visit your profile page select **Profile** from the user menu in the navigation bar.
+您的使用者簡歷頁面讓您可以自訂您的 Loomio 身份。要造訪您的簡歷頁面，在導覽列的使用者選單中點選 **簡歷** 。
 
-## Updating your personal settings
-You can update the name, username, email address and language settings associated with your account by editing the corresponding fields on your profile page, and clicking **Update profile**.
+## 更新您的個人設定
+您可以透過編輯在您簡歷頁面上的對應欄位，並點選 **更新簡歷** ，來更新關於您的帳號的名稱、使用者名稱、電子郵件以及語言設定。
 
-## Uploading a profile photo
-When you first create a Loomio account, your initials will be the default image associated with your profile. You can upload a profile photo by clicking **Change picture** in the **Picture** section of your profile page. If you have a [Gravatar](https://en.gravatar.com/) you can set that as your profile picture by selecting **Use Gravatar**.
+## 上傳簡歷照片
+當您首次建立 Loomio 帳號時，您將會有關聯到您的簡歷的預設圖片。您可以透過點選在您的簡歷頁面中 **照片** 一節裡的 **變更照片** 來上傳照片。若您有[Gravatar](https://en.gravatar.com/)，您可以透過選取 **使用 Gravatar** 來設定它做為您的簡歷照片。
 
-## Language settings
-Loomio is available in many languages. It will detect your browser’s language settings, or you can manually set your preferred language by visiting your [profile page](#your-user-profile) and selecting your language from the **Language** dropdown.
+## 語言設定
+Loomio 提供了許多種語言。它將會偵測您瀏覽器的語言設定，或是您可以透過造訪您的[簡歷頁面](#your-user-profile)並從 **語言** 下拉選單來手動設定您偏好的語言。
 
-## Usernames
-Your username is the name people will use to mention ([@mention](comments.html#-mentioning-group-members)) you in comments. You can change your username by editing the **Username** field on your [profile page](#your-user-profile) and clicking **Update profile**.
+## 使用者名稱
+您的使用者名稱是夥伴們用來在意見中提及（[@提及](comments.html#-mentioning-group-members)）您的。您可以透過編輯在您的[簡歷頁面](#your-user-profile)上的 **使用者名稱** 欄位並點選 **更新簡歷** 來更新。
 
-## Changing your password
-If you are logged in to Loomio you can change your password by visiting your profile page and clicking **Change your password**. If you are logged out then you can visit the [**Forgot your password?**](https://www.loomio.org/users/password/new) page.
+## 變更您的密碼
+若您已經登入到 Loomio 中，您可以透過造訪您的簡歷頁面並點選 **變更您的密碼** 來變更。若您已登出，那麼您可以造訪[**忘記您的密碼？**](https://www.loomio.org/users/password/new)頁面來變更。
 
-## Deactivating your account
-If you are not the sole coordinator of any groups you can deactivate your account by visiting your [profile page](#your-user-profile) and clicking **Deactivate account**. If you are the sole coordinator of a group you will be prevented from deactivating your account until you’ve appointed another group coordinator, or archived the group.
+## 停用您的帳號
+若您不是任何群組的唯一協調者，您可以透過造訪您的[簡歷頁面](#your-user-profile)並點選 **停用帳號** 來停用您的帳號。若您是某個群組的唯一協調者，直到您加入了其他群組協調者，您都無法停用您的帳號，或是封存群組。
 
-Once your account has been deactivated:
+當您的帳號被停用後：
 
-* you will no longer be listed as a member of any groups
-* comments, proposals and discussions you’ve made will remain but your name will be removed from them
-* you will no longer receive Loomio-related emails
-* you will need to [contact us](https://loomio.org/contact) to reactive your account.
+* 您將不會在任何的群組中被列為成員
+* 您已經做出的評論、提案與討論將會保留，但是您的名字將會被從那些東西裡移除
+* 您將不會再收到任何與 Loomio 相關的電子郵件
+* 您將必須[連絡我們](https://loomio.org/contact)來重新啟用您的帳號。
 
-## Reactivating your account
-To reactivate a deactivated account, [contact the Loomio team](https://loomio.org/contact).
+## 重新啟用您的帳號
+要重新啟用已停用的帳號，請[連絡 Loomio 團隊](https://loomio.org/contact)。
 
-## Leaving a group
+## 離開群組
 
-<img class="screenshot" alt="Group options dropdown" src="options_dropdown.png" />
+<img class="screenshot" alt="群組選項下拉選單" src="options_dropdown.png" />
 
-If you are not the sole coordinator of a group then you can leave the group by selecting **Leave group** from the Options menu on the group page. If you are the sole coordinator of your group, you will be prevented from leaving until you appoint another coordinator or deactivate the group.
+若您不是群組的唯一協調者，那麼您可以透過從在群組頁面上的選項選單中選取 **離開群組** 來離開群組。若您是您群組的唯一協調者，直到您加入了其他群組協調者，您都無法離開或停用群組。

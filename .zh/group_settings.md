@@ -1,64 +1,63 @@
-# Group settings
+# 群組設定
 
-<img class="screenshot" alt="Group options dropdown" src="options_dropdown.png" />
+<img class="screenshot" alt="群組選項下拉式選單" src="options_dropdown.png" />
 
-Group coordinators can edit group settings: **Profile**, **Privacy** and **Permissions**.
+群組協調者可以編輯群組設定： **簡歷** 、 **隱私** 與 **權限** 。
 
-To edit your group settings, open the **Options** menu on the group page and select **Edit Group Settings**.
+要編輯您的群組設定，在您的群組頁面中開啟 **選項** 選單並選取 **編輯群組設定** 。
 
-## Group profile
+## 群組簡歷
 
-<img class="screenshot" alt="Edit Group Settings dialogue" src="edit_group_settings.png" />
+<img class="screenshot" alt="編輯群組設定對話框" src="edit_group_settings.png" />
 
-Your group profile consists of your group name and group description.
+您的群組簡歷包含了您群組的名稱與群組描述。
 
-The description gives new members a clear understanding of what that group is for. When adding a group description, describe what your group intends to do, for example, *A public group for us to approve requests for use of the gallery space* or *The space for our board members to consider budget proposals*.
+描述讓新成員可以有一個對該群組要作些什麼有清楚的了解。當加入群組描述時，描述您的群組想要作些什麼事情，舉例來說， *我們用來批准使用畫廊空間的公開群組* 或是 *我們的董事會成員用來考慮預算案的空間* 。
 
-## Group privacy
+## 群組隱私
 
-Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.
+您的隱私設定決定了誰可以找到您的群組、誰可以檢視討論串，以及人們要如何加入。
 
-When you start a new group, it will be automatically set to **Closed**: threads and members list are only visible to group members, but the group name and description are public. This means people can find your group and ask to join it, but the content of your discussions and decisions will stay private, unless you allow public threads.
+當您啟動一個新群組時，它將會被自動設定為 **不公開** ：只有群組成員可以看見討論串與成員清單，但是群組名稱與描述是公開的。這代表了人們可以找到您的群組並要求加入，但您討論與決策的內容將會保持私密，除非您允許公開討論串。
 
-If you want the content of your discussions and decisions to be public on the web, change your group privacy to **Open**. The members list will only be visible to other members.
+若您想要讓您的討論與決策都公開在網路上，請將您的群組隱私變更為 **公開** 。成員清單仍將只能被其他成員看見。
 
-If you want to totally hide your group, set your group privacy to **Secret**. This will mean only invited members will be able to see the group name, description, members list, and threads.
+若您想要完全隱藏您的群組，請將您的群組隱私設定為 **私人** 。這代表了只有已邀請的成員才能看見群組名稱、描述、成員清單以及討論串。
 
-Note, if you have a Secret group and change it to Open, all your existing threads will be made public. The same is true in reverse: changing an Open group to Secret will make all your threads private.
+注意，若您有一個私人群組但變更其為公開，您所有已有的討論串都會變為公開。反之亦然：將公開群組變更為私人將會讓您所有的討論串變為私密。
 
 
-## Group permissions – what can members do?
+## 群組權限 ── 成員們可以做些什麼？
 
-Coordinators set the group permissions to configure what members can do in their group.
+協調者可以設定群組權限來設定哪些成員可以在他們的群組中做些什麼事情。
 
-### Allow public threads
+### 允許公開討論串
 
-In **Closed** groups, you can use this option to allow public and private threads in your group. When you start a thread, you can decide whether it is public or private.
+在 **不公開** 群組中，您可以在您的群組中使用這個選項來開啟公開與私密討論串。當您啟動一個討論串，您可以決定您要讓它變為公開或是私人討論串。
 
-### Invite and approve new members
+### 邀請及批准新成員
 
-This allows everyone in your group to invite new people in, and approve any membership requests. When it is deselected only group coordinators will be able to invite and approve new members.
+這個讓您可以允許每個在您群組中的人都可以邀請新夥伴進來，並批准任何成員請求。當這個選項被取消選擇時，則只有群組協調者可以邀請及批準新成員。
 
-### Create sub-groups
+### 建立子群組
+這個讓您可以允許每個在您群組中的人都可以建立子群組。當這個選項被取消選擇時，則只有群組協調者可以建立子群組。
 
-This allows everyone in your group to create subgroups. When it is deselected only group coordinators will be able to create subgroups.
+### 啟動討論串
 
-### Start threads
+這個讓您可以允許每個在您群組中的人都可以啟動新討論串。當這個選項被取消選擇時，則只有群組協調者可以建立新討論串。
 
-This allows everyone in your group to start new threads. When it is deselected only group coordinators will be able to start discussions.
+### 編輯在群組中任何討論串的內容
 
-### Edit the context of any thread in the group
+這個讓您可以允許每個在您群組中的人都可以編輯任何討論串的內容。當這個選項被取消選擇時，則只有群組協調者可以編輯討論串的內容。（啟動討論串的人總是可以編輯討論串內容。）
 
-This allows everyone in your group to edit the context of any thread. When it is deselected only group coordinators will be able to edit the thread context. (The person who started a thread can always edit the thread context.)
+### 在任意時間編輯他們的意見
 
-### Edit their comments at any time
+這個讓您可以允許每個在您群組中的人都可以在任意時間[編輯他們的意見](comments.html#editing-a-comment)。當這個選項被取消選擇時，則只有在有其他人參與討論時才能編輯意見。
 
-This allows everyone in your group to [edit their comments](comments.html#editing-a-comment) at any time. When it is deselected, a comment can only be edited until someone else participates in the thread.
+### 啟動提案
 
-### Raise proposals
+這個讓您可以允許每個在您群組中的人都可以在討論串中啟動提案。當這個選項被取消選擇時，則只有群組協調者可以啟動提案。
 
-This allows anyone in your group to start a proposal within a thread. When this box is deselected only group coordinators will be able to raise proposals.
+### 在提案中投票
 
-### Vote on proposals
-
-This allows everyone in your group to state their position on proposals. When it is deselected only group coordinators will be able to state their position on proposals.
+這個讓您可以允許每個在您群組中的人都可以在提案中表達他們的立場。當這個選項被取消選擇時，則只有群組協調者可以在提案中表達他們的立場。

@@ -1,31 +1,31 @@
-# Frequently asked questions
+# 常見問題
 
-## Our group has no money! Can we still use Loomio?
+## 我們的群組沒有錢！我們還能使用 Loomio 嗎？
 
-Yes. You can choose the Gift plan (see our [Pricing](http://loomio.org/pricing) page).
+當然可以！您可以選取禮物方案（請見我們的[價格](http://loomio.org/pricing)頁面）。
 
-## How does the Gift plan work?
+## 禮物方案如何運作？
 
-If your group chooses the Gift plan, your members will see a card like this on their group page:
+如果您的群組選擇了禮物方案，您的成員將會在他們的群組頁面看到像這樣的卡片：
 
-<img class="screenshot" alt="Gift plan card" src="gift-plan-card.png" />
+<img class="screenshot" alt="禮物方案卡片" src="gift-plan-card.png" />
 
-## Do you have prices for annual subscriptions?
+## 你們有年度訂閱的方案嗎？
 
-Yes. Our Standard plan costs US$190 for a year (a saving of $38 on the monthly price), and the Plus plan is US$1790 per year (saving $358).
+有的。我們的標準計畫的價格是一年 190 美元（相對於月繳方案省了 38 美元），而 Plus 方案一年 1790 美元（省下 358 美元）。
 
-## Can I extend my trial?
+## 我可以延長我的試用期嗎？
 
-Yes. Just email [contact@loomio.org](mailto:contact@loomio.org) and ask.
+可以。只要寄送電子郵件到[contact@loomio.org](mailto:contact@loomio.org)詢問就可以了。
 
-## What credit cards do you take?
+## 你們接受哪些信用卡？
 
-Visa and Mastercard. We’re working on American Express.
+Visa 卡與萬事達卡。我們正努力讓美國運通也可以使用。
 
-## Are you GST-registered?
+## 你們有包含消費稅了嗎？
 
-Yes we are. In New Zealand GST is added to the price for all paid subscriptions. GST is not added to donations.
+我們有。在紐西蘭，消費稅會被包含在所有付費商品中。捐款則不含消費稅。
 
-## Can I get invoices?
+## 我可以拿到發票嗎？
 
-When you first set up a subscription you will get an email from Chargify, our payment processor, with the subject line **[Loomio] Manage Your Subscription**. That will include a link to log in to your billing portal, which will let you download statements.
+當您第一次設定訂閱時，您將會從 Chargify，我們的付款處理專員處收到電子郵件，主旨為 **[Loomio] Manage Your Subscription** 。其中將會包含可以登入您的帳單入口的連結，您可以在那裡下載收據。

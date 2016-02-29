@@ -1,63 +1,63 @@
-# Frequently asked questions
+# 常見問題
 
-## Where is my confirmation email?
+## 我的確認電子郵件在哪裡？
 
-If you don’t receive an email confirming your group registration, you might need to check your spam or junk mail folder – sometimes they end up in there.
+如果您沒有收到您註冊群組的確認電子郵件，您應該檢查您的廣告或垃圾郵件匣，有時候它們會誤被歸類到該處。
 
-## I’ve forgotten my password, what do I do?
+## 我忘了我的密碼！我該怎麼辦？
 
-If you’ve forgotten your password click the **"Forgot your password?"** link on the [Log in page](https://www.loomio.org/users/sign_in). You will be asked to enter the email address associated with your Loomio account and password reset instructions will be sent to this email address.
+如果您忘了您的密碼，請點選在[登入頁面](https://www.loomio.org/users/sign_in)上的 **"忘記密碼？"** 連結。您將會被要求輸入與您的 Loomio 帳號相關的電子郵件帳號，然後您就會在您的電子郵件信箱中收到重設密碼的信件。
 
-## Do I need a Loomio account to participate in discussions?
+## 我需要有一個 Loomio 的帳號才能參與討論嗎？
 
-Yes. Even though there are different levels of group privacy, everyone who wishes to participate in a Loomio group needs to have a Loomio account.
+是的。不論是什麼群組隱私的等級，每個想要參與 Loomio 群組的人都必須要有一個 Loomio 帳號。
 
-## Does it cost to use Loomio?
+## 我需要花錢使用 Loomio 嗎？
 
-Check out our pricing plans [here](https://www.loomio.org/pricing).
+在[這裡](https://www.loomio.org/pricing)看看我們的定價方案。
 
-## Can I sign in with Google, Facebook or Twitter?
+## 我可以使用Google、Facebook 或 Twitter 等的帳號登入嗎？
 
-Yes, see [Single sign-on](getting_started.html#single-sign-on).
+可以，見[單一登入](getting_started.html#single-sign-on).
 
-## How can I set up my own instance of Loomio?
+## 我要如何設定一個我自己的 Loomio？
 
-There is an installation guide on our [Github wiki](https://github.com/loomio/loomio/wiki) and a [Loomio Community sub-group](https://www.loomio.org/g/C7I2YAPN/loomio-community-installing-loomio) dedicated to support and assistance with local installations. If you're thinking about installing your own version of Loomio, we highly recommend joining this group.
+在我們的 [Github wiki](https://github.com/loomio/loomio/wiki) 上有一份安裝指南與 [Loomio 社群子群組](https://www.loomio.org/g/C7I2YAPN/loomio-community-installing-loomio)專門支援與協助本機安裝。如果您想要安裝自己的版本的 Loomio，我們強烈建議您加入該群組。
 
-## What size groups work well on Loomio?
+## Loomio 上可以運作多大的群組呢？
 
-Loomio currently works well for groups up to about 1000 people.
+Loomio 目前最多可以在約 1000 人的群組上運作良好。
 
-## I have approved membership requests for people who wanted to join my group but they haven’t shown up as members, what’s going on?
+## 我已經核准了想要加入我的群組的夥伴的成員請求，但他們還沒顯示為成員，發生了什麼事？
 
-If someone who has requested membership to your group hasn’t already got a Loomio account, they will need to create one before they can join your group. After you approve their membership request, they will receive a confirmation email. Following the link in this email will prompt them to create a Loomio account. When their account has been created they will show up as members of your group.
+如果要求您群組的成員資格的某人還沒有取得 Loomio 帳號，他們就必須在加入您的群組前先建立一個。在您核准他們的成員請求後，他們將會收到一封確認信。跟著在該封電子郵件中的連結做，系統將會提示他們建立一個 Loomio 帳號。當他們的帳號建立完成後，他們將會顯示為您群組的成員。
 
-## How can I stop my signature being included in email replies to threads?
+## 我要如何停止把我的簽名檔包含在回覆到討論串的電子郵件中？
 
-There is currently no official standard for distinguishing email signatures from the rest of the email body. To a computer the whole email is just a block of text. The easiest method we have for marking the end of the email body and the beginning of the signature is the double-dash method popularised by Gmail, which involves inserting a double-dash ('--') on its own line between the body of an email and the signature. Other common formats are recognised too, but Gmail's method is very easy to implement. Most programs trying to separate email body from signature (including Loomio) will correctly ignore email signatures if these dashes are included in the right place.
+目前並沒有官方的標準將電子郵件簽名檔與電子郵件的其餘部份區分開來。對電腦來說，整封電子郵件就只是一個文字區塊。我們所知的最簡單的方法也只是由 Gmail 普及的方法，就是在電子郵件正文結尾與簽名開始處以兩個破折號標記，它的做法是將兩個破折號 ('--') 插入到電子郵件正文與簽名間的自己一行。其他常見的方式也可以使用，但 Gmail 的方法相當容易實現。大多數的程式都會嘗試將電子郵件正文與簽名檔分開（包括 Loomio），所以就會把這些擺在正確位置的破折號正確地忽略。
 
-To be sure that your email signature is not included in your comment when you reply by email, you need to begin your signature with a double hyphen on its own line.
+為了確保您的電子郵件簽名檔不會包含在您的意見中，當您以電子郵件回覆時，您必須以兩個在自己的一行的破折號開始您的簽名。
 
-## Will Loomio work on my mobile device?
+## Loomio 在我的行動裝置上可以運作嗎？
 
-Loomio is mobile responsive, so it will work on any device through a browser.
+Loomio 可依裝置的不同做出適當的反應，所以只要透過瀏覽器，它將可以在任何裝置上運作。
 
-## How can I reactivate my account?
+## 我要如何重新啟用我的帳號？
 
-To have your account reactivated, [contact us](https://loomio.org/contact).
+要讓您的帳號重新啟用，[連絡我們](https://loomio.org/contact)。
 
-## I’ve deactivated my group, can I restore it?
+## 我已經停用了我的群組，我要如何將它復原？
 
-Deactivated groups can only be restored by a member of the Loomio team. [Contact us](https://loomio.org/contact) to reactivate your group.
+已停用的群組只能由 Loomio 團隊中的成員復原。[連絡我們](https://loomio.org/contact)以重新啟用您的群組。
 
-## What if I have a feature to suggest?
+## 我可以建議新功能嗎？
 
-We also have an open Loomio Community sub-group dedicated to [Feature Ideas](https://www.loomio.org/g/GN7EFQTK/loomio-community-feature-ideas). You can contribute to discussions about new features there, or make suggest your own feature ideas.
+我們也有一個開放的 Loomio 社群子群組是關於[功能的想法](https://www.loomio.org/g/GN7EFQTK/loomio-community-feature-ideas)。您可以在那裡貢獻關於新功能的討論，或是提出關於您自己的功能的想法。
 
-## Is there a Loomio API?
+## 有 Loomio API 嗎？
 
-We're actively developing and using the API that the new Loomio 1.0 client uses. This implements everything a Loomio client talking to the web service would need. There is currently no server-to-server api, but Loomio is [open source](http://github.com/loomio/loomio) and we welcome contributions.
+我們正積極開發並使用那些新的 Loomio 1.0 客戶端所使用的 API。這個實作了 Loomio 客戶端需要與網路服務溝通的每樣東西。目前沒有伺服器對伺服器的 API，但 Loomio 是[開放原始碼](http://github.com/loomio/loomio)軟體，我們非常歡迎任何貢獻。
 
-## Is it possible to have a Loomio subdomain?
+## 能擁有一個 Loomio 子網域嗎？
 
-Yes. We can, for example, set up **[your-group-name].loomio.org** as the URL for your group. [Contact us](https://loomio.org/contact) if you're interested.
+當然，舉例來說，為您的群組設定 **[您的群組名稱].loomio.org** 作為其 URL。如果您有興趣的話，[連絡我們](https://loomio.org/contact)。
