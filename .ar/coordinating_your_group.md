@@ -1,31 +1,31 @@
-# Coordinating your group
+# تنسيق مجموعتك
 
-As a coordinator of a Loomio group you’re responsible for guiding your group through the process of learning how to use a new piece of software, as well as learning new processes for collaborating more effectively and making good decisions together. The tasks outlined below are only available to the coordinators of your group.
+كمنسق لمجموعة لوميو ستكون مسؤولاً عن إرشاد مجموعتك عبر سير عملية تعلم كيفية استخدام الوظائف الجديدة في البرنامج، بالإضافة إلى تعلم العمليات الجديدة للتعاون بشكل أكثر فاعلية و اتخاذ قرارت جيدة معاً. المهام الموضحة أدناه متوفرة فقط للمنسقين في مجموعتك.
 
-## Adding a cover photo
+## إضافة صورة غلاف
 
-When you first arrive in your new Loomio group, there will be a randomly selected cover photo, and a placeholder for your group logo. You can customise how your group looks by adding your own cover photo and logo. You can upload a new cover photo or logo by selecting the upload button (camera icon) in either section. 
+عندما تصل للمرة الأولى إلى مجموعة لوميو، سيكون هناك صورة مختارة بشكل عشوائي للغلاف، و مكان لشعار مجموعتك.. يمكنك تخصيص مظهر مجموعتك عبر إضافة صور غلاف و شعار خاص بك. يمكنك تحميل صورة غلاف جديدة أو شعار عبر اختيار زر التحميل (أيقونة الكاميرا) في أحد القسمين.
 
-## Managing membership
+## إدارة العضوية
 
 <img class="screenshot" alt="Managing membership page" src="members_page.png" />
 
-Group coordinators can add and remove members, and grant and remove coordinator permissions. These actions can be performed from the **Members** page, which is accessed via the **Manage Members **link in the **Options **menu on the Group page.
+يمكن لمنسقي المجموعة إضافة و حذف الأعضاء، و بإمكانهم أيضاً منح و حذف أذون المنسقين. يمكن تأدية هذه الوظائف من صفحة **الأعضاء**، و التي يمكن النفاذ لها عبر رابط **إدارة الأعضاء** في قائمة **الخيارات** على صفحة المجموعة.
 
-### Adding/removing coordinators
+## إضافة/حذف المنسقين
 
-On the **Members** page, there is a checkbox next to every member. When this checkbox is selected, the member is a coordinator. Deselecting the checkbox removes the coordinator permissions for that member. 
+على صفحة **الأعضاء**، هناك خانة اختيار بجانب كل عضو. عند الضغط على هذه الخانة سيصبح العضو المختار منسقاً. عبر الضغط مرة أخرى و إزالة اختيار الخانة سيتم حذف إذن المنسق و ستتم إعادة المنسق إلى عضو.
 
-### Adding/removing group members
+### إضافة/حذف أعضاء في المجموعة
+على صفحة **الأعضاء**، هناك زر **حذف** أمام اسم كل عضو ![زر حذف العضو] (remove_button.png). سيقوم هذا الزر عن ضغطه بحذف العضو من المجموعة.
 
-On the **Members** page, next to every member there is a **Remove **button ![Remove member button](remove_button.png). This button removes the member from your group.
 
-### Accepting/ignoring membership requests
+### قبول/تجاهل طلبات العضوية
 
-If your [group privacy settings](group_settings.html#group-privacy) allow people to join your group **By request**, a coordinator will need to approve each membership request. Group coordinators will receive an email each time there is a new membership request. The link in the notification email will take you to the **Membership requests** page, where you can approve or decline the request.
+إن كانت [خيارات خصوصية المجموعة] (group_settings.html#group-privacy) لديك تسمح للأشخاص بالإنضمام للمجموعة عبر **طلب الانضمام**، سيكون على المنسق قبول كل طلب عضوية. سيستقبل منسقو المجموعات رسالة الكترونية في كل مرة يكون هناك طلب انضمام عضو جديد. الرابط في التبليغ سيأخذك إلى صفحة **طلبات العضوية**، حيث يمكنك قبول أو رفض الطلبات.
 
-If there is a pending membership request it will also be visible on your group page in a **Membership requests** panel.
+إن كان هناك طلب عضوية في الانتظار سيكون أيضاً ظاهراً على صفحة مجموعتك في لوحة **طلبات العضوية**.
 
-## Deactivating/archiving a group
+##حذف/تنسيق المجموعة
 
-Deactivating your group means that you and the rest of the group members will no longer be able to access the group. If you wish to deactivate your group you can do so by selecting **Deactivate group** from the **Options** menu on the group page. To reactivate your deactivated group, contact the Loomio team by sending an email to [contact@loomio.org](mailto:contact@loomio.org).
+حذف مجموعتك يعني أنه لن يكون بمقدور بقية الأعضاء الدخول إلى الصفحة لاحقاً. إن كنت ترغب في حذف المجموعة يمكنك فعل هذا عبر اختيار **حذف الصفحة** من قائمة **الخيارات** في صفحة مجموعتك. لإعادة تفعيل صفحتك المحذوفة، اتصل بفريق لوميو عبر إرسال رسالة الكترونية إلى العنوان التالي: [contact@loomio.org](mailto:contact@loomio.org).
