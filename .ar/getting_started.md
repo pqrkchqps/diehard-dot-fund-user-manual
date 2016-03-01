@@ -1,21 +1,21 @@
-# Getting started
+## عملية البدء
 
-Your introduction to Loomio might happen in a couple of ways. Here’s some information about each entry point:
+إن عملية دخولك إلى لوميو يمكن أن تحدث بإحدى طريقتين. هنا بعض المعلومات حول كل نقطة دخول:
 
-## Starting a group from the home page
+## البدء بمجموعة من الصفحة الرئيسية
 
 <img class="screenshot" alt="Log in page with single sign-on options" src="log_in_page.png" />
 
-You can start a new group from the Loomio home page by clicking the **Try out Loomio **button. Enter your name, email address and group name into the [**Start a new group**](https://www.loomio.org/start_group) form. You will receive an email containing a link that will take you to your new group.
+يمكنك البدء بمجموعة جديدة من الصفحة الرئيسية في لوميو عبر الضغط على زر **جرب لوميو**. أدخل اسمك، عنوان بريدك الالكتروني، و اسم المجموعة في حقل [**ابدأ مجموعة جديدة**] (https://www.loomio.org/start_group). ستصلك رسالة الكترونية تحوي رابطاً ليأخذك إلى مجموعتك الجديدة.
 
-## You are invited into a Loomio group
+## أنت مدعو إلى مجموعة لوميو
 
-When you receive an invitation to join an existing Loomio group, you will receive a unique invitation link by email.
+عندما تستقبل دعوة للانضمام لمجموعة موجودة في لوميو، سيتم تزويدك برابط حصري للدعوة عبر البريد الالكتروني.
 
-If this is your first time using Loomio you will be prompted to create an account. If you already have a Loomio account you will be taken straight to the group after you log in.
+إن كانت هذه المرة الأولى التي تستخدم فيها لوميو سيتم توجيهك لصفحة إنشاء اشتراك. إن كان لديك اشتراك في لوميو مسبقاً سيتم توجيهك بشكل مباشر إلى المجموعة بعد أن تقوم بتسجيل الدخول.
 
-## Single sign-on
+## تسجيل الدخول الفردي
 
-Loomio allows sign-up with Facebook, Google, Twitter or Persona. If you do not have a Loomio account you can sign up using any of these third-party services by clicking the corresponding button on the [**Log in** page](http://loomio.org/sign_in). If you are currently logged in to Google, Facebook, Twitter or Persona, we'll link your loomio account to that login method. Otherwise you will be prompted to sign in. When Loomio recognises your existing third-party account, follow the prompts to create your Loomio account.
+يتيح لك لوميو الدخول عبر فيسبوك، غووغل، تويتر و بيرسونا. إن لم يكن لديك حساب على لوميو يمكنك الدخول بواسطة حاسب ثالث من هؤلاء المخدمين عبر الضغط على زر المطابقة على [صفحة **تسجيل الدخول**] (http://loomio.org/sign_in). إن كنت قد سجلت دخولك مسبقاً في غووغل، فيسبوك، تويتر، أو بيرسونا، سنقوم بربط حساب لوميو الخاص بك لطريقة الدخول تلك. وإلا فستتم إعادة توجيهك لتسجيل الدخول. عندما يتعرف لوميو على حساب الوسيط الخاص بك قم باتباع التوجيهات لإنشاء حسابك على لوميو.
 
-You may also associate your Google, Facebook, Twitter or Persona account with an existing Loomio account. Ensure you are logged out, visit the [**Log in** page](https://www.loomio.org/users/sign_in) and select your preferred platform. Loomio will ask you if you want to create a new account with your existing account on your chosen platform, or link it to your existing Loomio account.
+يمكنك أيضاً ربط حسابك على غووغل، فيسبوك، تويتر، أو بيرسونا بحساب حالي على لوميو. قم بالتأكد من أنك سجلت خروجك، ثم زر [صفحة **تسجيل الدخول**] (https://www.loomio.org/users/sign_in) و اختر المنصة التي تفضلها. سيقوم لوميو بسؤالك إن كنت تريد إنشاء حساب جديد مع حسابك الحالي على منصتك المختارة، أو ربطها مع الحساب الحالي.
