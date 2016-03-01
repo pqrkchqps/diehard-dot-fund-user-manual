@@ -1,25 +1,24 @@
-# Reading Loomio
+# قراءة لوميو
 
-## Recent Threads
+## المواضيع الحديثة
 
-**Recent Threads** is the landing page when you sign into Loomio. It gives you an overview of the most recent activity happening in your groups. The **Recent Threads** page displays content from your groups in a prioritised list. Open proposals are at the top, followed by **Starred** threads, then all of the threads from your groups, sorted by most recent activity; **Today**, **Yesterday**,** This month**,** Older than a month**.
+صفحة **المواضيع الحديثة** هي الصفحة التي سيتم عرضها عندما تقوم بتسجيل الدخول في لوميو. ستعطيك هذه الصفحة نظرة عامة حول النشاطات الحديثة في مجموعاتك. تقوم صفحة **الموضوعات الحديثة** بعرض المحتوى من المجموعات على قائمة الأولويات خاصتك. ستظهر المقترحات المفتوحة في أعلى القائمة، تليها الموضوعات **المميزة**، و من ثم الموضوعات الأخرى في مجموعاتك، و سيتم تصنيفها حسب النشاط الأحدث، **اليوم**، **البارحة**، **هذا الشهر**، **أقدم من شهر**.
 
-If a thread or proposal title is **bold** then new activity has taken place there since you last visited. Numbers in parentheses after titles reflect how many new comments or votes have been posted since you last visited. Proposals will show a pie graph, with your position on the proposal superimposed on the graph. If you haven’t yet stated a position, this will show a question mark. 
+عندما يكون عنوان الموضوع **غامق** فهذا يعني أن هناك نشاطاً قد حدث منذ آخر زيارة. الأرقام في الأقواس بعد العناوين تعكس عدد التعليقات الجديدة أو التصويتات التي تم نشرها منذ آخر زيارة. ستظهر المقترحات بخريطة بيانية، متضمنة موقفك من المقترح على الخريطة. إن لم تكن قد حددت موقفك بعد، فستظهر علامة استفهام.
 
-## Starred threads
+## المواضيع المميزة
 
-Clicking the star icon on a thread preview marks that thread ‘starred’. Use stars to mark certain threads as important. Only you can see if you’ve starred a thread.
+بالضغط على علامة النجمة على عرض الموضوع ستقوم بتحديده كموضوع مميز. قم باستخدام النجمة لتحديد مواضيع معينة كمهمة. لن يرى أحد سواك مواضيعك المميزة.
 
-## Filter threads
+## تصفية المواضيع
 
-The **Filter Threads **dropdown lets you choose to see:
+تدعك قائمة **تصفية المواضيع** تختار ماذا ترى:
 
-* **Recent Threads:** all threads and proposals with recent activity.
+* **المواضيع الحديثة**: كل المواضيع و المقترحات ذات النشاطات الحديثة.
+* **المواضيع ذات المشاركة**: فقط المواضيع و المقترحات التي شاركت فيها.
+* **المكتومة**: فقط المواضيع التي قمت مسبقاً ب[كتمها] (keeping_up_to_date.html#thread-volume).
 
-* **Participating threads**: only the threads and proposals which you’ve participated in.
+## المواضيع الغير مقروءة
 
-* **Muted: **only the threads which you’ve previously [muted](keeping_up_to_date.html#thread-volume).
-
-## Unread Threads
-
-This page shows all the threads and proposals that have new content since you last visited, sorted by group. You can click **Mark as read **on a thread preview to clear it from this page without actually visiting the thread. You can also [mute](keeping_up_to_date.html#thread-volume)** **threads here.
+تعرض لك هذه الصفحة كافة المواضيع و المقترحات ذات المحتوى الجديد منذ آخر زيارة لك، مصنفة حسب المجموعة. يمكنك الضغط على **تحديد كمقروء** على عرض الموضوع لمسحه من الصفحة دون أن تقوم بزيارة الموضوع. يمكنك أيضاً
+ [كتم] (keeping_up_to_date.html#thread-volume) ** **المواضيع هنا.
