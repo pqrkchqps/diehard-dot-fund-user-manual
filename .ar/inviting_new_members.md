@@ -1,13 +1,14 @@
-# Inviting new members
+# دعوة أعضاء جدد
 
 <img class="screenshot" alt="Action menu" src="action_menu.gif" />
 
-Depending on your [group settings](group_settings.html), new members can be invited either by everyone in the group, or by coordinators only. You’ll find the **Invite people** option on the **Members** panel on your group page, and in the **Action Menu **which can be accessed from anywhere in the app.
+بالاعتماد على [إعداداتك المجموعة] (group_settings.html) الخاصة بك، يمكن إما لجميع الأعضاء دعوة أشخاص جدد إلى المجموعة، أو يمكن هذا فقط لمنسقي المجموعة. ستجد خيار **دعوة أشخاص** على لوحة **الأعضاء** في صفحة مجموعتك، و في **قائمة النشاطات** و التي يمكن الوصول لها من أي مكان في التطبيق.
 
-You can invite multiple people at once by entering their email addresses into the form, separated by commas. When you submit the invitations form an email will be sent to each of the email addresses you supplied, containing a unique invitation link.
+يمكنك دعوة العديد من الأشخاص دفعة واحدة عبر إدخال عناوين بريدهم الإلكتروني في المكان المخصص مع وضع فواصل بين العناوين. عندما تقوم بإرسال نموذج الدعوة سيتم إرسال رسالة الكترونية إلى كل شخص قمت بتزويد عنوانه مع رابط حصري للدعوة.
 
-Optionally, you can also choose to add a custom message to the invitation, which can be a great way to engage new members. People will want to know why they’ve been invited, what’s expected of them, and why it’s worth their time to learn how to use a new tool.
+يمكنك أيضاً أن تختار إضافة رسالة خاصة إلى الدعوة، الأمر الذي قد يكون رائعاً لجذب الأشخاص الجدد. سيرغب الأشخاص بمعرفة لماذا تمت دعوتهم و ماهو المتوقع منهم و لماذا يستحق الأمر أن يقضوا وقتهم بتعلم كيفية استخدام الأداة الجديدة. 
 
-## Pending invitations
 
-If there is an outstanding invitation that has not yet been accepted, it will be displayed in the Pending Invitations section of the **Members** page, which is accessed via the **Manage Members **link in the **Options **menu on the group page. You can revoke a pending invitation with the cancel button (the circled-X icon).
+## الدعوات التي في الانتظار
+
+إن كان هناك دعوة لازالت في انتظار القبول و لم يتم قبولها بعد، سيتم عرضها في قسم الدعوات التي في الانتظار في صفحة **الأعضاء**، و التي يتم الوصول إليها عبر رابط *إدارة الأعضاء* في قائمة **الخيارات** في صفحة المجموعة. يمكنك سحب دعوة في الانتظار عبر زر الإلغاء (علامة الX بداخل الدائرة).
