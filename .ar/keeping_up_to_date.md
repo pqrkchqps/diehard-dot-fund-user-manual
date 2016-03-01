@@ -1,44 +1,38 @@
-# Keeping up to date
+# البقاء على تواصل
 
-## Notifications
+## التبليغات
 
-Notifications control how much you hear from a group or a specific discussion thread. There are four settings for both group notifications and thread notifications.
+التبليغات تقوم بالتحكم بمدى ما تسمعه من المجموعة أو حول موضوع معين. هناك أربعة إعدادات لتبليغات المجموعة و تبليغات المواضيع.
 
-### Group notifications
+### تبليغات المجموعة
 
-Your current group notifications setting will appear in a **Group notifications** card on your group page, underneath the **Members card**. You can change your group notifications setting by clicking the **Change** link inside the **Group notifications** card, and selecting one of the four options:
+إن إعدادات الحالية لتبليغات المجموعة ستظهر في بطاقة **تبليغات المجموعة** على صفحة مجموعتك، تحت **بطاقة الأعضاء**. يمكنك تغيير إعدادات تبليغات مجموعتك عبر الضغط على رابط **تغيير* بداخل بطاقة **تبليغات المجموعة**، و اختيار أحد الخيارات الأربعة:
 
-* **Email everything**: You will be emailed whenever there is activity (comments, votes, new threads, proposals, and proposal outcomes) in this group.
+* **أرسل كل شيء**: سيتم إرسال رسالة إلكترونية لك عند حدوث أي نشاط (تعليق، تصويت، موضوع جديد، مقترح، ونتائج مقترح) في المجموعة.
+* ** أرسل الموضوعات الجديدة و المقترحات**: سيتم إرسال رسالة إلكترونية لك عند وجود موضوع جديد أو مقترح (أي عندما يتم البدء بمقترح جديد، أو عندما يكون المقترح على وشك الإغلاق أو عندما يتم إنشاء نتيجة لمقترح). 
+**أرسل المقترحات** هو الخيار الافتراضي للمجموعات الجديدة.
+* **لا ترسل**: لن يتم إرسال رسالة إلكترونية لك حول أي نشاط في المجموعة، ولكن سيمكنك رؤية النشاطات الجديدة للمجموعة على صفحة [**غير مقروء**] (reading_loomio.html#unread-threads) و الصفحات الحديثة.
 
-* **Email new threads and proposals**: You will be emailed about new threads and proposals (i.e. when a proposal is started, about to close or when a proposal outcome is created). **Email proposals** is the default for new groups.
-
-* **No emails**: You won't be emailed about activity in this group, but you'll see new group activity on your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
-
-* **Mute group**: You won't be emailed about this group, and it will be removed from your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
-
-### Thread notifications
-
-When you start a new thread, it will inherit a default notifications setting from its group. Your current thread notifications setting will appear in a **Thread notifications** card on the thread page. You can change your thread notifications setting by clicking the **Change** link inside the **Thread notifications** card, and selecting one of the four options:
+* **كتم المجموعة**: لن يتم إرسال رسالة إلكترونية لك حول أي نشاط في المجموعة، و سيتم حذفها من صفحة [**غير مقروء**] (reading_loomio.html#unread-threads) و الصفحات الحديثة.
 
 
-* **Email everything**: You will be emailed whenever there is activity (comments, new proposals, votes and proposal outcomes) in this thread.
+### تبليغات المواضيع
 
-* **Email proposals**: You will be emailed when a proposal is started, about to close or when a proposal outcome is created.
-
-* **No emails**: You won't be emailed about this thread.
-
-* **Mute thread**: You won't be emailed about this thread unless someone @mentions you. It will be removed from your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
-
-You can mute threads from thread previews that display on the group page, Recent Threads page and Unread page by hovering over the thread preview and selecting the **Mute** option. You can mark threads as read by selecting the **Mark as read** option. Marking a thread as read will remove it from your [**Unread**](reading_loomio.html#unread-threads) page.
-
-If you have thread notifications for a particular thread set to **Email everything**, you can reply to any comments you receive directly via email and your replies will be posted in the Loomio thread. You can also choose to view the comment in the context of the thread on Loomio by clicking the **view it on www.loomio.org** link in the footer of the email.
+عندما تبدأ موضوعاً جديداً، ستقوم بتبني ذات الإعدادات الافتراضية للتبليغات الخاصة بمجموعتك. ستظهر الإعدادات الحالية لتبليغات موضوعاتك في بطاقة **تبليغات المواضيع** على صفحة المواضيع. يمكنك تغيير إعدادات تبليغات المواضيع عبر الضغط على رابط **تغيير** بداخل بطاقة **تبليغات المواضيع**، و اختيار أحد الخيارات الأربعة:
 
 
-## Email settings
+* **أرسل كل شيء**: سيتم إرسال رسالة الكترونية لك عند حدوث أي نشاط (تعليق، تصويت، مقترح، ونتائج مقترح) في الموضوع.
+* ** أرسل المقترحات**: سيتم إرسال بريد إلكتروني لك عند وجود مقترح (أي عندما يتم البدء بمقترح جديد، أو عندما يكون المقترح على وشك الإغلاق أو عندما يتم إنشاء نتيجة لمقترح). 
+* **لا ترسل**: لن يتم إرسال رسالة إلكترونية لك حول أي نشاط الموضوع.
 
-Your **Email settings** page enables you to set default email notification settings for groups and threads. To visit your **Email settings** page, select the **Email settings** option from the user menu in the navigation bar.
+* **كتم الموضوع**: لن يتم إرسال رسالة إلكترونية لك حول أي نشاط في الموضوع إلا إن تم @ذكرك، و سيتم حذفها من صفحة [**غير مقروء**] (reading_loomio.html#unread-threads) و الصفحات الحديثة.
 
-## Yesterday on Loomio
+يمكنك كتم المواضيع من استعراض المواضيع الذي يظهر على صفحة المجموعة، صفحة الموضوعات الحديثة و صفحة الغير مقروء عبر التلويح فوق عرض الموضوع و اختيار **كتم**. يمكنك تحديد الموضوع كمقروء عبر اختيار **تحديد كمقروء**. تحديد الموضوع كمقروء سيقوم بإزالته من صفحة [**غير مقروء**] (reading_loomio.html#unread-threads).
 
-The **Yesterday on Loomio** email is a daily summary of content you haven't read from the previous day. The email contains everything that is not muted. You can turn this on or off from the **Email settings** page.
+## إعدادات البريد الالكتروني
 
+إن صفحة **إعدادات البريد الالكتروني** تدعك تقرر الإعدادات الافتراضية للتبليغات عبر البريد الالكتروني للمجموعات و الموضوعات. قم بزيارة **إعدادات البريد الالكتروني**، اختر **إعدادات البريد الالكتروني** من قائمة المستخدم في شريط  التصفح.
+
+## البارحة على لوميو
+
+إن الرسالة الالكترونية ل**البارحة على الوميو** هي ملخص يومي للمحتوى الذي لم تقرأه من اليوم السابق. تحتوي الرسالة الالكترونية على كل شيء لم يتم كتمه. يمكنك تفعيل أو إلغاء هذا الخيار من صفحة **إعدادات الإيميل**. 
