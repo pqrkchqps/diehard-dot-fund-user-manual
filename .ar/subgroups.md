@@ -1,17 +1,17 @@
-# Subgroups
+# المجموعات الفرعية
 
-Loomio allows you to create subgroups within your groups. Subgroups let you break your group up into different teams. Loomio subgroups can contain members of the parent group and people who don’t belong to the parent group. Depending on your [group settings](group_settings.html), subgroups can be created either by everyone in the group, or by coordinators only.
+يتيح لك لوميو أن تنشئ مجموعات فرعية بداخل مجموعتك. تدعك المجموعات الفرعية تقسم المجموعة إلى فرق مختلفة. يمكن لمجموعات لوميو الفرعية أ، تحوي أعضاء من المجموعة الأم و أعضاء لا ينتمون للمجموعة الأم. يعتمد هذا على [إعدادات المجموعة] (group_settings.html)، يمكن إنشاء المجموعات الفرعية من قبل أي شخص في المجموعة، أو عبر المنسقين فقط.
 
-To add a subgroup, select the **Add subgroup** option from the **Options** menu on your group page.
+ لإضافة مجموعة فرعية، قم باختيار **إضافة مجموعة فرعية** من قائمة **خيارات** على صفحة المجموعة.
 
-## Subgroup privacy
+## خصوصية المجموعات الفرعية
 
-To visit your subgroup settings page, click the **Options** button on the group page and select the **Edit Group Settings** option from the dropdown menu.
+لزيارة صفحة إعدادات الخصوصية للمجموعة الفرعية، قم بالضغط على زر **خيارات** من صفحة المجموعة و اختر **تعديل إعدادات المجموعة** من القائمة المسدلة.
 
-Subgroup settings are the same as [group settings](group_settings.html), but with additional privacy settings.
+تكون إعدادات المجموعة الفرعية مماثلة ل[إعدادات المجموعة] (group_settings.html)، بالإضافة إلى إعدادات خصوصية إضافية.
 
-In the **Privacy **section of the **Edit Group Settings** form, there is a **Who can find this group? **field, which determines whether the subgroup is accessible to members of the parent group. When the **People in [parent group]** option is selected, the subgroup will be listed in the **Subgroups** panel on the parent group page. Members of the parent will also be able to access the subgroup if they navigate to the subgroup’s page.
+في قسم **الخصوصية* من قائمة **إعدادات خصوصية المجموعة**، هناك حقل **من يمكنه أن يرى هذه المجموعة؟**، و الذي يحدد إمكانية الوصول إلى المجموعة الفرعية من قبل أعضاء المجموعة الأم. عندما يكون خيار **الأشخاص من [المجموعة الأم]** محددأ، يعني هذا أن المجموعة الفرعية سيتم عرضها في لوحة **المجموعات الفرعية** في المجموعة الأم. و سيكون بوسع الأعضاء من المجموعة الأم الدخول للمجموعة الفرعية إن قاموا بتصفح صفحة المجموعات الفرعية.
 
-There is also an additional privacy option relating to the subgroup's discussion privacy.The **Who can see discussions?** field of the **Privacy** section, allows you to choose whether you want discussions to be accessible to members of the parent, or to members of the subgroup only. If you choose to make the subgroup accessible to parent group members, but the discussion threads accessible to members only, then members of the parent will be able to access the subgroup's page, but not access any of the subgroup's threads.
+هناك خيار إضافية للخصوصية بشأن خصوصية نقاشات المجموعات الفرعية. و هو حقل **من يمكنه رؤية النقاشات؟** في قسم **الخصوصية**، و الذي يدع تختار من تريد له أن يصل إلى النقاشات من أعضاء المجموعة الأم، أو أعضاء المجموعة الفرعية فقط. إن قمت باختيار جعل المجموعة الفرعية مفتوحة لأعضاء المجموعة الأم، و حددت أن تكون الموضوعات مرئية للأعضاء في المجموعة الفرعية فقط، فعندها سيكون بوسع أعضاء المجموعة الأم الدخول إلى صفحة المجموعة الفرعية و لكنهم لن يستطيعوا الدخول إلى أي موضوع في المجموعة الفرعية.
 
-When the **People in [parent group]** option is deselected, only members of the subgroup will be able to find it.
+عندما يتم  إزالة اختيار **الأشخاص في [المجموعة الأم]**، فإن أعضاء المجموعة الفرعية فقط من سيكون بوسعه إيجاد المجموعة.
