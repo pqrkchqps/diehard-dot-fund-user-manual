@@ -1,37 +1,42 @@
-# Your user profile
+#ملف المستخدم الشخصي الخاص بك
 
-Your profile page lets you customise your Loomio identity. To visit your profile page select **Profile** from the user menu in the navigation bar.
+إن صفحة الملف الشخصي تدعك تخصص شخصيتك على لوميو. لزيارة صفحة الملف الشخصي الخاص بك قم باختيار **الملف الشخصي** من قائمة المستخدم على شريط التصفح.
 
-## Updating your personal settings
-You can update the name, username, email address and language settings associated with your account by editing the corresponding fields on your profile page, and clicking **Update profile**.
+## تحديث إعداداتك الشخصية
+يمكنك تحديث اسمك، اسم المستخدم، عنوان بريدك الالكتروني، و إعدادات اللغة المرتبطة بحسابك عبر تعديل الحقول في صفحة ملفك الشخصي، و عبر الضغط على **تحديث الملف الشخصي**.
 
-## Uploading a profile photo
-When you first create a Loomio account, your initials will be the default image associated with your profile. You can upload a profile photo by clicking **Change picture** in the **Picture** section of your profile page. If you have a [Gravatar](https://en.gravatar.com/) you can set that as your profile picture by selecting **Use Gravatar**.
+## تحميل صورة الملف الشخصي
 
-## Language settings
-Loomio is available in many languages. It will detect your browser’s language settings, or you can manually set your preferred language by visiting your [profile page](#your-user-profile) and selecting your language from the **Language** dropdown.
+عندما تنشئ حساباً على لوميو للمرة الأولى، فإن الأحرف الأولى من اسمك ستكون الصورة الافتراضية المرتبطة بملفك الشخصي. يمكنك تحميل صورة للملف الشخصي عبر الضغط على **تغيير الصورة** في قسم **الصورة** في ملفك الشخصي. إن كان لديك [غرافاتار] (https://en.gravatar.com/) يمكنك استخدامه كصورة ملف شخصي عبر الضغط على **استخدم غرافاتار**.
 
-## Usernames
-Your username is the name people will use to mention ([@mention](comments.html#-mentioning-group-members)) you in comments. You can change your username by editing the **Username** field on your [profile page](#your-user-profile) and clicking **Update profile**.
+## إعدادات اللغة
+إن لوميو متاح في العديد من اللغات. سيقوم باكتشاف لغة المتصفح الخاص بك، أو يمكنك أن تختار اللغة المفضلة بشكل يدوي عبر زيارة [الملف الشخصي] (#your-user-profile) و اختيار اللغة من قائمة **اللغة**.
 
-## Changing your password
-If you are logged in to Loomio you can change your password by visiting your profile page and clicking **Change your password**. If you are logged out then you can visit the [**Forgot your password?**](https://www.loomio.org/users/password/new) page.
+## اسم المستخدم
+إن اسم المستخدم هو الاسم الذي سيستخدمه الأشخاص لذكرك ([@ذكر] (comments.html#-mentioning-group-members)) في التعليقات. يمكنك تغيير اسم المستخدم الخاص بك عبر تعديل حقل **اسم المستخدم** من صفحة [الملف الشخصي] (#your-user-profile) و اختيار**تحديث الملف الشخصي**.
 
-## Deactivating your account
-If you are not the sole coordinator of any groups you can deactivate your account by visiting your [profile page](#your-user-profile) and clicking **Deactivate account**. If you are the sole coordinator of a group you will be prevented from deactivating your account until you’ve appointed another group coordinator, or archived the group.
+## تغير كلمة المرور
+إن كنت قد سجلت دخولك في لوميو يمكنك تغيير كلمة المرور عبر زيارة صفحة ملفك الشخصي و الضغط على **تغيير كلمة المرور**. إن كنت قد سجلت خروجك يمكنك زيارة صفحة [**هل نسيت كلمة المرور؟**] (https://www.loomio.org/users/password/new).
 
-Once your account has been deactivated:
+## إلغاء حسابك
+إن لم تكن المنسق الوحيد في أي مجموعة يمكنك إلغاء حسابك عبر زيارة صفحة [الملف الشخصي] (#your-user-profile) و الضغط على **إلغاء الحساب**. إن كنت المنسق الوحيد في مجموعة فسيتم منعك من إلغاء الحساب حتى تقوم بتعيين منسق آخر للمجموعة أو تقوم بتنسيق المجموعة.
 
-* you will no longer be listed as a member of any groups
-* comments, proposals and discussions you’ve made will remain but your name will be removed from them
-* you will no longer receive Loomio-related emails
-* you will need to [contact us](https://loomio.org/contact) to reactive your account.
+عندما تقوم بإلغاء حسابك:
 
-## Reactivating your account
-To reactivate a deactivated account, [contact the Loomio team](https://loomio.org/contact).
+* لن يتم عرضك كعضو في أي مجموعة
+* ستبقى التعليقات، المقترحات و النقاشات التي شاركت بها و لكن سيتم حذف اسمك منها
+* لن تقوم باستقبال أي رسائل الكترونية متعلقة بلوميو
+* ستحتاج إلى أن تستعمل خدمة [اتصل بنا] (https://loomio.org/contact) لإعادة تفعيل حسابك.
 
-## Leaving a group
+
+## إعادة تفعيل حسابك
+
+لإعادة تفعيل حسابك، [اتصل بفريق لوميو] (https://loomio.org/contact). 
+
+
+## مغادرة مجموعة
 
 <img class="screenshot" alt="Group options dropdown" src="options_dropdown.png" />
 
-If you are not the sole coordinator of a group then you can leave the group by selecting **Leave group** from the Options menu on the group page. If you are the sole coordinator of your group, you will be prevented from leaving until you appoint another coordinator or deactivate the group.
+إن لم تكن المنسق الوحيد لمجموعة عندها يمكنك مغادرة المجموعة عبر اختيار **مغادرة المجموعة** من قائمة الخيارات في صفحة المجموعة. إن كنت المنسق الوحيد للمجموعة، فسيتم منعك من المغادرة حتى تقوم بتعيين منسق آخر أو تقوم بإلغاء المجموعة.
+
