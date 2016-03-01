@@ -1,31 +1,31 @@
-# Frequently asked questions
+ # الأسئلة المتكررة حول التسعير
 
-## Our group has no money! Can we still use Loomio?
+## ليس لدى مجموعتنا نقود! هل لازال بإمكاننا استخدام لوميو؟
+أجل! يمكك اختيار خطة المنحة (انظر صفحتنا ل[التسعير] (http://loomio.org/pricing)).
 
-Yes. You can choose the Gift plan (see our [Pricing](http://loomio.org/pricing) page).
 
-## How does the Gift plan work?
+## كيف تعمل خطة المنحة؟ 
 
-If your group chooses the Gift plan, your members will see a card like this on their group page:
+إن اختارت مجموعتك خطة المنحة، فسيرى أعضاء مجموعتك بطاقة كهذه على صفحة المجموعة:
 
 <img class="screenshot" alt="Gift plan card" src="gift-plan-card.png" />
 
-## Do you have prices for annual subscriptions?
+## هل لديكم أسعار للاشتراكات السنوية؟
 
-Yes. Our Standard plan costs US$190 for a year (a saving of $38 on the monthly price), and the Plus plan is US$1790 per year (saving $358).
+أجل. الخطة القياسية تكلف 190 دولاراً أمريكياً في السنة (بتوفير قدره 38 دولار أمريكي عن الخطة الشهرية)، و الخطة الزائدة تكلف 1790 دولارأ أمريكياً في السنة (بتوفير قدره 358 دولارأ أمريكياً).
 
-## Can I extend my trial?
+## هل بإمكاني تمديد فترة التجربة؟
 
-Yes. Just email [contact@loomio.org](mailto:contact@loomio.org) and ask.
+أجل. فقط أرسل إلى [contact@loomio.org] (mailto:contact@loomio.org) و قم بالطلب. 
 
-## What credit cards do you take?
+## ما هي البطاقات الإئتمانية التي تقبلونها؟
 
-Visa and Mastercard. We’re working on American Express.
+الفيزا و الماستركارد. نعمل حالياً على قبول الأميركان إكسبريس.
 
-## Are you GST-registered?
+## هل أنتم مسجلون في النظام الضريبي؟ 
 
-Yes we are. In New Zealand GST is added to the price for all paid subscriptions. GST is not added to donations.
+أجل. ضريبة النظام الضريبي في نيوزيلاندا تضاف إلى جميع الاشتراكات المدفوعة. لا يتم إضافة الضريبة على التبرعات.
 
-## Can I get invoices?
+## هل بإمكاني الحصول على وصل دفع؟
 
-When you first set up a subscription you will get an email from Chargify, our payment processor, with the subject line **[Loomio] Manage Your Subscription**. That will include a link to log in to your billing portal, which will let you download statements.
+عندما تقوم بإنشاء اشتراكك للمرة الأولى ستستقبل رسالة إلكترونية من Chargify، وهو معالج الدفعات الخاص بنا، وسيكون عنوان الرسالة **[لوميو] قم بإدارة اشتراكك**. ستتضمن الرسالة رابطاً لتسجيل الدخول إلى بوابة الفواتير، و التي ستدعك تحمل وصل الدفع الخاص بك.
