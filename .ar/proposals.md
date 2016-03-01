@@ -1,51 +1,49 @@
-# Proposals
+# المقترحات
 
 <img class="screenshot" alt="Proposal panel" src="proposal_panel.png" />
 
-Proposals take place in a [discussion thread](discussion_threads.html), which encompasses both the discussion and the proposal. There can only be one active proposal at any time in any thread. 
+يتم إدراج المقترحات في [مواضيع النقاش] (discussion_threads.html)، و التي تشمل النقاش و المقترح معاً. يمكن أن يكون هناك مقترح واحد نشط فقط في أي وقت في الموضوع.
 
-## Starting a proposal
+## بدء مقترح
 
-You can create a new proposal with the **Start proposal** button on the thread page.
+يمكن إنشاء مقترح جديد من خلال الضغط على زر **مقترح جديد** في صفحة الموضوع.
 
-When you start a new proposal you will be required to provide a brief **Title**, a **Closing date** and any relevant **Details**. Use the **Details** field to provide any information the group needs so everyone knows exactly what it means to agree or disagree with the proposal.
+عندما تبدأ مقترحاً جديداً سيطلب منك أن تقوم بتزويد **عنوان** مختصر، **تاريخ الاغلاق** و أي **تفاصيل** أخرى مرتبطة. قم باستخدام حقل **التفاصيل** لتزويد أي معلومات قد تحتاجها المجموعة ليعرف الأعضاء بالضبط ماذا يعني أن يوافقوا أو لا يوافقوا على المقترح.
 
-## Editing a proposal
+## تعديل مقترح
 
-Only the author of the proposal and the group coordinators can edit proposals. The proposal **title** and **details** can only be edited until the first member participates. However, the **closing time** can be changed at any time. 
+يمكن لمؤلف المقترح فقط، بالإضافة إلى منسقي المجموعة، تعديل المقترح. يمكن تعديل **العنوان** و **التفاصيل** فقط حتى المشاركة الأولى من أحد الأعضاء. على كل حال، يمن تعديل **تاريخ الإغلاق** في أي وقت.
 
-To edit the proposal, select the **Edit proposal** option from the proposal options dropdown in the **Proposal** panel.
+لتعديل المقترح، قم باختيار **تعديل المقترح** من قائمة خيارات المقترح في لوحة **المقترح**.
 
-## Stating your position
+## الإدلاء برأيك
 
-When you’re ready participate in a proposal, you can select one of the four decision buttons:
+عندما تكون مستعداً للمشاركة في المقترح، يمكنك اختيار واحد من أحد القرارات الأربعة التالية:
 
-* **Agree** means you’re happy with the proposal.
+* **أوافق** و الذي يعني أنك راض عن المقترح.
+* **أمتنع** و الذي يعني أنك راض بأن تدع المجموعة تقرر دونك.
+* **لا أوافق** و الذي يعني أنه قد يكون هناك بديل أفضل، و لكنك تنتوي أن توافق على قرار المجموعة.
+* **أعترض** و الذي يعني أنه لديك اعتراض جدي و أنك غير راض على الإطلاق بالمتابعة بهذا الاقتراح.
 
-* **Abstain** means you’re happy for the group to decide without you.
+عندما تختار قرارك، سيتم توجيهك لتدلي بتبرير مختصر حول سبب موقفك.
 
-* **Disagree** means you think there might be a better alternative, but you’re willing to go with the group’s decision.
+تحت الخارطة البيانية للمقترح، سيكون هناك قائمة تحتوي الأسماء، المواقف و ملخصات المواقف لكل عضو قام بالتصويت على المقترح. يمكنك رؤية ماذا يفكر الجميع، مما يجعل من السهل أن تلاحق الموضوع. سيكون هناك أيضاً رابط ل**إظهار الأعضاء الذين لم يقرروا بعد**، و الذي سيقوم بعرض الأعضاء الذين لم يقوموا بالتصويت بعد.
 
-* **Block** means you’ve got serious objections and you’ll be extremely unhappy if this proposal goes ahead.
 
-When you’ve selected your position, you will be prompted to give a brief explanation as to why you feel this way.
+## تغيير موقفك
 
-Underneath the proposal pie, there will be a list containing the names, positions and position statements of members who have voted on the proposal. You can see what everyone else thinks, making it easy to catch up with the thread. There will also be a **View undecided members** link, which will display a list of the members who have not voted.
+إن أردت أن تغير موقفك يمكنك فعل هذا عبر الضغط على رابط **تغيير تصويتك** بجانب قرارك في لوحة **المقترح**.
 
-## Changing your position
+## تحديد نتيجة مقترح
 
-If you wish to change your position you can do so by clicking the** Change your vote **link next to your position in the **Proposal** panel.
+عندما يغلق المقترح، سينهار المقترح و يتحول إلى لوحة **المقترحات السابقة**. يمكنك تمديد المقترح عبر الضغط على رابط **تمديد** بداخل عرض المقترح.
 
-## Setting a proposal outcome
+سيتم عرض حقل لبيان النتيجة بشكل قابل للتعديل تحت تفاصيل المقترح، و سيتم توجيه الشخص الذي قام برفع المقترح عبر رسالة الكترونية ليقوم بتزويد بيان النتيجة للمقترح. يمكن لنتائج المقترحات أن تحدد من قبل الشخص الذي قام ببدء المقترح، أو من قبل المنسق في المجموعة. عندما يتم تحديد نتيجة المقترح سيتم إرسال رسالة الكترونية للجميع لتبليغهم بالنتيجة.
 
-When a proposal closes, it collapses into a **Previous proposals** panel. You can expand the proposal by clicking the **Expand **link inside the proposal preview.
+## إغلاق مقترح
 
-An editable outcome statement field will display underneath the proposal details, and the person who raised the proposal will be prompted via email to provide an outcome statement for their proposal. Proposal outcomes can be set by the person who started the proposal, or by the coordinators of the group. When the proposal outcome statement is set everyone in the group will receive an email notifying them of the outcome.
+يمكن فقط للعضو الذي بدأ المقترح أو المنسق أن يقوم بإغلاق مقترح نشط. لإغلاق المقترح، إختر **إغلاق مقترح** من خيارات المقترحات.
 
-## Closing a proposal
+## المقترحات المغلقة/القرارات السابقة
 
-Only the group member who started the proposal and the coordinators of the group can close an active proposal. To close a proposal, select the **Close proposal** option from the proposal options dropdown. 
-
-## Closed proposals/previous decisions
-
-Closed proposals are reduced to a proposal preview and collapsed into a **Previous proposals** panel. You can expand the proposal by clicking the **Expand **link inside the proposal preview.
+يتم اختصار المقترحات المغلقة في عرض المقترحات و تقوم بالانهيار وتتحول إلى لوحة **المقترحات السابقة**. يمكنك تمديد المقترح عبر الضغط على رابط **تمديد** في داخل عرض المقترح.
