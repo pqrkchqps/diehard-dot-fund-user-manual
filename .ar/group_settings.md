@@ -1,62 +1,64 @@
-# Group settings
+# إعدادات المجموعة
 
 <img class="screenshot" alt="Group options dropdown" src="edit_group_settings.gif" />
 
-Group coordinators can edit group settings: **Profile**, **Privacy** and **Permissions**.
+يمكن لمنسقي المجموعات تعديل إعدادات المجموعة: **الملف الشخصي**، **الخصوصية** و **الأذونات**.
 
-To edit your group settings, open the **Options** menu on the group page and select **Edit Group Settings**.
-
-## Group profile
-
-Your group profile consists of your group name and group description.
-
-The description gives new members a clear understanding of what that group is for. When adding a group description, describe what your group intends to do, for example, *A public group for us to approve requests for use of the gallery space* or *The space for our board members to consider budget proposals*.
-
-## Group privacy
-
-Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.
-
-When you start a new group, it will be automatically set to **Closed**: threads are only visible to group members, but the group name, description, and members list will be public. This means people can find your group and ask to join it, but the content of your discussions and decisions will stay private.
-
-If you want the content of your discussions and decisions to be public on the web, change your group privacy to **Open**.
-
-If you want to totally hide your group, set your group privacy to **Secret**. This will mean only invited members will be able to see the group name, description, members list, and threads.
-
-Note, if you have a Secret group and change it to Open, all your existing threads will be made public. The same is true in reverse: changing an Open group to Secret will make all your threads private.
+لتعديل إعدادات مجموعتك، إفتح قائمة **الخيارات** على صفحة المجموعة و اختر **تعديل إعدادات المجموعة**
 
 
-## Group permissions – what can members do?
+## ملف المجموعة الشخصي
 
-Coordinators set the group permissions to configure what members can do in their group.
+إن ملف مجموعتك الشخصي يتألف من اسم مجموعتك و وصفها
 
-### Allow public threads
+يمنح وصف المجموعة فهماً جيداً للأعضاء الجدد حول طبيعة المجموعة. عندما تضيف وصفاً للمجموعة، صف ماذا تنتوي مجموعتك أن تفعل. على سبيل المثال، *مجموعة عامة لنا لنوافق على طلبات استخدام المعرض* أو *المساحة المخصصة لأعضاء مجلسنا لمناقشة اقتراحات الميزانيات*.
 
-In **Closed** groups, you can use this option to allow public and private threads in your group. When you start a thread, you can decide whether it is public or private.
+## خصوصية المجموعة
 
-### Invite and approve new members
+إن اعدادات الخصوصية الخاصة بك تحدد من بوسعه إيجاد مجموعتك، و من بوسعه رؤية المواضيع في المجموعة و كيف يمكن للأشخاص أن ينضموا.
 
-This allows everyone in your group to invite new people in, and approve any membership requests. When it is deselected only group coordinators will be able to invite and approve new members.
+عندما تبدأ مجموعة جديدة، سيتم تعديل الاعدادات بشكل تلقائي إلى **مجموعة مغلقة**: ستكون قوائم الأعضاء و المواضيع مرئية فقط لأعضاء المجموعة، و لكن اسم ووصف المجموعة سيكونان عامين. هذا يعني أنه بإمكان الأشخاص إيجاد مجموعتك و طلب الانضمام لها، و لكن محتوى النقاشات و القرارات سيقاً خصوصياً، إلا إذا قمت بالسماح بموضوعات عامة.
 
-### Create sub-groups
+إن أردت أن يكون محتوى نقاشاتك و قراراتك عاماً على الشبكة، قم بتعديل خصوصية المجموعة إلى **مجموعة مفتوحة**. ستظل قوائم الأعضاء ظاهرة فقط لأعضاء المجموعة.
 
-This allows everyone in your group to create subgroups. When it is deselected only group coordinators will be able to create subgroups.
+إن كنت تريد إخفاء مجموعتك بشكل كامل، قم بتعديل خصوصية مجمموعتك إلى **مجموعة سرية**. سيعني هذا أنه بوسع الأعضاء المدعوين فقط رؤية اسم المجموعة ووصفها، و قوائم الأعضاء و الموضوعات.
 
-### Start threads
+ملاحظة، إن كنت تملك مجموعة سرية و غيرتها إلى مجموعة مفتوحة، سيتم تحويل كل الموضوعات الحالية إلى عامة. العكس أيضاً صحيح: تغيير المجموعة من مفتوحة إلى سرية سيجعل كل الموضوعات خاصة.
 
-This allows everyone in your group to start new threads. When it is deselected only group coordinators will be able to start discussions.
+## أذونات المجموعة – ماذا يمكن للأعضاء فعله؟
 
-### Edit the context of any thread in the group
+يمكن للمنسقين منح أذونات للمجموعة لتحديد ماذا يمكن للأعضاء في المجموعة فعله.
 
-This allows everyone in your group to edit the context of any thread. When it is deselected only group coordinators will be able to edit the thread context. (The person who started a thread can always edit the thread context.)
+### السماح بموضوعات عامة
 
-### Edit their comments at any time
+في **المجموعات المغلقة** يمكنك اختيار السماح بموضوعات عامة و خاصة. عندما تبدأ موضوعاً، سيمكنك تحديد إمكانية جعله خاصاً أو عاماً.
 
-This allows everyone in your group to [edit their comments](comments.html#editing-a-comment) at any time. When it is deselected, a comment can only be edited until someone else participates in the thread.
 
-### Raise proposals
+### دعوة و الموافقة على أعضاء جدد
 
-This allows anyone in your group to start a proposal within a thread. When this box is deselected only group coordinators will be able to raise proposals.
+يسمح هذا لجميع أعضاء مجموعتك بدعوة أشخاص جدد، و الموافقة على طلبات العضوية. عندما تزيل هذا الخيار يصبح بوسع المنسقين فقط أن يقوموا بدعوة أعضاء جدد و الموافقة على طلبات العضوية.
 
-### Vote on proposals
+### إنشاء مجموعات فرعية
 
-This allows everyone in your group to state their position on proposals. When it is deselected only group coordinators will be able to state their position on proposals.
+يتيح هذا الخيار للجميع في مجموعتك أن ينشئوا مجموعات فرعية. عندما تزيل هذا الخيار سيكون بوسع المنسقين فقط إنشاء مجموعات فرعية.
+
+### بدء موضوع
+
+يتيح هذا الخيار للجميع في مجموعتك أن يبدأوا موضوعات جديدة، عندما تزيل هذا الخيار سيكون بوسع المنسقين فقط بدء موضوعات جديدة.
+
+### تعديل سياق أي موضوع في المجموعة
+
+يتيح هذا الخيار للجميع في مجموعتك أن يقوموا بتعديل سياق أي موضوع. عندما تزيل هذا الخيار سيكون بوسع المنسقين فقط تعديل سياق المواضيع. (سيظل دائماً بإمكان الشخص الذي قام ببدء الموضوع أن يقوم بتعديل سياقه).
+
+### تعديل تعليقات الأعضاء في أي وقت
+
+يتيح هذا الخيار للجميع في مجموعتك أن يقوموا [بتعديل تعليقاتهم] (comments.html#editing-a-comment) في أي وقت. عندما تزيل هذا الخيار سيكون بوسع الشخص تعديل التعليق قبل أن يقوم شخص آخر بالمشاركة على الموضوع.
+
+### رفع المقترحات
+
+يتيح هذا الخيار للجميع في مجموعتك أن يقوموا برفع مقترحات. عندما تزيل هذا الخيار سيكون بوسع المنسقين فقط رفع المقترحات.
+
+
+### التصويت على المقترحات
+
+يتيح هذا الخيار للجميع في مجموعتك أن يقوموا بالتصويت على المقترحات. عندما تزيل هذا الخيار سيكون بوسع المنسقين فقط التصويت على المقترحات.
