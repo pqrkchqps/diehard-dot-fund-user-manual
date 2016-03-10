@@ -1,51 +1,51 @@
-# Proposals
-
+# Propostas
+ 
 <img class="screenshot" alt="Proposal panel" src="proposal_panel.png" />
-
-Proposals take place in a [discussion thread](discussion_threads.html), which encompasses both the discussion and the proposal. There can only be one active proposal at any time in any thread. 
-
-## Starting a proposal
-
-You can create a new proposal with the **Start proposal** button on the thread page.
-
-When you start a new proposal you will be required to provide a brief **Title**, a **Closing date** and any relevant **Details**. Use the **Details** field to provide any information the group needs so everyone knows exactly what it means to agree or disagree with the proposal.
-
-## Editing a proposal
-
-Only the author of the proposal and the group coordinators can edit proposals. The proposal **title** and **details** can only be edited until the first member participates. However, the **closing time** can be changed at any time. 
-
-To edit the proposal, select the **Edit proposal** option from the proposal options dropdown in the **Proposal** panel.
-
-## Stating your position
-
-When you’re ready participate in a proposal, you can select one of the four decision buttons:
-
-* **Agree** means you’re happy with the proposal.
-
-* **Abstain** means you’re happy for the group to decide without you.
-
-* **Disagree** means you think there might be a better alternative, but you’re willing to go with the group’s decision.
-
-* **Block** means you’ve got serious objections and you’ll be extremely unhappy if this proposal goes ahead.
-
-When you’ve selected your position, you will be prompted to give a brief explanation as to why you feel this way.
-
-Underneath the proposal pie, there will be a list containing the names, positions and position statements of members who have voted on the proposal. You can see what everyone else thinks, making it easy to catch up with the thread. There will also be a **View undecided members** link, which will display a list of the members who have not voted.
-
-## Changing your position
-
-If you wish to change your position you can do so by clicking the** Change your vote **link next to your position in the **Proposal** panel.
-
-## Setting a proposal outcome
-
-When a proposal closes, it collapses into a **Previous proposals** panel. You can expand the proposal by clicking the **Expand **link inside the proposal preview.
-
-An editable outcome statement field will display underneath the proposal details, and the person who raised the proposal will be prompted via email to provide an outcome statement for their proposal. Proposal outcomes can be set by the person who started the proposal, or by the coordinators of the group. When the proposal outcome statement is set everyone in the group will receive an email notifying them of the outcome.
-
-## Closing a proposal
-
-Only the group member who started the proposal and the coordinators of the group can close an active proposal. To close a proposal, select the **Close proposal** option from the proposal options dropdown. 
-
-## Closed proposals/previous decisions
-
-Closed proposals are reduced to a proposal preview and collapsed into a **Previous proposals** panel. You can expand the proposal by clicking the **Expand **link inside the proposal preview.
+ 
+As propostas acontecem em um [tópico de discussão](discussion_threads.html), que engloba tanto a discussão quanto a proposta. Só pode haver uma proposta ativa por vez em qualquer tópico.
+ 
+## Iniciando uma proposta
+ 
+Você pode criar uma nova proposta com o botão **Iniciar proposta** na página do tópico.
+ 
+Quando você inicia uma nova proposta, você será obrigado a fornecer um breve **Título**, uma **Data de encerramento** e quaisquer **Detalhes** relevantes. Utilize o campo **Detalhes** para fornecer qualquer informação que o grupo precise para que todos saibam exatamente o que significa concordar ou discordar com a proposta.
+ 
+## Editando uma proposta
+ 
+Apenas o autor da proposta e os coordenadores dos grupos podem editar propostas. O **Título** da proposta e **Detalhes** só podem ser editados até que o primeiro membro participe. No entanto, o **Período de encerramento** pode ser alterado a qualquer momento.
+ 
+Para editar a proposta, selecione a opção **Editar proposta ** na lista suspensa de opções da proposta no painel **Proposta**.
+ 
+## Afirmando a sua posição
+ 
+Quando você estiver pronto para participar de uma proposta, você pode selecionar um dos quatro botões de decisão:
+ 
+* **Concordo** significa que você está satisfeito com a proposta.
+ 
+* **Abstenção** significa que você está satisfeito que o grupo decida sem você.
+ 
+* **Discordo** significa que você acha que pode haver uma alternativa melhor, mas você está disposto a aceitar com a decisão do grupo.
+ 
+* **Bloqueio** significa que você tem sérias objeções e vai ficar extremamente insatisfeito se esta proposta for adiante.
+ 
+Depois de selecionar sua posição, você será solicitado a dar uma breve explicação a respeito de porque você se sente assim.
+ 
+Abaixo do gráfico haverá uma lista contendo os nomes, posições e declarações de posicionamento dos membros que votaram na proposta. Você pode ver o que todo mundo pensa, tornando mais fácil recuperar o atraso no tópico. Haverá também um link **Ver membros indecisos**, que irá mostrar uma lista dos membros que não votaram.
+ 
+## Mudando sua posição
+ 
+Se você desejar alterar a sua posição, você pode fazê-lo clicando no link **Modificar o seu voto** ao lado da sua posição no painel **Proposta**.
+ 
+## Configurando um resultado de proposta
+ 
+Quando uma proposta fecha, ela colapsa em um painel de **Propostas anteriores**. Você pode expandir a proposta clicando no link **Expandir ** dentro da pré-visualização da proposta.
+ 
+Um campo editável do resultado exibirá abaixo os detalhes da proposta, e a pessoa que levantou a proposta será solicitada via e-mail a fornecer uma declaração de resultado para sua proposta. Resultados de proposta podem ser definidos pela pessoa que iniciou a proposta ou pelos coordenadores do grupo. Quando uma declaração do resultado da proposta é definida todos no grupo recebem um e-mail notificando-os sobre o resultado.
+ 
+## Fechando uma proposta
+ 
+Apenas os membros do grupo que começam a proposta e os coordenadores do grupo podem fechar uma proposta ativa. Para fechar uma proposta, selecione a opção **Encerrar proposta** na lista suspensa de opções da proposta.
+ 
+## Propostas encerradas/decisões anteriores
+ 
+Propostas fechadas são reduzidas a uma pré-visualização da proposta e colapsam em um painel de **Propostas anteriores**. Você pode expandir a proposta clicando no link **Expandir ** dentro da pré-visualização da proposta.
