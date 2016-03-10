@@ -1,17 +1,13 @@
-# Inviting new members
-
-<img class="screenshot" alt="Action menu" src="action_menu.gif" />
-
-Depending on your [group settings](group_settings.html), new members can be invited either by everyone in the group, or by coordinators only. You’ll find the **Invite people** option on the **Members** panel on your group page, and in the **Action Menu ** which can be accessed from anywhere in the app.
-
-You can invite up to 100 people at once by entering their email addresses separated by commas.
-
-When you submit the invitations an email will be sent to each of the email addresses you supplied, containing a unique invitation link that can only be used once. This email will be sent in your profile language.
-
-You can also add a custom message to the invitation, which is a great way to engage new members. People will want to know why they’ve been invited, what’s expected of them, and why it’s worth their time to learn how to use a new tool.
-
-Alternatively, You can use the Shareable invite link to invite people to join your group. To do so, click on **Shareable link**, copy the link and send it to as many people as you wish.
-
-## Pending invitations
-
-If there is an outstanding invitation that has not yet been accepted, it will be displayed in the Pending Invitations section of the **Members** page, which is accessed via the **Manage Members ** link in the **Options ** menu on the group page. You can revoke a pending invitation with the cancel button (the circled-X icon).
+# Convidar novos membros
+ 
+<img class = "Captura de tela" alt = "menu Ação" src = "action_menu.gif" />
+ 
+Dependendo das suas [configurações de grupo](group_settings.html), os novos membros podem ser convidados por todos no grupo ou apenas por coordenadores. Você encontrará a opção **Convidar pessoas** no painel **Membros** na página do seu grupo e no Menu **Ação**, que pode ser acessado de qualquer lugar do aplicativo.
+ 
+Você pode convidar várias pessoas ao mesmo tempo digitando endereços de e-mail separados por vírgulas no formulário. Quando você enviar o formulário de convites um e-mail será enviado para cada um dos endereços de e-mail que você forneceu, contendo um link de convite único.
+ 
+Opcionalmente, você também pode optar por adicionar uma mensagem personalizada ao convite, que pode ser uma ótima maneira de envolver novos membros. As pessoas vão querer saber porque foram convidadas, o que se espera deles, e porque vale a pena investir tempo para aprender a usar uma nova ferramenta.
+ 
+## Convites pendentes
+ 
+Se houver um convite pendente que ainda não tenha sido aceito, ele será exibido na seção Convites Pendentes na página **Membros** , que é acessada através do link **Administrar Membros** no menu **Opções** na página do grupo. Você pode revogar um convite pendente com o botão cancelar (o ícone X dentro do círculo).
