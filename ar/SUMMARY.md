@@ -8,7 +8,7 @@
 * [مواضيع للنقاش](discussion_threads.md)
 * [تعليقات](comments.md)
 * [مقترحات](proposals.md)
-* [مجموعات فرعية](subgrups.md)
+* [مجموعات فرعية](subgroups.md)
 * [قراءة لوميو](reading_loomio.md)
 * [مواكبة](keeping_up_to_date.md)
 * [ملفك المستخدم خاصتك](your_user_profile.md)
