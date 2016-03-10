@@ -9,7 +9,7 @@
 * [Comentários](comments.md)
 * [Propostas](proposals.md)
 * [Subgrupos](subgroups.md)
-* [Lendo Loomio] (reading_loomio.md)
+* [Lendo Loomio](reading_loomio.md)
 * [Mantendo-se atualizado](keeping_up_to_date.md)
 * [Seu perfil de usuário](your_user_profile.md)
 * [Preços](pricing.md)
