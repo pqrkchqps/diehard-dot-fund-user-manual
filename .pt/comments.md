@@ -1,33 +1,32 @@
-# Comments
-
-## Posting comments
-
-To contribute to a thread, enter your comment into the comment form at the bottom of a thread and click the **Post** button. If Loomio has emailed you a comment, you can also reply directly from your email and your message will appear in the thread.
-
+# Comentários
+ 
+## Comentários em postagens
+ 
+Para contribuir para uma lista de discussão, escreva seu comentário no formulário de comentário na parte inferior de um tópico e clique no botão **Publicar**. Se o Loomio lhe enviou um comentário, você também pode responder diretamente do seu e-mail, então a sua mensagem irá aparecer na lista de discussão.
 ## Markdown
-
-Loomio uses **Markdown** to let you format text and embed images. For more information on how to use Markdown, read [this guide](https://www.loomio.org/markdown).
-
-## Attaching files
-
+ 
+Loomio usa **Markdown** para que você possa formatar textos e imagens inseridas. Para mais informações sobre como usar Markdown, leia [este guia](https://www.loomio.org/markdown).
+ 
+## Anexando arquivos
+ 
 <img class="screenshot" alt="Attachment icon" src="attachment_icon.png" />
-
-You can attach files to comments using the attachment button next to the **Post** button on the comment form. You will be prompted to select a file from your device.
-
-## @mentioning group members
-
-If you want to get the attention of a specific person in your group, type **@** into the comment field, followed by their name. As you type, a menu will appear, listing the members in your group that match that name. Select the member you want, then **Post** your comment. They will be notified that you’ve mentioned them in a comment.
-
-## Editing comments
-
+ 
+Você pode anexar arquivos em comentários usando o botão de anexo ao lado do botão **Postar** no formulário de comentário. Você será solicitado a selecionar um arquivo do seu dispositivo.
+ 
+## @mencionando membros do grupo
+ 
+Se você quiser chamar a atenção de uma pessoa específica no seu grupo, digite **@** no campo de comentário, seguido do nome da pessoa. Conforme você digita, um menu irá aparecer, listando os membros do seu grupo que correspondem a esse nome. Selecione o membro que você quer, então **Poste** o seu comentário. Eles serão notificados de que você os mencionou em um comentário.
+ 
+## Editando comentários
+ 
 <img class="screenshot" alt="Comment options dropdown" src="edit_comment.gif" />
-
-By default, groups are configured so that a comment can only be edited until someone else contributes a comment to the thread. Group coordinators can also [configure groups to allow users to edit their comments at any time](group_settings.html#group-permissions-%E2%80%93-what-can-members-do). If you are able to edit your comment, the **Edit comment **option is in the **Comment options** dropdown.
-
-## Liking comments
-
-You can show another member of your group that you appreciate or understand what they’ve said by using the **Like** button below the comment. This will add your name to the list of people who like the comment. You can undo the **Like** action by clicking **Unlike** on the comment.
-
-## Deleting comments
-
-You can delete your own comments by selecting the **Delete comment** option from the **Comment options** dropdown. Group coordinators can delete any comment in the group.
+ 
+Por padrão, os grupos são configurados para que um comentário só possa ser editado desde que outra pessoa contribua com um comentário para o tópico. Os coordenadores dos grupos também podem [configurar grupos para permitir que os usuários editem seus comentários a qualquer momento](group_settings.html#group-permissions-%E2%80%93-what-can-members-do). Se você é capaz de editar o seu comentário, a opção **Editar comentário** estará nas **Opções de comentário**.
+ 
+## Curtindo comentários
+ 
+Você pode mostrar aos outros membros do seu grupo que você aprecia ou entende o que eles disseram usando o botão **Curtir** abaixo do comentário. Isto irá adicionar o seu nome à lista de pessoas que gostam do comentário. Você pode desfazer a ação **Curtir** clicando **Não curtir** no comentário.
+ 
+## Excluindo comentários
+ 
+Você pode apagar os seus próprios comentários selecionando a opção **Apagar comentário** a partir das **Opções de comentário** suspensa. Os coordenadores dos grupos podem excluir qualquer comentário no grupo.
