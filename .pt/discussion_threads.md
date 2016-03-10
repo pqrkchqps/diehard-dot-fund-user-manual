@@ -1,33 +1,33 @@
-# Discussion threads
-
+# Tópicos de discussão
+ 
 <img class="screenshot" alt="Discussion thread" src="thread_page.png" />
-
-Discussion threads are where your group can discuss a topic, exchange information and make decisions together.
-
-The thread page is divided into three main sections:
-
-1. The **Context** panel contains the thread title, context and thread options.
-
-2. The **Activity **feed contains any updates to the thread. For example, if someone posts a new comment, or starts a new proposal, that activity will show up in this list.
-
-3. The **Proposal **section contains any current or closed proposals for that thread.
-
-## Starting a thread
-
-You can start a new thread from anywhere in the app via the **Action Menu**. There is also a **Start a thread **button on the group page.
-
-The **Start new thread** form asks for a **Title** and **Context**. The **Title** is a succinct description of the topic being discussed. The **Context** is where you can share any background information your group members need to participate meaningfully in the thread. You can update the **Context **at any time, which can be a useful way to summarise a complex thread.
-
-Loomio uses **Markdown** for text formatting. You can use Markdown in the context panel to format your discussion context, or to embed images. For more information on how to use Markdown, click the **Formatting help** link underneath the comment box at the bottom of the thread page to open [the Markdown guide](https://loomio.org/markdown).
-
-## Thread privacy
-
-If your [group settings](group_settings.html) allow both public and private threads, when you start a thread you can choose whether it is public (publicly searchable), or private (only visible to members of your group).
-
-## Editing a thread
-
-**Group members** can edit the title, context and privacy of any thread they have started. **Group coordinators** can edit the title, context and privacy of any threads taking in the group. **Group coordinators** can also determine whether or not group members can edit each others’ threads (see [Group settings](group_settings.html)).
-
+ 
+Tópico de discussão é o lugar onde o seu grupo pode discutir um tema, trocar informações e tomar decisões juntos.
+ 
+A página de discussão é dividida em três seções principais:
+ 
+1. O painel de **Contexto** contém o título da discussão, o contexto e as opções do tópico.
+ 
+2. O feed de **Atividade** contém todas as atualizações do tópico. Por exemplo, se alguém postar um novo comentário ou inicia uma nova proposta a atividade vai aparecer nesta lista.
+ 
+3. A seção **Proposta** contém propostas abertas ou fechadas no tópico.
+ 
+## Iniciando um tópico
+ 
+Você pode iniciar um novo tópico de qualquer lugar do aplicativo por meio do **Menu Ação**. Há também um botão **Iniciar uma discussão** na página do grupo.
+ 
+O formulário **Iniciar uma nova discussão** pede um **Título** e **Contexto**. O **Título** é uma descrição sucinta do tema a ser discutido. O **Contexto** é o lugar onde você pode compartilhar qualquer informação que os membros do seu grupo precisam para participar de forma significativa no tópico. Você pode atualizar o **Contexto** a qualquer momento, o que pode ser uma maneira útil para resumir uma discussão complexa.
+ 
+Loomio utiliza **Markdown** para formatação de texto. Você pode usar Markdown no painel de contexto para formatar o contexto da discussão ou para incorporar imagens. Para mais informações sobre como usar Markdown, clique no link **Ajuda de Formatação** em baixo da caixa de comentário na parte inferior da página de discussão para abrir [o guia Markdown](https://loomio.org/markdown).
+ 
+## Privacidade do tópico
+ 
+Se as suas [configurações de grupo](group_settings.html) permite tópicos público e privado, quando você iniciar uma discussão você pode escolher se é público (publicamente pesquisável) ou privado (visível apenas para os membros do seu grupo).
+ 
+## Editando um tópico
+ 
+ Os **Membros do grupo** podem editar título, contexto e privacidade de qualquer tópico que tenham começado. **Coordenadores dos grupos** podem editar título, contexto e privacidade de qualquer tópico no grupo. Os **Coordenadores dos grupos** também podem determinar se membros do grupo podem ou não editar tópicos uns dos outros (ver [Configurações do grupo](group_settings.html)).
+ 
 <img class="screenshot" alt="Discussion thread options dropdown" src="edit_thread.gif" />
-
-The **Edit thread **option is accessed via the thread options dropdown.
+ 
+A opção **Editar tópico** é acessada através das opções do dropdown no tópico.
