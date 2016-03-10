@@ -1,47 +1,43 @@
-# Keeping up to date
-
-## Notifications
-
-Notifications control how much you hear from a group or a specific discussion thread. There are four settings for both group notifications and thread notifications.
-
-### Group notifications
-
-<img class="screenshot" alt="group notifications" src="edit_group_notifications.gif" />
-
-Your current group notifications setting will appear in a **Group notifications** card on your group page, underneath the **Members card**. You can change your group notifications setting by clicking the **Change** link inside the **Group notifications** card, and selecting one of the four options:
-
-* **Email everything**: You will be emailed whenever there is activity (comments, votes, new threads, proposals, and proposal outcomes) in this group.
-
-* **Email new threads and proposals**: You will be emailed about new threads and proposals (i.e. when a proposal is started, about to close or when a proposal outcome is created). **Email proposals** is the default for new groups.
-
-* **No emails**: You won't be emailed about activity in this group, but you'll see new group activity on your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
-
-* **Mute group**: You won't be emailed about this group, and it will be removed from your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
-
-### Thread notifications
-
-<img class="screenshot" alt="notifications" src="edit_thread_notifications.gif" />
-
-When you start a new thread, it will inherit a default notifications setting from its group. Your current thread notifications setting will appear in a **Thread notifications** card on the thread page. You can change your thread notifications setting by clicking the **Change** link inside the **Thread notifications** card, and selecting one of the four options:
-
-
-* **Email everything**: You will be emailed whenever there is activity (comments, new proposals, votes and proposal outcomes) in this thread.
-
-* **Email proposals**: You will be emailed when a proposal is started, about to close or when a proposal outcome is created.
-
-* **No emails**: You won't be emailed about this thread.
-
-* **Mute thread**: You won't be emailed about this thread unless someone @mentions you. It will be removed from your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
-
-You can mute threads from thread previews that display on the group page, Recent Threads page and Unread page by hovering over the thread preview and selecting the **Mute** option. You can mark threads as read by selecting the **Mark as read** option. Marking a thread as read will remove it from your [**Unread**](reading_loomio.html#unread-threads) page.
-
-If you have thread notifications for a particular thread set to **Email everything**, you can reply to any comments you receive directly via email and your replies will be posted in the Loomio thread. You can also choose to view the comment in the context of the thread on Loomio by clicking the **view it on www.loomio.org** link in the footer of the email.
-
-
-## Email settings
-
-Your **Email settings** page enables you to set default email notification settings for groups and threads. To visit your **Email settings** page, select the **Email settings** option from the user menu in the navigation bar.
-
-## Yesterday on Loomio
-
-The **Yesterday on Loomio** email is a daily summary of content you haven't read from the previous day. The email contains everything that is not muted. You can turn this on or off from the **Email settings** page.
+# Manter-se atualizado
+ 
+## Notificações
+ 
+Notificações controlam o quanto você ouve de um grupo ou de uma discussão específica. Há quatro configurações para as notificações de grupo e de tópicos.
+ 
+### Notificações de Grupo
+ 
+Suas atuais configurações de notificações de grupo irão aparecer em um cartão de **Notificações de Grupo** na página do seu grupo, embaixo da placa do cartão **Membros**. Você pode alterar as configurações de notificações de grupo clicando no link **Modificar** dentro do cartão **Notificações de Grupo**, e selecionando uma das quatro opções:
+ 
+* **Enviar e-mail de tudo**: Você receberá um e-mail sempre que houver atividade (comentários, votos, novos tópicos, propostas e resultados) nesse grupo.
+ 
+* **Enviar e-mail de novos tópicos e propostas**: Você receberá um e-mail sobre novos tópicos e propostas (ou seja, quando uma proposta for iniciada, estiver a ponto de encerrar ou quando houver um resultado). **Enviar e-mail de propostas** é o padrão para novos grupos.
+ 
+* **Não enviar e-mails**: Não será enviado e-mail de atividade neste grupo, mas você verá novas atividades do grupo nas suas páginas [**Não Lido**](reading_loomio.html#unread-threads) e Recentes.
+ 
+* **Silenciar grupo**: Não será enviado e-mail sobre esse grupo e será removido de suas páginas [**Não Lido**](reading_loomio.html#unread-threads) e Recentes.
+ 
+### Notificações de Tópicos
+ 
+Quando você inicia um novo tópico, ele terá uma configuração de notificação padrão do seu grupo. Sua configuração atual de notificações de tópico irá aparecer no cartão **Notificações de Tópico** na página de discussão. Você pode alterar as configurações de notificações de tópico clicando no link **Modificar** dentro do cartão **Notificações de Tópico**, e selecionando uma das quatro opções:
+ 
+ 
+* **Enviar e-mail de tudo**: Você receberá um e-mail sempre que houver atividade (comentários, novas propostas, votos e os resultados das propostas) neste tópico.
+ 
+* **Enviar e-mail de propostas**: Você receberá um e-mail quando uma proposta for iniciada, estiver a ponto de encerrar ou quando houver um resultado.
+ 
+* **Não enviar e-mails**: Não será enviado sobre esta discussão.
+ 
+* **Silenciar tópico**: Não será enviado e-mail sobre esta discussão, a menos que alguém @mencione você. Será removido das suas páginas [**Não Lido**](reading_loomio.html#unread-threads) e Recentes.
+ 
+Você pode silenciar tópicos nas pré-visualizações de tópico exibidas nas páginas do grupo, Tópicos Recentes e Não Lido passando o cursor sobre a pré-visualização do tópico e selecionando a opção **Silenciar**. Você pode marcar tópicos como lidos selecionando a opção **Marcar como lidos**. Marcar um tópico como lido irá removê-lo da sua página [**Não Lido**](reading_loomio.html#unread-threads).
+ 
+Se você tiver notificações de tópico para um segmento específico definido como ** Enviar e-mail de tudo**, você pode responder a quaisquer comentários que você receber diretamente via e-mail e suas respostas serão publicadas no tópico do Loomio. Você também pode optar por ver o comentário no contexto do tópico no Loomio clicando no link **ver em www.loomio.org** no rodapé do e-mail.
+ 
+ 
+## Configurações de e-mail
+ 
+Sua página **Configurações de e-mail** permite que você defina as configurações de notificação de e-mail padrão para grupos e tópicos. Para visitar sua página de **Configurações de e-mail** selecione a opção **Configurações de e-mail** no menu de usuário na barra de navegação.
+ 
+## Ontem o Loomio
+ 
+O e-mail **Ontem o Loomio** é um resumo diário do conteúdo que você não leu no dia anterior. O e-mail contém tudo o que não está silenciado. Você pode modificar para ligado ou desligado na página **Configurações de e-mail**.
