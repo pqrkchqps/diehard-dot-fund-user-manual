@@ -4,7 +4,7 @@
 
 Depending on your [group settings](group_settings.html), new members can be invited either by everyone in the group, or by coordinators only. You’ll find the **Invite people** option on the **Members** panel on your group page, and in the **Action Menu ** which can be accessed from anywhere in the app.
 
-Copy the shareable link and send it to anyone you want to join the group. Clicking the link will give them immediate access.
+Copy the **Shareable link** and send it to anyone you want to join the group. Clicking the link will give them immediate access.
 
 Alternatively, you can invite up to 100 people at once by entering their email addresses separated by commas. When you submit the invitations an email will be sent to each of the email addresses you supplied, containing a unique invitation link that can only be used once. This email will be sent in your profile language.
 
