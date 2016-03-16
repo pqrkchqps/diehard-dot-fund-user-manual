@@ -5,4 +5,7 @@
         "token": "UA-31046122-6"
       }
     }
+    "styles": {
+        "website": "styles/website.css"
+    }
 }
