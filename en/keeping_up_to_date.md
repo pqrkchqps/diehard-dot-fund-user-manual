@@ -38,7 +38,7 @@ There are three additional email settings that can be applied to all groups.
 
 **Subscribe on participation**: Enabling this setting means when you participate in a thread, all further activity will be emailed to you immediately.
 
-**Mentions**: Enabling this settings means when someone wants to get your attention they can @mention you and you will be notified via email. We recommend you leave this on, so that you'll get an email when this happens.
+**Mentions**: Enabling this settings means when someone wants to get your attention, they can @mention your name in a comment, which will notify you. We recommend you leave this setting on, so you'll get an email when this happens.
 
 These settings can be configured from the user **Email settings** page, which is accessed via the **Email settings** option in the user menu.
 
@@ -60,4 +60,4 @@ You can mark threads as read from thread previews that display on the group page
 
 ### Replying by email
 
-If you have thread email settings for a particular thread set to **All activity**, you can reply to any comments you receive directly via email and your replies will be posted in the Loomio thread. You can also choose to view the comment in the context of the thread on Loomio by clicking the **view it on www.loomio.org** link in the footer of the email.
+You can reply to any comments you receive directly via email and your replies will be posted in the Loomio thread. You can also choose to view the comment in the context of the thread on Loomio by clicking the **view it on www.loomio.org** link in the footer of the email.
