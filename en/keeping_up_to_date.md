@@ -1,47 +1,63 @@
 # Keeping up to date
 
-## Notifications
+## Email settings
 
-Notifications control how much you hear from a group or a specific discussion thread. There are four settings for both group notifications and thread notifications.
+Your email settings control how much you hear from a group or a specific discussion thread. There are three settings for both groups and threads.
 
-### Group notifications
+### Group email settings
 
-<img class="screenshot" alt="group notifications" src="edit_group_notifications.gif" />
+To change your group email setting, open the **Options** dropdown and select **Email settings** from the menu.
 
-Your current group notifications setting will appear in a **Group notifications** card on your group page, underneath the **Members card**. You can change your group notifications setting by clicking the **Change** link inside the **Group notifications** card, and selecting one of the four options:
+* **All activity**: You will be emailed whenever there is activity (comments, votes, new threads, proposals, and proposal outcomes) in this group. **All activity** is the default for new groups. You can read about changing the default email settings for new groups in the **Updating email settings for all groups** section.
 
-* **Email everything**: You will be emailed whenever there is activity (comments, votes, new threads, proposals, and proposal outcomes) in this group.
-
-* **Email new threads and proposals**: You will be emailed about new threads and proposals (i.e. when a proposal is started, about to close or when a proposal outcome is created). **Email proposals** is the default for new groups.
+* **Important activity**: You will be emailed about new threads and proposals (i.e. when a proposal is started, about to close or when a proposal outcome is created).
 
 * **No emails**: You won't be emailed about activity in this group, but you'll see new group activity on your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
 
-* **Mute group**: You won't be emailed about this group, and it will be removed from your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
-
-### Thread notifications
-
-<img class="screenshot" alt="notifications" src="edit_thread_notifications.gif" />
-
-When you start a new thread, it will inherit a default notifications setting from its group. Your current thread notifications setting will appear in a **Thread notifications** card on the thread page. You can change your thread notifications setting by clicking the **Change** link inside the **Thread notifications** card, and selecting one of the four options:
+In order to apply a particular setting to all of your groups, check the **Apply this setting to all my groups** checkbox before submitting the form.
 
 
-* **Email everything**: You will be emailed whenever there is activity (comments, new proposals, votes and proposal outcomes) in this thread.
+### Thread email settings
 
-* **Email proposals**: You will be emailed when a proposal is started, about to close or when a proposal outcome is created.
+When you start a new thread, it will inherit a default email setting from its group. To change your thread email setting, open the thread options dropdown and select **Email settings** from the menu.
+
+
+* **All activity**: You will be emailed whenever there is activity (comments, new proposals, votes and proposal outcomes) in this thread.
+
+* **Important activity**: You will be emailed when a proposal is started, about to close or when a proposal outcome is created.
 
 * **No emails**: You won't be emailed about this thread.
 
-* **Mute thread**: You won't be emailed about this thread unless someone @mentions you. It will be removed from your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
+In order to apply a particular setting to all threads in a group, check the **Apply this setting to all threads in this group** checkbox before submitting the form.
 
-You can mute threads from thread previews that display on the group page, Recent Threads page and Unread page by hovering over the thread preview and selecting the **Mute** option. You can mark threads as read by selecting the **Mark as read** option. Marking a thread as read will remove it from your [**Unread**](reading_loomio.html#unread-threads) page.
+### Updating email settings for all groups
 
-If you have thread notifications for a particular thread set to **Email everything**, you can reply to any comments you receive directly via email and your replies will be posted in the Loomio thread. You can also choose to view the comment in the context of the thread on Loomio by clicking the **view it on www.loomio.org** link in the footer of the email.
+There are three additional email settings that can be applied to all groups.
 
+**Daily summary email**: Enabling this setting means each morning you will get an email with any activity that you missed the day before. This email provides an easy routine for staying up to date with Loomio activity.
 
-## Email settings
+**Subscribe on participation**: Enabling this setting means when you participate in a thread, all further activity will be emailed to you immediately.
 
-Your **Email settings** page enables you to set default email notification settings for groups and threads. To visit your **Email settings** page, select the **Email settings** option from the user menu in the navigation bar.
+**Mentions**: Enabling this settings means when someone wants to get your attention, they can @mention your name in a comment, which will notify you. We recommend you leave this setting on, so you'll get an email when this happens.
 
-## Yesterday on Loomio
+These settings can be configured from the user **Email settings** page, which is accessed via the **Email settings** option in the user menu.
 
-The **Yesterday on Loomio** email is a daily summary of content you haven't read from the previous day. The email contains everything that is not muted. You can turn this on or off from the **Email settings** page.
+### Default settings for new groups
+
+Underneath the **Settings for specific groups** subheading on the user **Email settings** page, you can see your default email setting for new groups. In order to change the default email setting for any new groups you join, click the **Change default** link and select a new default.
+
+### Muting threads
+
+Muting a thread means you won't be notified about proposals, or any other activity taking place in the thread, unless someone @mentions you.
+
+You can mute threads from thread previews that display on the group page, Recent Threads page and Unread page. To mute a thread, hover over the thread preview and select the **Mute** option.
+
+Muted threads are hidden from Recent threads and Unread pages. To find your Muted threads, visit the Recent threads page and select "Muted" from the "Filter threads" menu.
+
+### Marking as read
+
+You can mark threads as read from thread previews that display on the group page, Recent Threads page and Unread page. To mark a thread as read, hover over the thread preview and select the **Mark as read** option. Marking a thread as read will remove it from your [**Unread**](reading_loomio.html#unread-threads) page.
+
+### Replying by email
+
+You can reply to any comments you receive directly via email and your replies will be posted in the Loomio thread. You can also choose to view the comment in the context of the thread on Loomio by clicking the **view it on www.loomio.org** link in the footer of the email.
