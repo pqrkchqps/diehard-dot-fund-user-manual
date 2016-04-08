@@ -5,6 +5,7 @@
 Your email settings control how much you hear from a group or a specific discussion thread. There are three settings for both groups and threads.
 
 ### Group email settings
+<img class="screenshot" alt="Group notifications" src="edit_group_notifications.gif" />
 
 To change your group email setting, open the **Options** dropdown and select **Email settings** from the menu.
 
@@ -18,6 +19,7 @@ In order to apply a particular setting to all of your groups, check the **Apply 
 
 
 ### Thread email settings
+<img class="screenshot" alt="thread notifications" src="edit_thread_notifications.gif" />
 
 When you start a new thread, it will inherit a default email setting from its group. To change your thread email setting, open the thread options dropdown and select **Email settings** from the menu.
 
@@ -31,6 +33,7 @@ When you start a new thread, it will inherit a default email setting from its gr
 In order to apply a particular setting to all threads in a group, check the **Apply this setting to all threads in this group** checkbox before submitting the form.
 
 ### Updating email settings for all groups
+<img class="screenshot" alt="email settings" src="edit_user_notifications.gif" />
 
 There are three additional email settings that can be applied to all groups.
 
