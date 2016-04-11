@@ -57,3 +57,7 @@ We're actively developing and using the API that the new Loomio 1.0 client uses.
 ## Is it possible to have a Loomio subdomain?
 
 Yes. We can, for example, set up **[your-group-name].loomio.org** as the URL for your group. [Contact us](https://loomio.org/contact) if you're interested.
+
+## My question is not here
+
+If you have any questions or issues that are not answered through this Help Manual, you can join the [Loomio Community Help](https://www.loomio.org/invitations/a686bce3da07b0ceb8eb) subgroup. Read the excisting thread, or start a new one, to get help and tips from our community.
