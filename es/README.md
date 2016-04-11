@@ -19,4 +19,4 @@ Loomio es una simple y fácil de usar herramienta online para colaborar en la to
 * **Toma una decisión juntos** - cualquiera puede estar en acuerdo o en desacuerdo, abstenerse o bloquear - para que puedan ver como se sienten todos sobre la propuesta.
 
 
-[Mira este video](https://www.youtube.com/watch?v=pF-wpXo8Rdw) para una demostración rápida de como usar Loomio. 
+[Mira este video](https://www.youtube.com/watch?v=BT9f0Nj0zB8&nohtml5=False) para una demostración rápida de como usar Loomio. 
