@@ -57,3 +57,8 @@ Estamos activamente desarrollando y usando el API que el nuevo cliente de Loomio
 ## ¿Es posible tener un subdominio personal en Loomio?
 
 Sí, se puede, por ejemplo, configurar **[el-nombre-de-tu-grupo].loomio.org** como el URL para tu grupo. [Contáctanos](https://loomio.org/contact) si estás interesada.
+
+## La respuesta a mis preguntas no esta aquí
+
+Si tienes una pregunta o un problema y no encuentras la solución en este Manual de Ayuda, puedes unirte a nuestro subgrupo [Loomio Community Help/Ayuda](https://www.loomio.org/invitations/716ae5abb84f4a5ea75c). Lee los hilos o inicia uno nuevo para obtener ayuda y consejos de nuestra comunidad.
+
