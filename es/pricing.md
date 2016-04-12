@@ -20,7 +20,7 @@ Si. Nuestro plan Estándar cuesta US$190 al año (un ahorro de $38 en el total p
 
 ## ¿Cómo funciona la integración con Slack?
 
-<img class="screenshot" alt="Slack integration" src="slack'integration.png" />
+<img class="screenshot" alt="Slack integration" src="slack-integration.png" />
 
 A través de la integración con Slack, cuando haya actividad importante en tu grupo de Loomio (Una nueva discusión o propuesta), aparecerá también en el canal de Slack que tu elijas. Y la gente podrá votar directamente desde Slack seleccionando una de las posiciones. Nota: Esta integración solo esta disponible para suscripciones pagas (Estándar o Plus)  
 
