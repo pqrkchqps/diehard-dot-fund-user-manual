@@ -1,5 +1,9 @@
 # Preguntas frecuentes sobre de los planes de pago
 
+## Todavía no decidimos que plan es mejor para nuestro grupo ¿Podemos extender la prueba gratis?
+
+Si. Solo contactanos a [contact@loomio.org](mailto:contact@loomio.org) y pídenos una extensión.
+
 ## Nuestro grupo no tiene dinero! ¿Podemos utilizar Loomio de todas formas?
 
 Si. Pueden elegir el Plan Donación (lee nuestra página [Planes de pago](http://loomio.org/pricing)
@@ -14,9 +18,11 @@ Si tu grupo elige el Plan de Donación, Tus miembros verán un panel como este e
 
 Si. Nuestro plan Estándar cuesta US$190 al año (un ahorro de $38 en el total por mes), y el plan Más es US$1790 por año (un ahorro de $358)
 
-## ¿Puedo extender mi prueba gratis?
+## ¿Cómo funciona la integración con Slack?
 
-Si. Solo contactanos a [contact@loomio.org](mailto:contact@loomio.org) y pídenos una extensión.
+<img class="screenshot" alt="Slack integration" src="slack'integration.png" />
+
+A través de la integración con Slack, cuando haya actividad importante en tu grupo de Loomio (Una nueva discusión o propuesta), aparecerá también en el canal de Slack que tu elijas. Y la gente podrá votar directamente desde Slack seleccionando una de las posiciones. Nota: Esta integración solo esta disponible para suscripciones pagas (Estándar o Plus)  
 
 ## ¿Que tarjeta de crédito aceptan?
 
