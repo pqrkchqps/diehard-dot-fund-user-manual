@@ -6,6 +6,8 @@ Las notificaciones controlan cuánto correo recibes de un grupo en particular o 
 
 ### Notificaciones de los grupos
 
+<img class="screenshot" alt="group notifications" src="edit-group-notifications.gif" />
+
 Para cambiar la configuración actual de las notificaciones de tus grupos abre el menú desplegable de **Opciones** en la página de tu grupo, y selecciona **Ajustes de correo**.
 
 * **Toda la actividad**: Recibirás correo electrónico cada vez que haya actividad nueva (comentarios, votos, hilos nuevos, propuestas, y resultados) en este grupo. **Toda la actividad** es la configuración por defecto para nuevos grupos. Puedes leer sobre como cambiar esta configuración el la sección **Modificar la configuración de correo para todos los grupos**.
@@ -18,6 +20,8 @@ Para aplicar una configuración particular a todos tus grupos, selecciona la cas
 
 ### Ajustes de notificación de los hilos
 
+<img class="screenshot" alt="thread notifications" src="edit-thread-notifications.gif" />
+
 Cuando inicias un nuevo hilo, recibirá la misma configuración de notificaciones que el grupo al que pertenece. Puedes cambiar la configuración de las notificaciones del hilo seleccionando **Ajustes de correo** en el menú desplegable de opciones en el contexto del hilo.
 
 * **Toda la actividad**: Recibirás correo electrónico cada vez que haya actividad nueva (comentarios, votos, hilos nuevos, propuestas, y resultados) en este hilo.
@@ -28,6 +32,8 @@ Cuando inicias un nuevo hilo, recibirá la misma configuración de notificacione
 Para aplicar una configuración particular a todos tus grupos, selecciona la casilla **Aplicar esta configuración para todos los hilos de este grupo** antes de enviar el formulario.
 
 ## Ajustar la configuración para todos los grupos
+
+<img class="screenshot" alt="user notifications" src="edit-user-notifications.gif" />
 
 Hay tres configuraciones adicionales que pueden ser aplicada para todos los grupos.
 
