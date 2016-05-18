@@ -19,4 +19,4 @@ Loomio is a simple, user-friendly online tool for collaborative decision-making.
 * **Decide together** - anyone can agree, abstain, disagree, or block – so you can see how everyone feels about the proposal.
 
 
-[Check out this video](https://www.youtube.com/watch?v=RonxhKSSlG8&nohtml5=False) for a quick demonstration of how to use Loomio.
+[Check out this video](https://www.youtube.com/watch?v=CoYYNthNxOY) for a quick demonstration of how to use Loomio.

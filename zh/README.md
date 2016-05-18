@@ -19,4 +19,4 @@ Loomio 是一套簡單、人性化的線上協同決策制定利器。 Loomio �
 * **共同決策** - 任何人可以同意、放棄、反對或阻擋 — 這樣您可以了解每個人對提案的感覺。
 
 
-[看看這部影片](https://www.youtube.com/watch?v=pF-wpXo8Rdw)，這是一部快速簡介如何使用 Loomio 的影片。
+[看看這部影片](https://www.youtube.com/watch?v=CoYYNthNxOY)，這是一部快速簡介如何使用 Loomio 的影片。
