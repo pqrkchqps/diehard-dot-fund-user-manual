@@ -1,6 +1,6 @@
 # Coordinating your group
 
-As a coordinator of a Loomio group you’re responsible for guiding your group through the process of learning how to use a new piece of software, as well as learning new processes for collaborating more effectively and making good decisions together. The tasks outlined below are only available to the coordinators of your group.
+As a coordinator of a Loomio group you’re responsible for guiding your group through the process of learning how to use a new piece of software, as well as learning new processes for collaborating more effectively and making good decisions together. The tasks outlined below can only be performed by group coordinators.
 
 ## Adding a cover photo
 
@@ -28,4 +28,4 @@ If there is a pending membership request it will also be visible on your group p
 
 ## Deactivating/archiving a group
 
-Deactivating your group means that you and the rest of the group members will no longer be able to access the group. If you wish to deactivate your group you can do so by selecting **Deactivate group** from the **Options** menu on the group page. To reactivate your deactivated group, contact the Loomio team by sending an email to [contact@loomio.org](mailto:contact@loomio.org).
+Deactivating your group means that you and the rest of the group members will no longer be able to access the group. If you wish to deactivate your group you can do so by selecting **Deactivate Group** from the **Options** menu on the group page. To reactivate your deactivated group, contact the Loomio team by sending an email to [contact@loomio.org](mailto:contact@loomio.org).
