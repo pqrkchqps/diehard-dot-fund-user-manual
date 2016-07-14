@@ -32,7 +32,7 @@ When you start a new thread, it will inherit a default email setting from its gr
 
 In order to apply a particular setting to all threads in a group, check the **Apply this setting to all threads in this group** checkbox before submitting the form.
 
-If you have muted a thread you won't be notified about proposals, or any other activity taking place in the thread, unless someone @mentions you.
+If you have muted a thread you won't be notified about proposals, or any other activity taking place in the thread, unless someone @mentions you. You can read more about muting threads under the **Muted** subheading in the **Navigating Loomio** section of the help documentation.
 
 ### Updating email settings for all groups
 <img class="screenshot" alt="email settings" src="edit_user_notifications.gif" />
