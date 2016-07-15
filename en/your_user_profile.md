@@ -1,8 +1,6 @@
 # Your user profile
 
-<img class="screenshot" alt="user profile" src="user_profile.gif" />
-
-Your profile page lets you customise your Loomio identity. To visit your profile page select **Profile** from the user menu in the navigation bar.
+Your profile page lets you customise your Loomio identity. To visit your profile page select the **Edit profile** option in the sidebar.
 
 ## Updating your personal settings
 You can update the name, username, email address and language settings associated with your account by editing the corresponding fields on your profile page, and clicking **Update profile**.
@@ -27,7 +25,7 @@ Once your account has been deactivated:
 * you will no longer be listed as a member of any groups
 * comments, proposals and discussions you’ve made will remain but your name will be removed from them
 * you will no longer receive Loomio-related emails
-* you will need to [contact us](https://loomio.org/contact) to reactive your account.
+* you will need to [contact us](https://loomio.org/contact) to reactivate your account
 
 ## Reactivating your account
 To reactivate a deactivated account, [contact the Loomio team](https://loomio.org/contact).
@@ -36,4 +34,4 @@ To reactivate a deactivated account, [contact the Loomio team](https://loomio.or
 
 <img class="screenshot" alt="Group options dropdown" src="options_dropdown.png" />
 
-If you are not the sole coordinator of a group then you can leave the group by selecting **Leave group** from the Options menu on the group page. If you are the sole coordinator of your group, you will be prevented from leaving until you appoint another coordinator or deactivate the group.
+If you are not the sole coordinator of a group then you can leave the group by selecting **Leave Group** from the **Options** menu on the group page. If you are the sole coordinator of your group, you will be prevented from leaving until you appoint another coordinator or deactivate the group.
