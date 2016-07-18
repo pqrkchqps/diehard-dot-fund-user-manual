@@ -10,9 +10,9 @@ Las notificaciones controlan cuánto correo recibes de un grupo en particular o 
 
 Para cambiar la configuración actual de las notificaciones de tus grupos abre el menú desplegable de **Opciones** en la página de tu grupo, y selecciona **Ajustes de correo**.
 
-* **Toda la actividad**: Recibirás correo electrónico cada vez que haya actividad nueva (comentarios, votos, hilos nuevos, propuestas, y resultados) en este grupo. **Toda la actividad** es la configuración por defecto para nuevos grupos. Puedes leer sobre como cambiar esta configuración el la sección **Modificar la configuración de correo para todos los grupos**.
+* **Toda la actividad**: Recibirás correo electrónico cada vez que haya actividad nueva (comentarios, votos, hilos nuevos, propuestas, y resultados) en este grupo. 
 
-* **Actividad importante**: Recibirás correo electrónico sobre nuevos hilos y propuestas (ej. cuando una propuesta es iniciada, a punto de cerrar, o cuando se cree un resultado en la misma).
+* **Actividad importante**: Recibirás correo electrónico sobre nuevos hilos y propuestas (ej. cuando una propuesta es iniciada, a punto de cerrar, o cuando se cree un resultado en la misma).**Actividad Importante** es la configuración por defecto para nuevos grupos. Puedes leer sobre como cambiar esta configuración el la sección **Modificar la configuración de correo para todos los grupos**.
 
 * **No enviar correo**: No recibirás correo electrónico sobre actividad en este grupo, pero veras la nueva actividad en tu página [**No leído**](reading_loomio.html#unread-threads) y en Recientes.
 
@@ -28,7 +28,10 @@ Cuando inicias un nuevo hilo, recibirá la misma configuración de notificacione
 
 * **Actividad importante**: Recibirás correo electrónico cuando una propuesta es iniciada, a punto de cerrar, o cuando se cree un resultado en la misma.
 
-* **No enviar correo**: No recibirás correo electrónico sobre este hilo.
+* **No enviar correo**: No recibirás correo electrónico sobre este hilo. 
+
+Si has silenciado un hilo no recibirás notificaciones sobre propuestas o ninguna otra actividad en el hilo, a menos que alguien te @mencione. 
+
 Para aplicar una configuración particular a todos tus grupos, selecciona la casilla **Aplicar esta configuración para todos los hilos de este grupo** antes de enviar el formulario.
 
 ## Ajustar la configuración para todos los grupos
@@ -43,23 +46,11 @@ Hay tres configuraciones adicionales que pueden ser aplicada para todos los grup
 
 **Menciones**: Significa que cuando alguien quiera llamar tu atención , pueden @mencionar tu nombre en un comentario y serás notificado. Recomendamos dejar esta opción seleccionada.
 
-Estas opciones pueden ser configuradas desde tu página de **Configuración de correo electrónico**. Para acceder a esta página, selecciona la opción **Configuración de correo electrónico** en tu menú de usuario.
+Estas opciones pueden ser configuradas desde tu página de **Ajustes de correo**. Para acceder a esta página, selecciona la opción **Ajustes de correo** en la barra lateral.
 
 ## Ajuste predeterminado para nuevos grupos
 
-Bajo el subtítulo **Configuración para grupos especifico** en la sección **Ajustes de correo** en tu menú de usuario, puedes ver la configuración de correo determinada para cada nuevo grupo en el que participes. Para cambiarlo selecciona **Cambiar configuración predeterminada**.
-
-## Silenciar hilos
-
-Silenciar hilos significa que no serás notificado sobre propuestas, o ninguna otra actividad en ese hilo, a no ser que alguien te @mencione.
-
-Puedes silenciar un hilo desde la vista previa del mismo que se muestra en la pagina de tu grupo, y las páginas de Hilos Recientes y No leídos. Pasa el ratón por encima y seleccionando la opción **Silenciar**.
-
-Los hilos silenciados no son visibles en la página Recientes y No leído. Para ver tus hilos silenciados, ve a la página Recientes y selecciona "Silenciado" desde el menú "Filtrar hilos".
-
-## Marcar como leído
-
-Puedes marcar hilos como leídos desde la vista previa de los mismos en la página de tu grupo, Recientes y No leído. Para hacerlo, selecciona la opción **Marcar como leído** indicada con un tilde. Marcando un hilo como leído lo removerá de tu página [**No leído**](reading_loomio.html#unread-threads).
+Bajo el subtítulo **Configuración para grupos especifico** en la sección **Ajustes de correo** en la barra lateral, puedes ver la configuración de correo determinada para cada nuevo grupo en el que participes. Para cambiarlo selecciona **Cambiar configuración predeterminada**.
 
 ## Responder por correo
 
