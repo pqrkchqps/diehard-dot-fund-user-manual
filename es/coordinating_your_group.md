@@ -1,6 +1,6 @@
 # Coordinando tu grupo
 
-Como coordinador de un grupo de Loomio, eres responsable de guiar tu grupo a través del proceso de aprender esta nueva pieza de software, asi también como a aprender nuevos procesos para colaborar efectivamente y poder tomar buenas decisiones juntos. Las tares marcadas debajo solo están disponibles para los coordinadores de tu grupo.
+Como coordinador de un grupo de Loomio, eres responsable de guiar tu grupo a través del proceso de aprender esta nueva pieza de software, asi también como a aprender nuevos procesos para colaborar efectivamente y poder tomar buenas decisiones juntos. Las tares marcadas debajo solo pueden ser llevadas a cabo por los coordinadores de tu grupo.
 
 ## Añadir una foto de portada
 
