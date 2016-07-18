@@ -1,7 +1,5 @@
 # Tu perfil de usuario
 
-<img class="screenshot" alt="perfil de usuario" src="perfil_usuario.gif" />
-
 Tu página de perfil te deja personalizar tu identidad en Loomio. Para visitar tu perfil selecciona **Editar Perfil*** desde la barra de navegación lateral.
 
 ## Actualizar tu configuración personal
