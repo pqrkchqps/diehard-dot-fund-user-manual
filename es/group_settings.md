@@ -16,13 +16,13 @@ La descripción provee a los nuevos miembros un entendimiento claro de cuál es 
 
 Tu configuración de privacidad determina quién puede encontrar tu grupo, quién puede ver los hilos en tu grupo, y como se une la gente al mismo.
 
-Cuando comienzas un grupo nuevo, será automáticamente configurado como **Cerrado**: los hilos y el listado de miembros solo es visibles para los miembros del grupo; pero el nombre y la descripción serán público. Esto significa que la gente puede encontrar tu grupo y pedir membresía, pero el contenido de las discusiones y las decisiones serán privadas, a no ser que permitas hilos públicos.
+Cuando comienzas un grupo nuevo, será automáticamente configurado como **Cerrado**: *el nombre y la descripción serán público, el listado de miembros solo es visibles para los miembros del grupo, los hilos pueden ser públicos o privados*. Esto significa que la gente puede encontrar tu grupo y pedir membresía, pero el contenido de las discusiones y las decisiones serán privadas, a no ser que permitas hilos públicos.
 
-Si quieres que el contenido de las discusiones y las decisiones seán públicas en línea, cambia la privacidad de tu grupo a **Abierto**. El listado de los miembros del grupo solo será visible para otros miembros del mismo.
+Si quieres que el contenido de las discusiones y las decisiones seán públicas, cambia la privacidad de tu grupo a **Abierto**. El listado de los miembros del grupo solo será visible para otros miembros del mismo.
 
-Si quieres esconder tu grupo totalmente, configura la privacidad como **Secreto**. Esto significa que solo los miembros invitados serán capaces de ver el nombre, descripcion, lista de miembros e hilos del grupo.
+Si quieres esconder tu grupo, configura la privacidad como **Secreto**. Esto significa que solo los miembros invitados serán capaces de ver el nombre, descripcion, lista de miembros e hilos del grupo.
 
-Nota: si tienes un grupo Secreto y lo cambias a Abierto, todos tus hilos existentes se harán públicos. Lo mismo pasará en el contrario: si cambias un grupo de Abierto a Secreto todos los hilos se harán privados.
+Nota: si tienes un grupo **Secreto** y lo cambias a **Abierto**, todos tus hilos se harán públicos. Lo mismo pasará en el contrario: si cambias un grupo de **Abierto** a **Secreto** todos los hilos se harán privados.
 
 
 ## Permisos del grupo -- ¿Qué pueden hacer los miembros?
@@ -51,7 +51,7 @@ Esto les permite a todos en tu grupo comenzar nuevos hilos. Cuando no sea selecc
 
 ### Editar el contexto de cualquier hilo en tu grupo
 
-Esto les permite a todos en tu grupo editar el contexto de cualquier hilo. Cuando no sea seleccionado solo los coordinadores del grupo serán capaces de editar el contexto de los hilos. (La persona que ha comenzado el hilo siempre puede editar el contexto)
+Esto les permite a todos en tu grupo editar el contexto de cualquier hilo. Cuando no sea seleccionado solo los coordinadores del grupo y la persina que inicio el hilo serán capaces de editar el contexto.
 
 ### Editar sus comentarios en cualquier momento
 
