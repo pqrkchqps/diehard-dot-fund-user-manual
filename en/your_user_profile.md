@@ -2,6 +2,8 @@
 
 Your profile page lets you customise your Loomio identity. To visit your profile page select the **Edit profile** option in the sidebar.
 
+<img class="gif" alt="user profile" src="user-profile.gif" />
+
 ## Updating your personal settings
 You can update the name, username, email address and language settings associated with your account by editing the corresponding fields on your profile page, and clicking **Update profile**.
 
