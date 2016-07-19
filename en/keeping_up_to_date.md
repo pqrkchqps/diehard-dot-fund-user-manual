@@ -35,7 +35,8 @@ In order to apply a particular setting to all threads in a group, check the **Ap
 If you have muted a thread you won't be notified about proposals, or any other activity taking place in the thread, unless someone @mentions you. You can read more about muting threads under the **Muted** subheading in the **Navigating Loomio** section of the help documentation.
 
 ### Updating email settings for all groups
-<img class="screenshot" alt="email settings" src="edit_user_notifications.gif" />
+
+<img class="gif" alt="email settings" src="email-settings.gif" />
 
 There are three additional email settings that can be applied to all groups.
 
