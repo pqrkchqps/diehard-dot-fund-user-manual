@@ -2,6 +2,8 @@
 
 You can access the most important parts of the Loomio app via the sidebar, the primary navigation menu which sits on the left-hand side of the page. The sidebar is open by default on large screens, and collapsed by default on small screens (such as smartphones). It can be toggled via the bars icon in the navigation bar.
 
+<img class="gif" alt="sidebar" src="sidebar-en.gif" />
+
 ## Viewing your threads
 
 ### Recent Threads
