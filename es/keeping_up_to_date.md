@@ -6,9 +6,9 @@ Las notificaciones controlan cuánto correo recibes de un grupo en particular o 
 
 ### Notificaciones de los grupos
 
-<img class="screenshot" alt="group notifications" src="edit-group-notifications.gif" />
-
 Para cambiar la configuración actual de las notificaciones de tus grupos abre el menú desplegable de **Opciones** en la página de tu grupo, y selecciona **Ajustes de correo**.
+
+<img class="screenshot" alt="group notifications" src="edit-group-notifications.gif" />
 
 * **Toda la actividad**: Recibirás correo electrónico cada vez que haya actividad nueva (comentarios, votos, hilos nuevos, propuestas, y resultados) en este grupo. 
 
@@ -36,7 +36,7 @@ Para aplicar una configuración particular a todos tus grupos, selecciona la cas
 
 ## Ajustar la configuración para todos los grupos
 
-<img class="screenshot" alt="user notifications" src="edit-user-notifications.gif" />
+<img class="gif" alt="ajustes de correo" src="ajustes-correo.gif" />
 
 Hay tres configuraciones adicionales que pueden ser aplicada para todos los grupos.
 
