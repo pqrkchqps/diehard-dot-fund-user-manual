@@ -2,6 +2,8 @@
 
 Tu página de perfil te deja personalizar tu identidad en Loomio. Para visitar tu perfil selecciona **Editar Perfil*** desde la barra de navegación lateral.
 
+<img class="gif" alt="perfil de usuario" src="perfil-usuario.gif" />
+
 ## Actualizar tu configuración personal
 Puedes actualizar el nombre, usuario, dirección de correo electrónico y lenguaje asociados con tu cuenta, editando el campo correspondiente en tu página de perfil y haciendo clic en **Actualizar perfil**.
 
