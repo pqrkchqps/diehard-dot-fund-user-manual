@@ -2,6 +2,8 @@
 
 Puedes acceder a las partes más importantes de Loomio a través de la barra lateral de navegación en la parte izquierda de la pantalla. La misma está abierta por defecto en pantallas grandes, y cerrada en pantallas pequeñas (como los teléfonos móbil). Puedes abrirla o cerrarla con el icono de barras en la esquina superior derecha de la pantalla. 
 
+<img class="gif" alt="sidebar" src="sidebar-es.gif" />
+
 ## Ver tus hilos
 
 ### Hilos recientes
