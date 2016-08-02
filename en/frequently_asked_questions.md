@@ -58,6 +58,11 @@ We're actively developing and using the API that the new Loomio 1.0 client uses.
 
 Yes. We can, for example, set up **[your-group-name].loomio.org** as the URL for your group. [Contact us](https://loomio.org/contact) if you're interested.
 
+## Accessibility
+
+Loomio is committed to accessibility, we have done our best job to integrate the WCAG standards. However, screen reader user feedback is critical in measuring the usability of the Loomio. The web pages are designed with a common look and feel layout of Regions and Heading hierarchy for ease of keyboard navigation.
+Loomio should be compatible with most screen readers, but it was primarily tested with the JAWS screen reader. We encourage screen reader users to send us feedback to help us improve the accessibility on Loomio.
+
 ## My question is not here
 
 If you have any questions or issues that are not answered through this Help Manual, you can join the [Loomio Community Help](https://www.loomio.org/invitations/716ae5abb84f4a5ea75c) subgroup. Read the existing thread, or start a new one, to get help and tips from our community.
