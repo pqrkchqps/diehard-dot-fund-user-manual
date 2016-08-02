@@ -60,8 +60,8 @@ Yes. We can, for example, set up **[your-group-name].loomio.org** as the URL for
 
 ## Accessibility
 
-Loomio is committed to accessibility, we have done our best job to integrate the WCAG standards. However, screen reader user feedback is critical in measuring the usability of the Loomio. The web pages are designed with a common look and feel layout of Regions and Heading hierarchy for ease of keyboard navigation.
-Loomio should be compatible with most screen readers, but it was primarily tested with the JAWS screen reader. We encourage screen reader users to send us feedback to help us improve the accessibility on Loomio.
+Loomio is committed to accessibility, we try our best to integrate the WCAG standards. The web pages are designed with a common look and feel layout of Regions and Heading hierarchy for ease of keyboard navigation.
+Loomio should be compatible with most screen readers, but it was primarily tested with the JAWS screen reader. User feedback is critical in measuring the usability, so we encourage screen reader users to send us feedback so we can keep on improving the accessibility on Loomio.
 
 ## My question is not here
 
