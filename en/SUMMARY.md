@@ -14,5 +14,5 @@
 * [Your user profile](your_user_profile.md)
 * [Pricing](pricing.md)
 * [Frequently Asked Questions](frequently_asked_questions.md)
-   * Security and Privacy
+   * [Security and Privacy](security_privacy.md)
 
