@@ -1,6 +1,6 @@
 # Group settings
 
-<img class="screenshot" alt="Group options dropdown" src="edit_group_settings.gif" />
+<img class="screenshot" alt="Loomio user accessing group settings form via group options dropdown" src="edit_group_settings.gif" />
 
 Group coordinators can edit group settings: **Profile**, **Privacy** and **Permissions**.
 
@@ -27,7 +27,7 @@ NB: If you have a **Secret** group and change it to **Open**, all threads will b
 
 ## Group permissions – what can members do?
 
-<img class="screenshot" alt="Group options dropdown" src="edit_permissions.gif" />
+<img class="screenshot" alt="Loomio user customising group permissions on group settings form" src="edit_permissions.gif" />
 
 Coordinators set the group permissions to configure what members can do in their group.
 
@@ -53,7 +53,7 @@ This allows everyone in your group to edit the context of any thread. When it is
 
 ### Edit their comments at any time
 
-This allows everyone in your group to [edit their comments](comments.html#editing-a-comment) at any time. When it is deselected, a comment can only be edited until someone else participates in the thread.
+This allows everyone in your group to [edit their comments](comments.html#editing-a-comment "Opens in new tab") at any time. When it is deselected, a comment can only be edited until someone else participates in the thread.
 
 ### Raise proposals
 
