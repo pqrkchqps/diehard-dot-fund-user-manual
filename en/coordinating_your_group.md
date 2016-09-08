@@ -22,7 +22,7 @@ On the **Members** page, next to every member there is a **Remove **button ![Rem
 
 ### Accepting/ignoring membership requests
 
-If your [group privacy settings](group_settings.html#group-privacy) allow people to join your group **By request**, a coordinator will need to approve each membership request. Group coordinators will receive an email each time there is a new membership request. The link in the notification email will take you to the **Membership requests** page, where you can approve or decline the request.
+If your [group privacy settings](group_settings.html#group-privacy "Group privacy section of the help documentation") allow people to join your group **By request**, a coordinator will need to approve each membership request. Group coordinators will receive an email each time there is a new membership request. The link in the notification email will take you to the **Membership requests** page, where you can approve or decline the request.
 
 If there is a pending membership request it will also be visible on your group page in a **Membership requests** panel.
 
