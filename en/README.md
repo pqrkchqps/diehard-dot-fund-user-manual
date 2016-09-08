@@ -1,6 +1,6 @@
-![Loomio Logo](logo.png)
+![Loomio Logo](logo.png "Loomio logo")
 
-A comprehensive guide to using [Loomio](https://loomio.org/).
+A comprehensive guide to using [Loomio](https://loomio.org/ "Opens in new tab").
 
 ## What is Loomio?
 
@@ -19,4 +19,5 @@ Loomio is a simple, user-friendly online tool for collaborative decision-making.
 * **Decide together** - anyone can agree, abstain, disagree, or block – so you can see how everyone feels about the proposal.
 
 
-[Check out this video](https://www.youtube.com/watch?v=CoYYNthNxOY) for a quick demonstration of how to use Loomio.
+[Check out this video for a quick demonstration of how to use Loomio](https://www.youtube.com/watch?v=CoYYNthNxOY "Opens in new tab
+").
