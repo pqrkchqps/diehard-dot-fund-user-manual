@@ -1,22 +1,22 @@
+<img class="screenshot" alt="Pricing table" src="pricing_en.png" />
+
 # Frequently asked questions
 
 ## Our group has no money! Can we still use Loomio?
 
-Yes. You can choose the Gift plan (see our [Pricing](http://loomio.org/pricing) page).
+Yes. You can choose the Free plan (see our [Pricing](http://loomio.org/pricing) page).
 
-## We haven't decided which plan suits us yet, can we extend the free trial?
+## We haven't decided which plan suits us yet, can you help up?
 
-Yes. Just email [contact@loomio.org](mailto:contact@loomio.org) and ask.
+Yes. Just email [contact@loomio.org](mailto:contact@loomio.org) and we will help chose the right plan for your needs.
 
-## How does the Gift plan work?
+## How does the Free plan work?
 
-If your group chooses the Gift plan, your members will see a card like this on their group page:
-
-<img class="screenshot" alt="Gift plan card" src="gift-plan-card.png" />
+If your group chooses the Free plan, your members will be occasionally asked for a voluntary donation.
 
 ## Do you have prices for annual subscriptions?
 
-Yes. Our Standard plan costs US$190 for a year (a saving of $38 on the monthly price), and the Plus plan is US$1790 per year (saving $358).
+Yes. If you choose an annual subscription you get 2 months free! Our annual Standard plan costs US$190, and the Plus plan is US$990.
 
 ## How does the Slack integration works?
 
@@ -26,7 +26,7 @@ Through the integration with Slack, when important activity happens in your Loom
 
 ## What credit cards do you take?
 
-Visa and Mastercard. We’re working on American Express.
+Visa, Mastercard and American Express.
 
 ## Are you GST-registered?
 
