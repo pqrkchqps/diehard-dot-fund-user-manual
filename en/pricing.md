@@ -22,7 +22,7 @@ Yes. If you choose an annual subscription you get 2 months free! Our annual Stan
 
 <img class="screenshot" alt="Slack integration" src="slack-integration.png" />
 
-Through the integration with Slack, when important activity happens in your Loomio group (like a new discussion or proposal), it will also show up in a Slack channel of your choice. And people can vote directly from Slack by clicking on the position options. Please note that this integration is only available for paying subscription (Standard or Plus).
+Through the integration with Slack, when important activity happens in your Loomio group (like a new discussion or proposal), it will also show up in a Slack channel of your choice. And people can vote directly from Slack by clicking on the position options. Please note that this integration is only available for paying subscription (Standard or Pro).
 
 ## What credit cards do you take?
 
