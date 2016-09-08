@@ -22,7 +22,7 @@ Si. Nuestro plan Estándar cuesta US$190 al año y el plan Plus es US$990 por a�
 
 <img class="screenshot" alt="Slack integration" src="slack-integration.png" />
 
-A través de la integración con Slack, cuando haya actividad importante en tu grupo de Loomio (Una nueva discusión o propuesta), aparecerá también en el canal de Slack que tu elijas. Y la gente podrá votar directamente desde Slack seleccionando una de las posiciones. Nota: Esta integración solo esta disponible para suscripciones pagas (Estándar o Plus)  
+A través de la integración con Slack, cuando haya actividad importante en tu grupo de Loomio (Una nueva discusión o propuesta), aparecerá también en el canal de Slack que tu elijas. Y la gente podrá votar directamente desde Slack seleccionando una de las posiciones. Nota: Esta integración solo esta disponible para suscripciones pagas (Estándar o Pro)  
 
 ## ¿Que tarjeta de crédito aceptan?
 
