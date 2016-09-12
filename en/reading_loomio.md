@@ -48,6 +48,6 @@ You can explore, and request membership to, public Loomio groups by visiting the
 
 ## Editing your account information
 
-You can view and update your user profile via the **Edit profile** option in the sidebar. You can read more about updating your user profile in the [User profile](your_user_profile.html "goes to user profile section of the help manual")** section.
+You can view and update your user profile via the **Edit profile** option in the sidebar. You can read more about updating your user profile in the [User profile](your_user_profile.html "goes to user profile section of the help manual") section.
 
-You can view and update the email settings associated with your Loomio account via the **Email settings** option in the sidebar. You can read more about updating your email settings in the [Keeping up to date](keeping_up_to_date.html "goes to keeping up to date section of the help manual")** section.
+You can view and update the email settings associated with your Loomio account via the **Email settings** option in the sidebar. You can read more about updating your email settings in the [Keeping up to date](keeping_up_to_date.html "goes to keeping up to date section of the help manual") section.
