@@ -2,7 +2,7 @@
 
 <img class="screenshot" alt="Proposal panel" src="proposal_panel.png" />
 
-Proposals take place in a [discussion thread](discussion_threads.html), which encompasses both the discussion and the proposal. There can only be one active proposal at any time in any thread. 
+Proposals take place in a [discussion thread](discussion_threads.html "goes to discussions section of the help manual"), which encompasses both the discussion and the proposal. There can only be one active proposal at any time in any thread. 
 
 ## Starting a proposal
 
@@ -34,11 +34,11 @@ Underneath the proposal pie, there will be a list containing the names, position
 
 ## Changing your position
 
-If you wish to change your position you can do so by clicking the** Change your vote **link next to your position in the **Proposal** panel.
+If you wish to change your position you can do so by clicking the **Change your vote** link next to your position in the **Proposal** panel.
 
 ## Setting a proposal outcome
 
-When a proposal closes, it collapses into a **Previous proposals** panel. You can expand the proposal by clicking the **Expand **link inside the proposal preview.
+When a proposal closes, it collapses into a **Previous proposals** panel. You can expand the proposal by clicking the **Expand ** link inside the proposal preview.
 
 An editable outcome statement field will display underneath the proposal details, and the person who raised the proposal will be prompted via email to provide an outcome statement for their proposal. Proposal outcomes can be set by the person who started the proposal, or by the coordinators of the group. When the proposal outcome statement is set everyone in the group will receive an email notifying them of the outcome.
 
