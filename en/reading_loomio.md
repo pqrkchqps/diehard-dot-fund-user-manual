@@ -2,7 +2,7 @@
 
 You can access the most important parts of the Loomio app via the sidebar, the primary navigation menu which sits on the left-hand side of the page. The sidebar is open by default on large screens, and collapsed by default on small screens (such as smartphones). It can be toggled via the bars icon in the navigation bar.
 
-<img class="gif" alt="sidebar" src="sidebar-en.gif" />
+<img class="gif" alt="opening sidebar animation" src="sidebar-en.gif" />
 
 ## Viewing your threads
 
@@ -10,7 +10,7 @@ You can access the most important parts of the Loomio app via the sidebar, the p
 
 The **Recent Threads** page gives you an overview of the most recent activity happening in your groups. You can access this page via the **Recent** option in the sidebar. If you are a member of multiple groups the **Recent Threads** page will be your landing page when you sign into Loomio.
 
-The **Recent Threads** page displays content from your groups in a prioritised list. Open proposals are at the top, followed by **Starred** threads, then all of the threads from your groups, sorted by most recent activity; **Today**, **Yesterday**,** This month**,** Older than a month**.
+The **Recent Threads** page displays content from your groups in a prioritised list. Open proposals are at the top, followed by **Starred** threads, then all of the threads from your groups, sorted by most recent activity; **Today**, **Yesterday**,** This month**, **Older than a month**.
 
 If a thread or proposal title is **bold** then new activity has taken place since you last visited. Numbers in parentheses reflect how many new comments or votes have been posted since you last visited a particular thread. Proposals will show a pie graph, with your position on the proposal superimposed on the graph. If you haven’t yet stated a position, there will be a question mark.
 
@@ -35,7 +35,7 @@ The **Filter Threads** dropdown lets you choose to see:
 
 * **Participating threads**: only the threads and proposals you’ve participated in.
 
-* **Muted: **only the threads which you’ve previously [muted](keeping_up_to_date.html#thread-volume).
+* **Muted: **only the threads which you’ve previously [muted](keeping_up_to_date.html#thread-volume "goes to keeping up to date section of the help manual").
 
 ## Viewing your groups
 
@@ -48,6 +48,6 @@ You can explore, and request membership to, public Loomio groups by visiting the
 
 ## Editing your account information
 
-You can view and update your user profile via the **Edit profile** option in the sidebar. You can read more about updating your user profile in the **[Your user profile](https://loomio.gitbooks.io/manual/content/en/your_user_profile.html)** section of this help documentation.
+You can view and update your user profile via the **Edit profile** option in the sidebar. You can read more about updating your user profile in the [User profile](your_user_profile.html "goes to user profile section of the help manual")** section.
 
-You can view and update the email settings associated with your Loomio account via the **Email settings** option in the sidebar. You can read more about updating your email settings in the **[Keeping up to date](https://loomio.gitbooks.io/manual/content/en/keeping_up_to_date.html)** section of this help documentation.
+You can view and update the email settings associated with your Loomio account via the **Email settings** option in the sidebar. You can read more about updating your email settings in the [Keeping up to date](keeping_up_to_date.html "goes to keeping up to date section of the help manual")** section.
