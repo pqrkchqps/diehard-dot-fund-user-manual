@@ -8,19 +8,19 @@ Las notificaciones controlan cuánto correo recibes de un grupo en particular o 
 
 Para cambiar la configuración actual de las notificaciones de tus grupos abre el menú desplegable de **Opciones** en la página de tu grupo, y selecciona **Ajustes de correo**.
 
-<img class="screenshot" alt="group notifications" src="edit-group-notifications.gif" />
+<img class="screenshot" alt="animacion sobre como editar notificaciones grupales" src="edit-group-notifications.gif" />
 
 * **Toda la actividad**: Recibirás correo electrónico cada vez que haya actividad nueva (comentarios, votos, hilos nuevos, propuestas, y resultados) en este grupo. 
 
 * **Actividad importante**: Recibirás correo electrónico sobre nuevos hilos y propuestas (ej. cuando una propuesta es iniciada, a punto de cerrar, o cuando se cree un resultado en la misma).**Actividad Importante** es la configuración por defecto para nuevos grupos. Puedes leer sobre como cambiar esta configuración el la sección **Modificar la configuración de correo para todos los grupos**.
 
-* **No enviar correo**: No recibirás correo electrónico sobre actividad en este grupo, pero veras la nueva actividad en tu página [**No leído**](reading_loomio.html#unread-threads) y en Recientes.
+* **No enviar correo**: No recibirás correo electrónico sobre actividad en este grupo, pero veras la nueva actividad en tu página [**No leído**](reading_loomio.html#unread-threads "va a la sección leer loomio de este manual") y en Recientes.
 
 Para aplicar una configuración particular a todos tus grupos, selecciona la casilla **Aplicar esta configuración para todos mis grupos** antes de enviar el formulario.
 
 ### Ajustes de notificación de los hilos
 
-<img class="screenshot" alt="thread notifications" src="edit-thread-notifications.gif" />
+<img class="screenshot" alt="animación sobre editar notificaciones grupales" src="edit-thread-notifications.gif" />
 
 Cuando inicias un nuevo hilo, recibirá la misma configuración de notificaciones que el grupo al que pertenece. Puedes cambiar la configuración de las notificaciones del hilo seleccionando **Ajustes de correo** en el menú desplegable de opciones en el contexto del hilo.
 
@@ -36,7 +36,7 @@ Para aplicar una configuración particular a todos tus grupos, selecciona la cas
 
 ## Ajustar la configuración para todos los grupos
 
-<img class="gif" alt="ajustes de correo" src="ajustes-correo.gif" />
+<img class="gif" alt="animación sobre ajustes de correo" src="ajustes-correo.gif" />
 
 Hay tres configuraciones adicionales que pueden ser aplicada para todos los grupos.
 
