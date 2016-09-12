@@ -8,7 +8,7 @@ Cuando entras por primera vez a tu nuevo grupo de Loomio habrá una imagen de po
 
 ## Manejar membresías
 
-<img class="screenshot" alt="Managing membership page" src="members_page.png" />
+<img class="screenshot" alt="página de miembros" src="members_page.png" />
 
 Los coordinadores pueden añadir y remover miembros, y dar o quitar permisos de coordinador. Estas acciones pueden ser realizadas desde la página de **Miembros**, a la que se accede desde el enlace **Administrar miembros**en el menu de **Opciones** en la pagina de tu grupo.
 
@@ -22,10 +22,10 @@ En la página de **Miembros** junto a cada miembro hay un botón **Eliminar** ![
 
 ### Aceptar/denegar pedidos de membresía
 
-Si tu [configuración de privacidad del grupo](group_settings.html#group-privacy) le permite a la gente unirse a través de **Pide unirte**, un coordinador tiene que aprobar cada pedido de membresía. Los coordinadores recibirán un correo electrónico cada vez que haya un nuevo pedido de membresía. El enlace en el correo electrónico de notificación te llevará a la página **Pedidos de membresía** donde puedes aceptar o denegar el pedido.   
+Si tu [configuración de privacidad del grupo](group_settings.html#group-privacy "va a la sección configuración grupal de este manual") le permite a la gente unirse a través de **Pide unirte**, un coordinador tiene que aprobar cada pedido de membresía. Los coordinadores recibirán un correo electrónico cada vez que haya un nuevo pedido de membresía. El enlace en el correo electrónico de notificación te llevará a la página **Pedidos de membresía** donde puedes aceptar o denegar el pedido.   
 
 Si hay un pedido pendiente de membresía también será visible en la página de tu grupo en el panel **Pedidos de membresía**
 
 ## Desactivar/archivar tu grupo.
 
-Desactivar tu grupo significa que tu y el resto de los miembros de tu grupo yo no tendrán la posibilidad de acceder a tu grupo. Si deseas desactivar tu grupo puedes hacerlo seleccionando **Desactivar grupo** desde el menú de **Opciones** en la página del grupo. Para reactivar un grupo desactivado contacta el equipo de Loomio enviando un correo electrónico a [contact@loomio.org](mailto:contact@loomio.org).
+Desactivar tu grupo significa que tu y el resto de los miembros de tu grupo yo no tendrán la posibilidad de acceder a tu grupo. Si deseas desactivar tu grupo puedes hacerlo seleccionando **Desactivar grupo** desde el menú de **Opciones** en la página del grupo. Para reactivar un grupo desactivado contacta el equipo de Loomio enviando un correo electrónico a [contact@loomio.org](mailto:contact@loomio.org "abre en una nueva pestaña").
