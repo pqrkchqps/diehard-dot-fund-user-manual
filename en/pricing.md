@@ -4,11 +4,11 @@
 
 ## Our group has no money! Can we still use Loomio?
 
-Yes. You can choose the Free plan (see our [Pricing](http://loomio.org/pricing) page).
+Yes. You can choose the Free plan (see our [Pricing](http://loomio.org/pricing "opens pricing page in new tab") page).
 
 ## We haven't decided which plan suits us yet, can you help up?
 
-Yes. Just email [contact@loomio.org](mailto:contact@loomio.org) and we will help chose the right plan for your needs.
+Yes. Just email [contact@loomio.org](mailto:contact@loomio.org "opens in new tab") and we will help chose the right plan for your needs.
 
 ## How does the Free plan work?
 
