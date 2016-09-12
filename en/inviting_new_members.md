@@ -2,7 +2,7 @@
 
 <img class="screenshot" alt="Action menu" src="action_menu.gif" />
 
-Depending on your [group settings](group_settings.html), new members can be invited either by everyone in the group, or by coordinators only. You’ll find the **Invite people** option on the **Members** panel on your group page, and in the **Action Menu ** which can be accessed from anywhere in the app.
+Depending on your [group settings](group_settings.html "goes to group settings on the help manual"), new members can be invited either by everyone in the group, or by coordinators only. You’ll find the **Invite people** option on the **Members** panel on your group page, and in the **Action Menu ** which can be accessed from anywhere in the app.
 
 Copy the **Shareable link** and send it to anyone you want to join the group. Clicking the link will give them immediate access.
 
