@@ -1,8 +1,8 @@
 # Subgrupos
 
-<img class="screenshot" alt="subgrupos" src="agregar_subgrupo.gif" />
+<img class="screenshot" alt="animación sobre como iniciar subgrupos" src="agregar_subgrupo.gif" />
 
-Loomio te permite crear subgrupos dentro de tu grupo. Subgrupos te permiten dividir tu grupo en diferentes equipos. Los subgrupos en Loomio pueden contener miembros del grupo principal, como también gente que no pertenece al grupo principal. dependiendo de la [configuración de tu grupo](group_settings.html), los subgrupos pueden ser creados por cualquiera en el grupo o por los coordinadores solamente.
+Loomio te permite crear subgrupos dentro de tu grupo. Subgrupos te permiten dividir tu grupo en diferentes equipos. Los subgrupos en Loomio pueden contener miembros del grupo principal, como también gente que no pertenece al grupo principal. dependiendo de la [configuración de tu grupo](group_settings.html "va a la sección configuración grupal de este manual"), los subgrupos pueden ser creados por cualquiera en el grupo o por los coordinadores solamente.
 
 Para añadir un subgrupo, selecciona la opción **Agregar un subgrupo** desde el menú de opciones en la página de tu grupo.
 
@@ -10,7 +10,7 @@ Para añadir un subgrupo, selecciona la opción **Agregar un subgrupo** desde el
 
 Para visitar la pagina de configuración de tu subgrupo, has clic en el botón de **Opciones** en la página de tu grupo y selecciona **Editar la configuración del grupo** del menú desplegable.
 
-La configuración del subgrupo es la misma que la [configuración del grupo](group_settings.html) pero con configuraciones de privacidad adicionales.
+La configuración del subgrupo es la misma que la [configuración del grupo](group_settings.html "va a la sección configuración grupal de este manual") pero con configuraciones de privacidad adicionales.
 
 En la sección **Privacidad** del formulario **Editar la configuración del grupo**, hay un campo **¿Quien puede encontrar este grupo?**, que determina si tu subgrupo es accesible a los miembros del del grupo principal. Cuando la opción **Gente en el [grupo principal]** es seleccionada, el subgrupo será listado en el panel **Subgrupos**  en la página del grupo principal. Los miembros del grupo principal también serán capaces de acceder al subgrupo si navegan directamente a la página del subgrupo.
 
