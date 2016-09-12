@@ -1,6 +1,6 @@
 ![Loomio Logo](logo.png)
 
-Una guía comprensiva sobre como usar [Loomio](https://loomio.org/).
+Una guía comprensiva sobre como usar [Loomio](https://loomio.org/ "abre nuestra página principal en una nueva pestaña").
 
 ##¿Qué es Loomio?
 
@@ -19,4 +19,4 @@ Loomio es una simple y fácil de usar herramienta online para colaborar en la to
 * **Toma una decisión juntos** - cualquiera puede estar en acuerdo o en desacuerdo, abstenerse o bloquear - para que puedan ver como se sienten todos sobre la propuesta.
 
 
-[Mira este video](https://www.youtube.com/watch?v=BT9f0Nj0zB8) para una demostración rápida de como usar Loomio. 
+[Mira este video](https://www.youtube.com/watch?v=BT9f0Nj0zB8 "video abre en una nueva pestaña") para una demostración rápida de como usar Loomio. 
