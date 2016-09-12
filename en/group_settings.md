@@ -53,7 +53,7 @@ This allows everyone in your group to edit the context of any thread. When it is
 
 ### Edit their comments at any time
 
-This allows everyone in your group to [edit their comments](comments.html#editing-a-comment "Comments section of the help documentation") at any time. When it is deselected, a comment can only be edited until someone else participates in the thread.
+This allows everyone in your group to [edit their comments](comments.html#editing-a-comment "goes to comments section of the help documentation") at any time. When it is deselected, a comment can only be edited until someone else participates in the thread.
 
 ### Raise proposals
 
