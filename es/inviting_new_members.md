@@ -1,8 +1,8 @@
 # Invitar nuevos miembros
 
-<img class="screenshot" alt="Action menu" src="action_menu.gif" />
+<img class="screenshot" alt="menu de acción" src="action_menu.gif" />
 
-Dependiendo de la [configuración de tu grupo](group_settings.html), nuevos miembros pueden ser invitados por cualquier otro miembro del grupo o solo por los coordinadores. Encontrarás la opción **Invitar gente** en el panel **Miembros** en la página de tu grupo, y en el **Menú de acciones** al que puedes acceder desde cualquier parte de la app.
+Dependiendo de la [configuración de tu grupo](group_settings.html "va a la sección Configuración grupal de este manual"), nuevos miembros pueden ser invitados por cualquier otro miembro del grupo o solo por los coordinadores. Encontrarás la opción **Invitar gente** en el panel **Miembros** en la página de tu grupo, y en el **Menú de acciones** al que puedes acceder desde cualquier parte de la app.
 
 Copia el enlace para compartir y envíalo a cualquier persona que quieras que se una a tu grupo. Hacer clic en el enlace les dará acceso inmediato. 
 
