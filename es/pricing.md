@@ -4,11 +4,11 @@
 
 ## Nuestro grupo no tiene dinero! ¿Podemos utilizar Loomio de todas formas?
 
-Si. Pueden elegir el Plan Gratis (lee nuestra página [Planes de pago](http://loomio.org/pricing)
+Si. Pueden elegir el Plan Gratis (lee nuestra página [Planes de pago](http://loomio.org/pricing "abre en una nueva ventana")
 
 ## No puedo decidir que plan elegir ¿Puedes ayudarme?
 
-Si. Solo contactanos a [contact@loomio.org](mailto:contact@loomio.org) y te ayudaremos a elegir que plan se ajusta mejor a las necesidades de tu grupo.
+Si. Solo contactanos a [contact@loomio.org](mailto:contact@loomio.org "abre en una nueva ventana") y te ayudaremos a elegir que plan se ajusta mejor a las necesidades de tu grupo.
 
 ## ¿Cómo funciona el Plan Gratis?
 
@@ -20,7 +20,7 @@ Si. Nuestro plan Estándar cuesta US$190 al año y el plan Plus es US$990 por a�
 
 ## ¿Cómo funciona la integración con Slack?
 
-<img class="screenshot" alt="Slack integration" src="slack-integration.png" />
+<img class="screenshot" alt="Integración con Slack" src="slack-integration.png" />
 
 A través de la integración con Slack, cuando haya actividad importante en tu grupo de Loomio (Una nueva discusión o propuesta), aparecerá también en el canal de Slack que tu elijas. Y la gente podrá votar directamente desde Slack seleccionando una de las posiciones. Nota: Esta integración solo esta disponible para suscripciones pagas (Estándar o Pro)  
 
