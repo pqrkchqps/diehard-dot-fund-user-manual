@@ -2,7 +2,7 @@
 
 Puedes acceder a las partes más importantes de Loomio a través de la barra lateral de navegación en la parte izquierda de la pantalla. La misma está abierta por defecto en pantallas grandes, y cerrada en pantallas pequeñas (como los teléfonos móbil). Puedes abrirla o cerrarla con el icono de barras en la esquina superior derecha de la pantalla. 
 
-<img class="gif" alt="sidebar" src="sidebar-es.gif" />
+<img class="gif" alt="animación sobre como abrir la barra lateral" src="sidebar-es.gif" />
 
 ## Ver tus hilos
 
@@ -36,7 +36,7 @@ El menú desplegable de **Filtrar hilos** en la página de Recientes, te permite
 
 * **Hilos participativos**:  solo los hilos y propuestas en los que has participado.
 
-* **Silenciado: ** solo los hilos que has [silenciado](keeping_up_to_date.html#thread-volume) previamente.
+* **Silenciado: ** solo los hilos que has [silenciado](keeping_up_to_date.html#thread-volume "va a la sección mantenerse al día de este manual") previamente.
 
 ## Ver tus grupos
 
@@ -48,7 +48,7 @@ Puedes buscar y pedir membresía a grupos públicos en Loomio visitando la pági
 
 ## Editar tu información personal
 
-Puedes ver y actualizar tu perfil seleccionando la opción Editar Perfil en la barra lateral. Puedes leer más información sobre como actualizar tu Perfil en la sección **[tu perfil de usuario](https://loomio.gitbooks.io/manual/content/en/your_user_profile.html)**.
+Puedes ver y actualizar tu perfil seleccionando la opción Editar Perfil en la barra lateral. Puedes leer más información sobre como actualizar tu Perfil en la sección [Perfil de usuario](your_user_profile.html "va a la sección perfil de usuario de este manual").
 
-Puedes actualizar tus preferencias de correo desde la opción Ajustes de correo en la barra lateral. Puedes leer más información al respecto en la sección **[Estar al día](https://loomio.gitbooks.io/manual/content/en/keeping_up_to_date.html)**.
+Puedes actualizar tus preferencias de correo desde la opción Ajustes de correo en la barra lateral. Puedes leer más información al respecto en la sección [Estar al día](keeping_up_to_date.html "va a la sección estar al día de este manual").
  
