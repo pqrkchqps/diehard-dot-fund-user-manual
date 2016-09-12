@@ -6,11 +6,11 @@ Para contribuir a un hilo, escribe tu comentario en la casilla de comentarios al
 
 ## Markdown
 
-Loomio usa **Markdown** para dar formato a los textos y añadir imágenes. Para más información sobre cómo usar Markdown has clic en el enlace **Ayuda de formato** en la casilla del comentario y lee [esta guía](https://loomio.org/markdown).
+Loomio usa **Markdown** para dar formato a los textos y añadir imágenes. Para más información sobre cómo usar Markdown has clic en el enlace **Ayuda de formato** en la casilla del comentario y lee [esta guía](https://loomio.org/markdown "abre la guía de markdown en una nueva pestaña").
 
 ## Añadir archivos
 
-<img class="screenshot" alt="Attachment icon" src="attachment_icon.png" />
+<img class="screenshot" alt="animación sobre adjuntar archivos" src="attachment_icon.png" />
 
 Puedes añadir archivos a los comentarios usando el botón del clip al lado del botón **Enviar** en la casilla del comentario. se te pedirá seleccionar un archivo de tu dispositivo.
 
@@ -20,9 +20,9 @@ Si quieres llamar la atención de una persona en particular de tu grupo, marca u
 
 ## Editar comentarios
 
-<img class="screenshot" alt="Comment options dropdown" src="edit_comment.gif" />
+<img class="screenshot" alt="animación sobre editar comentarios" src="edit_comment.gif" />
 
-Automáticamente los grupos son configurados para que un comentario sólo pueda ser editado hasta que alguien más envíe un comentario en el hilo. Los coordinadores también pueden [configurar el grupo para permitir a los miembros editar sus comentarios en cualquier momento](group_settings.html#group-permissions-%E2%80%93-what-can-members-do). Si puedes editar tu comentario, la opción **Editar comentario** está en el menú desplegable **Opción de comentario**.
+Automáticamente los grupos son configurados para que un comentario sólo pueda ser editado hasta que alguien más envíe un comentario en el hilo. Los coordinadores también pueden [configurar el grupo para permitir a los miembros editar sus comentarios en cualquier momento](group_settings.html#group-permissions-%E2%80%93-what-can-members-do "va a la sección configuración grupal de este manual"). Si puedes editar tu comentario, la opción **Editar comentario** está en el menú desplegable **Opción de comentario**.
 
 ## Gustar comentarios
 
