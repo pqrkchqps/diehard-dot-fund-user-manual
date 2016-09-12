@@ -13,7 +13,7 @@ To change your email settings for a group, open the **Options** dropdown on the 
 
 * **Important activity**: You will be emailed about new threads and proposals (i.e. when a proposal is started, about to close or when a proposal outcome is created). **Important activity** is the default for new groups. You can read about changing the default email settings for new groups in the **Updating email settings for all groups** section below.
 
-* **No emails**: You won't be emailed about activity in this group, but you'll see new group activity on your [**Unread**](reading_loomio.html#unread-threads) and **Recent** pages.
+* **No emails**: You won't be emailed about activity in this group, but you'll see new group activity on your [**Unread**](reading_loomio.html#unread-threads "goes to reading Loomio section of the help manual") and **Recent** pages.
 
 In order to apply a particular setting to all of your groups, check the **Apply this setting to all my groups** checkbox before submitting the form.
 
