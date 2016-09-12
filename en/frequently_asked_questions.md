@@ -6,7 +6,7 @@ If you don’t receive an email confirming your group registration, you might ne
 
 ## I’ve forgotten my password, what do I do?
 
-If you’ve forgotten your password click the **"Forgot your password?"** link on the [Log in page](https://www.loomio.org/users/sign_in). You will be asked to enter the email address associated with your Loomio account and password reset instructions will be sent to this email address.
+If you’ve forgotten your password click the **"Forgot your password?"** link on the [Log in page](https://www.loomio.org/users/sign_in "opens in new tab"). You will be asked to enter the email address associated with your Loomio account and password reset instructions will be sent to this email address.
 
 ## Do I need a Loomio account to participate in discussions?
 
@@ -14,15 +14,15 @@ Yes. Even though there are different levels of group privacy, everyone who wishe
 
 ## Does it cost to use Loomio?
 
-Check out our pricing plans [here](https://www.loomio.org/pricing).
+Check out our pricing plans [here](https://www.loomio.org/pricing "opens Pricing page in new tab").
 
 ## Can I sign in with Google, Facebook or Twitter?
 
-Yes, see [Single sign-on](getting_started.html#single-sign-on).
+Yes, see [Single sign-on](getting_started.html#single-sign-on "moves down the page to single sign on").
 
 ## How can I set up my own instance of Loomio?
 
-There is an installation guide on our [Github wiki](https://github.com/loomio/loomio/wiki) and a [Loomio Community sub-group](https://www.loomio.org/g/C7I2YAPN/loomio-community-installing-loomio) dedicated to support and assistance with local installations. If you're thinking about installing your own version of Loomio, we highly recommend joining this group.
+There is an installation guide on our [Github wiki](https://github.com/loomio/loomio/wiki "opens in new tab") and a [Loomio Community sub-group](https://www.loomio.org/g/C7I2YAPN/loomio-community-installing-loomio "opens in new tab) dedicated to support and assistance with local installations. If you're thinking about installing your own version of Loomio, we highly recommend joining this group.
 
 ## I have approved membership requests for people who wanted to join my group but they haven’t shown up as members, what’s going on?
 
@@ -40,23 +40,23 @@ Loomio is mobile responsive, so it will work on any device through a browser.
 
 ## How can I reactivate my account?
 
-To have your account reactivated, [contact us](https://loomio.org/contact).
+To have your account reactivated, [contact us](https://loomio.org/contact "opens in new tab").
 
 ## I’ve deactivated my group, can I restore it?
 
-Deactivated groups can only be restored by a member of the Loomio team. [Contact us](https://loomio.org/contact) to reactivate your group.
+Deactivated groups can only be restored by a member of the Loomio team. [Contact us](https://loomio.org/contact "opens in new tab") to reactivate your group.
 
 ## What if I have a feature to suggest?
 
-We also have an open Loomio Community sub-group dedicated to [Feature Ideas](https://www.loomio.org/g/GN7EFQTK/loomio-community-feature-ideas). You can contribute to discussions about new features there, or make suggest your own feature ideas.
+We also have an open Loomio Community sub-group dedicated to [Feature Ideas](https://www.loomio.org/g/GN7EFQTK/loomio-community-feature-ideas "opens in new tab"). You can contribute to discussions about new features there, or make suggest your own feature ideas.
 
 ## Is there a Loomio API?
 
-We're actively developing and using the API that the new Loomio 1.0 client uses. This implements everything a Loomio client talking to the web service would need. There is currently no server-to-server api, but Loomio is [open source](http://github.com/loomio/loomio) and we welcome contributions.
+We're actively developing and using the API that the new Loomio 1.0 client uses. This implements everything a Loomio client talking to the web service would need. There is currently no server-to-server api, but Loomio is [open source](http://github.com/loomio/loomio "opens in new tab") and we welcome contributions.
 
 ## Is it possible to have a Loomio subdomain?
 
-Yes. We can, for example, set up **[your-group-name].loomio.org** as the URL for your group. [Contact us](https://loomio.org/contact) if you're interested.
+Yes. We can, for example, set up **[your-group-name].loomio.org** as the URL for your group. [Contact us](https://loomio.org/contact "opens in new tab") if you're interested.
 
 ## Accessibility
 
@@ -65,4 +65,4 @@ Loomio should be compatible with most screen readers, but it was primarily teste
 
 ## My question is not here
 
-If you have any questions or issues that are not answered through this Help Manual, you can join the [Loomio Community Help](https://www.loomio.org/invitations/716ae5abb84f4a5ea75c) subgroup. Read the existing thread, or start a new one, to get help and tips from our community.
+If you have any questions or issues that are not answered through this Help Manual, you can join the [Loomio Community Help](https://www.loomio.org/invitations/716ae5abb84f4a5ea75c "open in new tab to join the group") subgroup. Read the existing thread, or start a new one, to get help and tips from our community.
