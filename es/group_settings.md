@@ -1,6 +1,6 @@
 # Configuraciones del grupo
 
-<img class="screenshot" alt="Group options dropdown" src="editar_configuracion_grupal.gif" />
+<img class="screenshot" alt="abrir el menu desplegable de opciones" src="editar_configuracion_grupal.gif" />
 
 Los coordinadores pueden editar la configuración del grupo: **Perfil **, **Privacidad** y **Permisos**.
 
@@ -27,7 +27,7 @@ Nota: si tienes un grupo **Secreto** y lo cambias a **Abierto**, todos tus hilos
 
 ## Permisos del grupo -- ¿Qué pueden hacer los miembros?
 
-<img class="screenshot" alt="Group options dropdown" src="editar_permisos.gif" />
+<img class="screenshot" alt="cambiar persmisos de los miembros" src="editar_permisos.gif" />
 
 Los coordinadores del grupo configuran los permisos del grupo y deciden así lo que los miembros pueden hacer en su grupo.
 
@@ -55,7 +55,7 @@ Esto les permite a todos en tu grupo editar el contexto de cualquier hilo. Cuand
 
 ### Editar sus comentarios en cualquier momento
 
-Esto les permite a todos en tu grupo [editar sus comentarios](comments.html#editing-a-comment).
+Esto les permite a todos en tu grupo [editar sus comentarios](comments.html#editing-a-comment "va a la sección comentarios de este manual de ayda").
 Cuando no es seleccionado un comentario solo puede ser editado hasta que alguien más comenta en el hilo.
 
 ### Iniciar propuestas
