@@ -1,8 +1,8 @@
 # Propuestas
 
-<img class="screenshot" alt="Proposal panel" src="proposal_panel.png" />
+<img class="screenshot" alt="panel de propuestas" src="proposal_panel.png" />
 
-Las propuestas se llevan a cabo en el [hilo de discusión](discussion_threads.html), que abarca ambos, la discusión y la propuesta. Solo puede haber una propuesta activa a la vez en cada hilo.
+Las propuestas se llevan a cabo en el [hilo de discusión](discussion_threads.html "va a la sección hilos de discusión en este manual"), que abarca ambos, la discusión y la propuesta. Solo puede haber una propuesta activa a la vez en cada hilo.
 
 ## Iniciar una propuesta
 
