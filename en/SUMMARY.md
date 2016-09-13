@@ -13,8 +13,8 @@
 * [Keeping up to date](keeping_up_to_date.md)
 * [Your user profile](your_user_profile.md)
 * [Pricing](pricing.md)
-* [Security and Privacy](security_privacy.md)
 * [Frequently Asked Questions](frequently_asked_questions.md)
 * [Policies](policies.md)
+   * [Security and Privacy](security_privacy.md)
    * [Terms of Service](terms_of_service.md)
 
