@@ -16,5 +16,5 @@
 * [Security and Privacy](security_privacy.md)
 * [Frequently Asked Questions](frequently_asked_questions.md)
 * [Policies](policies.md)
-   * Terms of Service
+   * [Terms of Service](terms_of_service.md)
 
