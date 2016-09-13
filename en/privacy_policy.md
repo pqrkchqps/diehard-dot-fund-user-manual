@@ -2,11 +2,11 @@
 
 This privacy policy outlines our practices for the types of information Loomio gathers, how we use it, with whom we share it, and the notices and choices affected individuals can expect regarding the information. Our overriding principle is that we will not sell or rent any information you share with us.
 
-## Non-personally-identifiable information
+## Non-personally identifiable information
 
 Like most website operators, Loomio collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Loomio’s purpose in collecting non-personally identifying information is to better understand how Loomio’s visitors use the website. From time to time, Loomio may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-## Potentially-personally-identifiable information
+## Potentially personally-identifiable information
 
 Loomio also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Loomio does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
