@@ -1,4 +1,4 @@
-# Security & Privacy FAQ
+# Security FAQ
 
 ## Terms of Service and Privacy Policy
 Loomio’s cloud service is subject to [Terms of Service](https://www.loomio.org/terms_of_service "opens in new tab") and [Privacy Policy](https://www.loomio.org/privacy "opens in new tab"). These policies contain detailed information, and we invite anyone with security and privacy concerns to review them carefully.
