@@ -15,4 +15,5 @@
 * [Pricing](pricing.md)
 * [Security and Privacy](security_privacy.md)
 * [Frequently Asked Questions](frequently_asked_questions.md)
+* Policies
 
