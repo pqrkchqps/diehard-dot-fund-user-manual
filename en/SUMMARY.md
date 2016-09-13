@@ -14,7 +14,7 @@
 * [Your user profile](your_user_profile.md)
 * [Pricing](pricing.md)
 * [Frequently Asked Questions](frequently_asked_questions.md)
-* [Policies](policies.md)
+* [Policies & More Info](policies.md)
    * [Security FAQ](security_privacy.md)
    * [Terms of Service](terms_of_service.md)
    * [Privacy Policy](privacy_policy.md)
