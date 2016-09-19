@@ -20,7 +20,7 @@ Clicking the star icon on a thread preview marks that thread **Starred**. Use st
 
 ### Unread Threads
 
-The **Unread Threads** page shows all threads and proposals that have new content since you last visited, sorted by group. You can access this page via the **Unread** option in the sidebar. You can clear unread items without reading them by hovering over the thread preview and clicking **Dismiss*.
+The **Unread Threads** page shows all threads and proposals that have new content since you last visited, sorted by group. You can access this page via the **Unread** option in the sidebar. You can clear unread items without reading them by hovering over the thread preview and clicking **Dismiss**.
 
 ### Muted
 
