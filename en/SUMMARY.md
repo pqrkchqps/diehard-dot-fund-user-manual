@@ -14,7 +14,6 @@
 * [Your user profile](your_user_profile.md)
 * [Premium Features](premium_features.md)
 * [Pricing](pricing.md)
-   * Premium Features
 * [Frequently Asked Questions](frequently_asked_questions.md)
 * [Policies & More Info](policies.md)
    * [Security FAQ](security_privacy.md)
