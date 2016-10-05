@@ -13,6 +13,7 @@
 * [Keeping up to date](keeping_up_to_date.md)
 * [Your user profile](your_user_profile.md)
 * [Pricing](pricing.md)
+   * Premium Features
 * [Frequently Asked Questions](frequently_asked_questions.md)
 * [Policies & More Info](policies.md)
    * [Security FAQ](security_privacy.md)
