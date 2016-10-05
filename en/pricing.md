@@ -1,4 +1,5 @@
-<img class="screenshot" alt="Pricing table" src="pricing_en.png" />
+![](princing_eng_updated.png)
+*Prices are in US dollars, plus sales tax where applicable.*
 
 # Frequently asked questions
 
