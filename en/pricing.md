@@ -15,6 +15,10 @@ Just email [contact@loomio.org](mailto:contact@loomio.org "opens in new tab") an
 
 The Free plan includes all the core functionality of Loomio, with unlimited users. Your members will be occasionally asked for a voluntary donation. Free plans do not include [Premium Features](https://loomio.gitbooks.io/manual/content/en/premium_features.html).
 
+## How can we select a paid plan?
+
+If you are in a Free plan and want to upgrade, select the blue Upgrade Plan button on your group's main page and choose one of our paid plans from the chart. 
+
 ## Do you have prices for annual subscriptions?
 
 Yes. If you choose an annual subscription you get 2 months free! Our annual Standard plan costs US$190, and the Pro plan is US$990.
