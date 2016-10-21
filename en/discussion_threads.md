@@ -26,6 +26,9 @@ If your [group settings](group_settings.html "goes to group settings section on 
 
 ## Editing a thread
 
-**Group members** can edit the title, context and privacy of any thread they have started. **Group coordinators** can edit the title, context and privacy of any threads taking place in their group. **Group coordinators** can also determine whether or not group members can edit each others’ threads (see [Group settings](group_settings.html "goes to group settings on the help manual")). The **Edit thread **option is accessed via the thread options dropdown.
+**Group members** can edit the title, context and privacy of any thread they have started. **Group coordinators** can edit the title, context and privacy of any threads taking place in their group. **Group coordinators** can also determine whether or not group members can edit each others’ threads (see [Group settings](group_settings.html "goes to group settings on the help manual")). 
+The **Edit thread** option is accessed via the thread Options dropdown menu next to the thread title in the thread page.
+
+Via the thread Options dropdown menu you can also **delete, print, move, mute** or change the **email settings** for that thread.
 
 <img class="screenshot" alt="Discussion thread options dropdown menu animation" src="edit_thread.gif" />
