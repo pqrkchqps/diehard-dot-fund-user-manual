@@ -26,8 +26,10 @@ Si la [configuración de tu grupo](group_settings.html "va a la sección configu
 
 ## Editar un hilo
 
-Los **Miembros de grupo** pueden editar el título, contexto y privacidad de cualquier hilo que comienzen. Los **Coordinadores de grupo** pueden editar el título, contexto y privacidad de cualquier hilo en el grupo. Los **Coordinadores del grupo** también pueden determinar si los miembros del grupo pueden o no, editar los hilos de otros (ver [configuración del grupo](group_settings.html "va a la sección configuración grupal en este manual")).
+Los **Miembros de grupo** pueden editar el título, contexto y privacidad de cualquier hilo que comienzen. Los **Coordinadores de grupo** pueden editar el título, contexto y privacidad de cualquier hilo en el grupo. Los **Coordinadores del grupo** también pueden determinar si los miembros del grupo pueden o no, editar los hilos de otros (ver [configuración del grupo](group_settings.html "va a la sección configuración grupal en este manual")). A la opción **Editar hilo** accedes a través del menú desplegable de Opciones junto al título del hilo en la página del mismo.
+
+Desde el menú de Opciones del hilo, también podrás **eliminarlo, moverlo, imprimirlo, silenciarlo** y **ajustar** la configuración de las **notificaciones de correo** del mismo.
 
 <img class="screenshot" alt="menu desplegable de opciones del hilo" src="edit_thread.gif" />
 
-A la opción **Editar hilo** accedes a través del menú desplegable de opciones del hilo.  
+
