@@ -1,44 +1,57 @@
-# Keeping up to date
+# Se tenir à jour
 
-## Notifications
+## Paramètres des courriels
 
-Notifications control how much you hear from a group or a specific discussion thread. There are four settings for both group notifications and thread notifications.
+Les paramètres de vos e-mails contrôlent la fréquence à laquelle vous entendez parler d‎‎’un groupe ou d‎‎’un fil de discussion spécifique. Il y a trois paramètres pour chaque groupe et fil.
 
-### Group notifications
+Vos paramètres de courriels vous permettent de définir la fréquence à laquelle vous avez des nouvelles d‎‎’un groupe ou d‎‎’un fil de discussion particulier. Il existe trois paramètres valables à la fois pour les groupes et les fils de discussion.
 
-Your current group notifications setting will appear in a **Group notifications** card on your group page, underneath the **Members card**. You can change your group notifications setting by clicking the **Change** link inside the **Group notifications** card, and selecting one of the four options:
+### Paramètres de la messagerie pour les groupes
+<img class="screenshot" alt="Notifications de groupe" src="edit_group_notifications.gif" />
 
-* **Email everything**: You will be emailed whenever there is activity (comments, votes, new threads, proposals, and proposal outcomes) in this group.
+Pour modifier vos paramètres de courriel de groupe, affichez le menu déroulant **Options**, faites défiler et sélectionnez **Paramètres de courriel**.
 
-* **Email new threads and proposals**: You will be emailed about new threads and proposals (i.e. when a proposal is started, about to close or when a proposal outcome is created). **Email proposals** is the default for new groups.
+* **Toute activité**&nbsp;: vous recevrez un courriel à chaque fois qu‎‎’il y a de l‎‎’activité (commentaires, votes, nouveaux fils, propositions, et résultats de proposition) dans ce groupe. **Toute activité** est le paramètre par défaut pour les nouveaux groupes. La section **Mettre à jour les paramètres de courriel pour tous les groupes** explique comment modifier les paramètres de courriel par défaut pour les nouveaux groupes.
 
-* **No emails**: You won't be emailed about activity in this group, but you'll see new group activity on your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
+* **Activité importante**&nbsp;: vous recevrez un courriel au sujet des nouveaux fils et propositions (c‎‎’est-à-dire lorsqu‎‎’une proposition est créée, s‎‎’apprête à fermer ou quand un résultat est créé pour une proposition).
 
-* **Mute group**: You won't be emailed about this group, and it will be removed from your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
+*  **Aucun courriel**&nbsp;: vous ne recevrez aucun courriel portant sur l‎‎’activité dans ce groupe, mais vous pourrez voir les dernières mises à jour sur les pages [**Non lues**]((#reading_loomio.html#unread-threads) et la page **Récent**.
 
-### Thread notifications
+Pour appliquer les mêmes paramètres à l‎‎’ensemble de vos groupes, cochez la case **Appliquer ces paramètres à tous mes groupes** avant d‎‎’envoyer le formulaire.
 
-When you start a new thread, it will inherit a default notifications setting from its group. Your current thread notifications setting will appear in a **Thread notifications** card on the thread page. You can change your thread notifications setting by clicking the **Change** link inside the **Thread notifications** card, and selecting one of the four options:
+### Paramètres de la messagerie d‎‎’un fil de discussion
+<img class="screenshot" alt="Notifications liées à un fil" src="edit_thread_notifications.gif" />
 
+Lorsque vous commencez un nouveau fil de discussion, il hérite des paramètres de courriel par défaut attribués par son groupe. Pour modifier les paramètres de courriel, ouvrez le menu déroulant des options du fil et sélectionnez dans ce menu **Paramètres de courriel**.
 
-* **Email everything**: You will be emailed whenever there is activity (comments, new proposals, votes and proposal outcomes) in this thread.
+* **Toute activité**&nbsp;: vous recevrez un courriel à chaque fois qu‎‎’il y a de l‎‎’activité (commentaires, nouvelles propositions, votes et résultats d‎‎’une proposition) dans ce fil.
 
-* **Email proposals**: You will be emailed when a proposal is started, about to close or when a proposal outcome is created.
+* **Activité importante**&nbsp;: vous recevrez un courriel lorsqu‎‎’une proposition est créée, s‎‎’apprête à fermer ou lorsqu‎‎’un résultat est créé.
 
-* **No emails**: You won't be emailed about this thread.
+* **Aucun courriel**&nbsp;: vous ne recevrez aucun courriel au sujet de ce fil.
 
-* **Mute thread**: You won't be emailed about this thread unless someone @mentions you. It will be removed from your [**Unread**](reading_loomio.html#unread-threads) and Recent pages.
+Pour que les mêmes paramètres soient définis pour l‎‎’ensemble de vos fils de discussion, cochez la case **Appliquer ces paramètres à tous les fils de discussion dans ce groupe** avant d‎‎’envoyer le formulaire.
 
-You can mute threads from thread previews that display on the group page, Recent Threads page and Unread page by hovering over the thread preview and selecting the **Mute** option. You can mark threads as read by selecting the **Mark as read** option. Marking a thread as read will remove it from your [**Unread**](reading_loomio.html#unread-threads) page.
+If you have muted a thread you won't be notified about proposals, or any other activity taking place in the thread, unless someone @mentions you. You can read more about muting threads under the **Muted** subheading in the **Navigating Loomio** section of the help documentation.
 
-If you have thread notifications for a particular thread set to **Email everything**, you can reply to any comments you receive directly via email and your replies will be posted in the Loomio thread. You can also choose to view the comment in the context of the thread on Loomio by clicking the **view it on www.loomio.org** link in the footer of the email.
+### Mettre à jour les paramètres de messagerie pour tous les groupes
 
+<img class="gif" alt="Configurer les courriels" src="email-settings.gif" />
 
-## Email settings
+Il y a trois paramètres de messagerie électronique supplémentaires qui peuvent être appliquées à tous les groupes.
 
-Your **Email settings** page enables you to set default email notification settings for groups and threads. To visit your **Email settings** page, select the **Email settings** option from the user menu in the navigation bar.
+**Messagerie, résumé quotidien**&nbsp;: l‎‎’activation de ce paramètre signifie que tous les matins vous recevrez un courriel résumant toutes les activités que vous avez manquées la veille. Cette messagerie fournit une routine simple pour rester à jour avec les activités Loomio.
 
-## Yesterday on Loomio
+**S‎‎’abonner…**&nbsp;: activer ce réglage signifie que, lorsque vous participez à un fil de discussion, toute nouvelle activité vous sera immédiatement envoyée par courriel.
 
-The **Yesterday on Loomio** email is a daily summary of content you haven't read from the previous day. The email contains everything that is not muted. You can turn this on or off from the **Email settings** page.
+**Avertir quand je suis mentionné**&nbsp;: activer ce réglage signifie que lorsque quelqu‎‎’un veut attirer votre attention il peut mentionner votre @nom dans un commentaire qui vous sera notifié. Nous recommandons de toujours activer ce paramètre, afin d‎‎’être informé par courriel dans ce cas.
 
+Ces paramètres peuvent être configurés à partir des **paramètres de courriel** de la page utilisateur, qui est accessible par le menu **paramètres de courriel** dans le menu utilisateur.
+
+### Paramètres par défaut des nouveaux groupes
+
+Sous l‎‎’en-tête **Paramètres d‎‎’un groupe particulier** sur la page ** Paramètres de courriel** vous pouvez lire les paramètres de courriel par défaut pour les nouveaux groupes. Afin de modifier les paramètres de courriel par défaut pour tous les nouveaux groupes que vous rejoignez, cliquez sur le lien **Changer les paramètres par défaut** et sélectionnez les nouveaux paramètres par défaut.
+
+### Replying by email
+
+You can reply to any comments you receive directly via email and your replies will be posted in the Loomio thread. You can also choose to view the comment in the context of the thread on Loomio by clicking the **view it on www.loomio.org** link in the footer of the email.

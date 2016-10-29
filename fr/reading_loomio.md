@@ -8,17 +8,17 @@ You can access the most important parts of the Loomio app via the sidebar, the p
 
 ### Fils récents
 
-**Fils récents** est la page d'accueil quand vous vous connectez à Loomio. Elle vous donne un aperçu des activités les plus récentes dans vos groupes. La page **Fils récents** affiche le contenu depuis vos groupes selon une liste priorisée. Les propositions ouvertes sont en haut, suivies par les fils de discussions **Favoris** (marqués d'une étoile), puis tous les autres fils de discussions de votre groupe, classées par activité la plus récente ; **Aujourd'hui**, **Hier**, **Ce mois-ci**, **Plus d'un mois**.
+**Fils récents** est la page d‎‎’accueil quand vous vous connectez à Loomio. Elle vous donne un aperçu des activités les plus récentes dans vos groupes. La page **Fils récents** affiche le contenu depuis vos groupes selon une liste priorisée. Les propositions ouvertes sont en haut, suivies par les fils de discussions **Favoris** (marqués d‎‎’une étoile), puis tous les autres fils de discussions de votre groupe, classées par activité la plus récente&nbsp;: **Aujourd‎‎’hui**, **Hier**, **Ce mois-ci**, **Plus d‎‎’un mois**.
 
-Si un fil ou le titre d'une proposition est **en gras**, alors il y a eu de l'activité depuis votre dernière visite. Les nombres entre parenthèses après les titres indiquent combien de nouveaux commentaires ou votes ont été postés depuis votre dernière visite. Les propositions vont montrer un camembert, avec votre position en surimpression sur le diagramme. Si vous n'avez pas pris position, il y aura un point d'exclamation.
+Si un fil ou le titre d‎‎’une proposition est **en gras**, alors il y a eu de l‎‎’activité depuis votre dernière visite. Les nombres entre parenthèses après les titres indiquent combien de nouveaux commentaires ou votes ont été postés depuis votre dernière visite. Les propositions vont montrer un camembert, avec votre position en surimpression sur le diagramme. Si vous n‎‎’avez pas pris position, il y aura un point d‎‎’exclamation.
 
 ### Fils favoris
 
-Cliquez sur l'icône étoile dans l'aperçu d'un fil pour ajouter ce fil aux **favoris**. Utilisez les étoiles pour distinguer les fils importants. Vous êtes la seule personne qui puisse voir si vous avez ajouté un fil à vos favoris.
+Cliquez sur l‎‎’icône étoile dans l‎‎’aperçu d‎‎’un fil pour ajouter ce fil aux **favoris**. Utilisez les étoiles pour distinguer les fils importants. Vous êtes la seule personne qui puisse voir si vous avez ajouté un fil à vos favoris.
 
 ### Fils non lus
 
-Cette page montre tous les fils et propositions dans lesquels du contenu a été ajouté depuis votre dernière visite, classés par groupe. Vous pouvez cliquer sur **Marquer comme lu** sur l'aperçu d'un fil pour l'enlever de cette page sans aller voir le fil. Vous pouvez aussi [désactiver](keeping_up_to_date.html#thread-volume) les notifications d'un fil ici.
+Cette page montre tous les fils et propositions dans lesquels du contenu a été ajouté depuis votre dernière visite, classés par groupe. Vous pouvez cliquer sur **Marquer comme lu** sur l‎‎’aperçu d‎‎’un fil pour l‎‎’enlever de cette page sans aller voir le fil. Vous pouvez aussi [désactiver](keeping_up_to_date.html#thread-volume) les notifications d‎‎’un fil ici.
 
 ### Muted
 
@@ -29,11 +29,11 @@ The **Muted** page displays all threads you have previously muted. It can be acc
 
 Le menu déroulant **Filtres** vous permet de sélectionner ce que vous voyez&nbsp;:
 
-* **Fils récents :&nbsp;** tous les fils et propositions avec de l'activité récente.
+* **Fils récents&nbsp;:** tous les fils et propositions avec de l‎‎’activité récente.
 
 * **Fils contribués&nbsp;:** seulement les fils de discussion et propositions auxquels vous avez participé.
 
-* **Silencieux :** seulement les fils dont vous avez [désactiver](keeping_up_to_date.html#thread-volume) les notifications.
+* **Silencieux&nbsp;:** seulement les fils dont vous avez [désactiver](keeping_up_to_date.html#thread-volume) les notifications.
 
 ## Viewing your groups
 
@@ -42,7 +42,6 @@ All the groups you belong to are listed in the sidebar. If you are only a member
 ## Exploring public groups
 
 You can explore, and request membership to, public Loomio groups by visiting the **Explore** page. The **Explore** page is accessed via the **Explore public groups** option in the sidebar.
-
 
 ## Editing your account information
 

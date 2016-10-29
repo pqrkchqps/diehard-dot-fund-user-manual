@@ -1,13 +1,12 @@
-![](princing_eng_updated.png)
-*Prices are in US dollars, plus sales tax where applicable.*
+![Grille tarifaire](princing_fr.png)
 
 # Foire Aux Questions
 
-## Notre groupe n'a pas (plus) de moyens financiers ! Pouvons-nous toujours continuer à utiliser Loomio ?
+## Notre groupe n‎‎’a pas (plus) de moyens financiers&nbsp;! Pouvons-nous toujours continuer à utiliser Loomio&nbsp;?
 
-Oui. Vous pouvez opter pour un /forfait/programme donation (voir notre page [Tarification](http://loomio.org/pricing)
+Oui. Vous pouvez opter pour un /forfait/programme donation (voir notre page [Tarification](http://loomio.org/pricing)).
 
-## Nous n'avons pas encore décidé du forfait qui nous conviendrait, pouvons-nous prolonger la période d'essai gratuite ?
+## Nous n‎‎’avons pas encore décidé du forfait qui nous conviendrait, pouvons-nous prolonger la période d‎‎’essai gratuite&nbsp;?
 
 Oui. Il suffit de faire la demande par courriel&nbsp;:  [contact@loomio.org](mailto:contact@loomio.org "opens in new tab"). Nous pouvons aussi vous conseillez sur la formule à choisir dans votre cas.
 
@@ -19,17 +18,17 @@ The Free plan includes all the core functionality of Loomio, with unlimited user
 
 If you are in a Free plan and want to upgrade, select the blue Upgrade Plan button on your group's main page and choose one of our paid plans from the chart.
 
-## Avez-vous des tarifs pour les souscriptions à l'année ?
+## Avez-vous des tarifs pour les souscriptions à l‎‎’année&nbsp;?
 
-Oui. Notre offre standard est à 190 USD (Dollar US) par an, et l'offre Pro  est à 990 USD.
+Oui. Notre offre standard est à 190 USD (Dollar US) par an, et l‎‎’offre Pro  est à 990 USD.
 
-## Avec quelles cartes peut-on payer ?
+## Avec quelles cartes peut-on payer&nbsp;?
 
 Visa, Mastercard et American Express.
 
-## Êtes vous assujetti à la TVA ?
+## Êtes vous assujetti à la TVA&nbsp;?
 
-Oui. En Nouvelle-Zélande, la TVA est ajoutée au prix de chaque souscription payante. Il n'y a pas de TVA sur les donations.
+Oui. En Nouvelle-Zélande, la TVA est ajoutée au prix de chaque souscription payante. Il n‎‎’y a pas de TVA sur les donations.
 
 ## Can I get an invoice?
 

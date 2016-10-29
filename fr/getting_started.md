@@ -1,10 +1,10 @@
 # Premiers pas
 
-Il existe plusieurs façons de s'initier à Loomio. Voici quelques informations sur chaque point d'entrée disponible :
+Il existe plusieurs façons de s‎‎’initier à Loomio. Voici quelques informations sur chaque point d‎‎’entrée disponible&nbsp;:
 
-## Créer un nouveau groupe depuis la page d'accueil
+## Créer un nouveau groupe depuis la page d‎‎’accueil
 
-Vous pouvez créer un nouveau groupe depuis la page d'accueil de Loomio en cliquant sur le bouton **Essayer Loomio**. saisissez votre nom, une adresse électronique et le nom du groupe dans le formulaire [**Créer un nouveau groupe**](https://www.loomio.org/start_group). Vous recevrez par mail un lien qui vous conduira vers le nouveau groupe que vous venez de créer.
+Vous pouvez créer un nouveau groupe depuis la page d‎‎’accueil de Loomio en cliquant sur le bouton **Essayer Loomio**. saisissez votre nom, une adresse électronique et le nom du groupe dans le formulaire [**Créer un nouveau groupe**](https://www.loomio.org/start_group). Vous recevrez par mail un lien qui vous conduira vers le nouveau groupe que vous venez de créer.
 
 ## Vous êtes invité dans un groupe Loomio
 
