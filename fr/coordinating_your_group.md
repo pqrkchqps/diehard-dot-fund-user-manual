@@ -1,26 +1,31 @@
 # Coordonner votre groupe
 
-En tant que coordinateur d'un groupe Loomio, vous êtes chargé de guider votre groupe dans l'apprentissage de ce nouvel outil, mais aussi dans l'apprentissage de nouveaux processus pour collaborer plus efficacement et prendre de bonnes décisions ensemble. Les tâches décrites ci-dessous sont disponibles uniquement pour les coordinateurs de votre groupe.
+En tant que coordinateur d'un groupe Loomio, vous êtes responsable de l'accompagnement du groupe dans les étapes d'apprentissage d'utilisation de nouveau logiciel, ainsi que dans l'apprentissage de nouveaux procédés de collaboration plus efficaces et de prises de décision communes. Les taches mentionnées ci-dessus ne sont disponibles que pour les coordinateurs de votre groupe.
 
-## Ajout d'une photo de couverture
-Lorsque vous commencez dans votre nouveau groupe Loomio, une photo de couverture aura été choisie au hasard, et un espace sera réservé pour le logo de votre groupe. Vous pouvez télécharger une nouvelle photo et un logo en sélectionnant le bouton de téléchargement.
+## Ajout d'une nouvelle image de couverture
 
-## Gestion des membres
+Lors de la première connexion à votre nouveau groupe Loomio, définis par défaut une image de couverture aléatoire, ainsi qu'un espace réservé pour le logo de votre groupe. Vous pourrez personnaliser l'apparence de votre groupe, en ajoutant vos propres images de couverture et logos. Vous pouvez téléverser une nouvelle image de couverture ou un nouveau logo en sélectionnant le bouton de téléversement (icône de caméra) dans l'une de ces deux zones.
 
-<img class="screenshot" alt="Managing membership page" src="members_page.png" />
+## Managing membership
 
-Les coordinateurs du groupe peuvent ajouter et supprimer des membres, nommer et récuser les coordinateurs. Ces actions peuvent être effectuées à partir de la page de gestion des **Membres** qui est accessible via le lien **Gérer les membres** dans le menu **Options** sur la page du groupe.
+<img class="screenshot" alt="Page de gestion des adhésions" src="members_page.png" />
 
-### Ajout / suppression des coordinateurs
-Sur la page de gestion des **Membres**, il y a une case à cocher à côté de chaque membre. Lorsque cette case est cochée, le membre est un coordinateur. Pour supprimer les privilèges d'administration, il suffit de décocher la case.
+Les coordinateurs de groupe peuvent ajouter/supprimer des membres, allouer ou supprimer les permissions **coordinateurs**. Ces actions peuvent être réalisées depuis la page Membres, accessible depuis le lien **Gestion Membres** situé dans le menu **Options** de la page de groupe.
 
-### Ajout / suppression de membres du groupe
-Sur la page de gestion des **Membres**, à côté de chaque membre, il y a un bouton ** Retirer** [Bouton supprimer un membre](remove_button.png). Ce bouton supprime le membre de votre groupe.
+### Ajouter/supprimer des coordinateurs
 
-### Accepter / ignorer les demandes d'adhésion
-Si vos [paramètres de confidentialité du groupe](group_settings.html#group-privacy) permettent aux gens de rejoindre votre groupe **Sur demande**, un coordinateur devra approuver chaque demande d'adhésion. Les coordinateurs du groupe recevront un e-mail pour chaque nouvelle demande d'adhésion. Le lien dans l'email de notification vous amène directement à la page des **demandes d'adhésion**, sur laquelle vous pouvez approuver ou refuser la demande d'adhésion.
+Sur la page **Membres**, une boîte à cocher jouxte chaque membre. Lorsque elle est cochée, le membre est défini comme coordinateur. Désélectionnée, la permission **coordinateur** est désactivée pour le membre.
 
-Les demandes d'adhésion en attente sont également visibles sur la page **demandes d'adhésion** de votre groupe.
+### Ajouter/supprimer des membres de groupe
 
-## Désactiver / archiver un groupe
-Désactiver votre groupe signifie que vous et le reste des membres du groupe ne serez plus en mesure d'accéder au groupe. Si vous souhaitez désactiver votre groupe, vous pouvez le faire en sélectionnant **Désactiver le groupe** dans le menu **options** sur la page du groupe. Pour réactiver votre groupe désactivé, contactez l'équipe Loomio en envoyant un mail à [contact@loomio.org](mailto:contact@loomio.org).
+sur la page **Membre**, à côté de chaque membre, un bouton **Suppression**&nbsp;:![Bouton de suppression de membre](images/remove_button.png). Ce bouton supprime le membre de votre groupe.
+
+### Accepter/ignorer des demandes d'adhésion
+
+Si vos [paramètres de visibilité du groupe](group_settings.html#group-privacy) autorisent les visiteurs à joindre votre groupe **sur demande**, un coordinateur devra approuver chaque demande. Dans ce cas, les coordinateurs de groupe recevront un courriel à chaque fois qu'un utilisateur effectuera une demande d'adhésion. Le lien, envoyé dans le courriel vous redirigera vers la page **Demandes d'adhésion**, où vous pourrez approuver ou décliner la demande.
+
+Si une demande est en attente, elle sera aussi visible sur la page de votre groupe, dans la zone **Demandes d'adhésion**.
+
+## Désactivation/archivage d'un groupe
+
+Désactiver votre groupe signifie que ni vous, ni aucun autre membre ne pourra accéder au groupe. Si vous souhaitez désactiver votre groupe, vous pouvez aussi le faire, en sélectionnant **Désactivation du groupe**, dans le menu **Options** de la page du groupe. Pour réactiver un groupe désactivé, il faudra envoyer un email à l'équipe Loomio. [contact@loomio.org](mailto:contact@loomio.org).

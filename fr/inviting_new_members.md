@@ -1,13 +1,15 @@
-# Inviting new members
+# Inviter de nouveaux membres
 
-<img class="screenshot" alt="Action menu" src="action_menu.gif" />
+<img class="screenshot" alt="Menu actions" src="action_menu.gif" />
 
-Depending on your [group settings](group_settings.html), new members can be invited either by everyone in the group, or by coordinators only. You’ll find the **Invite people** option on the **Members** panel on your group page, and in the **Action Menu **which can be accessed from anywhere in the app.
+Selon les [paramètres de visibilité de votre groupe](group_settings.html), les nouveaux membres peuvent être invités soit par chaque membre du groupe, ou seulement par les coordinateurs. Vous trouverez l'option **Inviter des utilisateurs** au niveau de la boîte **Membres** sur la page de votre groupe, ainsi que dans le **Menu Action** qui est accessible de n'importe où sur l'application Loomio.
 
-You can invite multiple people at once by entering their email addresses into the form, separated by commas. When you submit the invitations form an email will be sent to each of the email addresses you supplied, containing a unique invitation link.
+Copiez le **lien de partage** et envoyez-le au contact que vous souhaitez ajouter au groupe. Dès qu'il cliquera sur le lien, il aura un accès immédiat.
 
-Optionally, you can also choose to add a custom message to the invitation, which can be a great way to engage new members. People will want to know why they’ve been invited, what’s expected of them, and why it’s worth their time to learn how to use a new tool.
+Autre possibilité, vous pouvez inviter jusqu'à cent contacts en une fois, en entrant leur email, séparées par une virgule. Une fois l'invitation soumise par courriel, un courriel sera envoyé à chaque contact, contenant un lien unique d'activation, utilisable une seule fois. ce courriel sera rédigé dans la langue de votre profil.
 
-## Pending invitations
+Un message personalisé peut être ajouté à l'invitation, ce qui est une manière très efficace pour obtenir l'adhésion d'un membre. En général, les gens veulent savoir qui les a invités, ce que l'on attend d'eux, et connaître l'intérêt qu'ils auront à apprendre l'utilisation de ce nouvel outil.
 
-If there is an outstanding invitation that has not yet been accepted, it will be displayed in the Pending Invitations section of the **Members** page, which is accessed via the **Manage Members **link in the **Options **menu on the group page. You can revoke a pending invitation with the cancel button (the circled-X icon).
+## Invitations en attente
+
+Si, exceptionellement, une invitation n'a pas été encore acceptée, elle sera mentionnée dans la section **Invitations** en attente de la **Page Membres** accessible depuis le lien **Gestion des membres** dans le menu **Options** de la page du groupe. Vous pouvez révoquer une invitation en attente en appuyant sur le bouton annulation (l'icône X au centre d'un cercle).

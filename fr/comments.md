@@ -1,34 +1,33 @@
 # Commentaires
 
-## Ecrire un commentaire
+## Écrire des commentaires
 
-Pour contribuer à une discussion, commencez par écrire dans le champ de formulaire situé au bas de la page, puis cliquez sur le bouton **Ecrire un message**. Si Loomio vous a envoyé un commentaire par email, vous pouvez aussi répondre directement depuis votre email et votre réponse apparaitra alors dans la discussion sur Loomio.
+Afin de contribuer à un fil, inscrivez votre commentaire dans le formulaire de commentaire à la fin du fil et cliquez sur le bouton **Envoyer**. Si Loomio vous a envoyé un email avec un commentaire, vous pouvez également y répondre directement et votre message apparaîtra dans le fil de discussion.
 
-## Marquage du texte
+## Markdown
 
-Loomio utilise un système de **marquage** pour formater le texte et insérer des images. Pour plus d'informations, lisez [ce guide](https://www.loomio.org/markdown).
+Loomio utilise le langage **Markdown** pour vous permettre de mettre en forme votre texte ou d'y inclure des images. Pour plus d'informations sur la façon d'utiliser Markdown, allez lire [ce guide](https://www.loomio.org/markdown).
 
-## Joindre des fichiers
+## Pièces jointes
 
-<img class="screenshot" alt="Attachment icon" src="attachment_icon.png" />
+<img class="screenshot" alt="Icône de pièce jointe" src="attachments.gif" />
 
-Vous pouvez joindre des fichiers à vos commentaires en utilisant le bouton avec le trombone, situé à droite du bouton **Ecrire un message**.
+Vous pouvez joindre des fichiers aux commentaires en utilisant le bouton des pièces jointes près du bouton **Envoyer** sur le formulaire de commentaire. Il vous sera alors demandé de choisir un fichier de votre appareil.
 
-## @taguer un membre
+## @mentionner des membres du groupe
 
-Si vous souhaitez attirer l'attention d'un membre spécifique, utilisez le symbole @ dans votre texte de commentaire suivi des premières lettres de son nom. Un menu apparait et vous propose une liste des membres correspondants à ce nom. Sélectionnez le nom de la personne dont vous souhaitez attirer l'attention et **envoyez votre message**. La personne concernée recevra une notification.
+Si vous voulez attirer l'attention de personnes spécifiques de votre groupe, entrez **@** dans le champ commentaire suivi de leur nom. Lors de la saisie du nom, un menu apparaîtra, listant les membres de votre groupe qui correspondent à ce nom. Sélectionnez le membre que vous souhaitez, puis **Envoyer** votre commentaire. Ils seront prévenus que vous les avez mentionnés dans un commentaire.
 
-## Editer un commentaire
+## Modifier des commentaires
 
-<img class="screenshot" alt="Comment options dropdown" src="edit_comment.png" />
+<img class="screenshot" alt="Menu déroulant des options d'un commentaire" src="edit_comment.gif" />
 
-Par défaut, chaque groupe est configuré de manière à ce qu'un commentaire ne puisse être modifié que lorsque quelqu'un d'autre a posté dans la discussion. Le coordinateur du groupe peut [autoriser les membres à modifier leurs commentaires à tout moment.] (group_settings.html#group-permissions-%E2%80%93-what-can-members-do). Si cette option est activée, vous pouvez modifier votre commentaire en cliquant sur la petite flèche vers le bas, puis dans la liste déroulante, sur **Modifier le commentaire**.
+Dans la configuration par défaut des groupes, un commentaire peut être modifié uniquement si aucun nouveau commentaire n'a été saisi. Les coordinateurs de groupe peuvent également [configurer les groupes pour autoriser les utilisateurs à modifier leurs commentaires à n'importe quel moment](group_settings.html#group-permissions-–-what-can-members-do). Si vous pouvez modifier votre commentaire, l'option **Modifier le commentaire** se trouve dans le menu déroulant des **Options de commentaire**.
 
-## «J'aime»
+## Aimer des commentaires
 
-Pour montrer que vous appréciez une contribution, vous pouvez cliquer sur **J'aime** au bas de celle-ci. Votre nom apparaitra alors au-dessous du message. Vous pouvez annuler cette action en cliquant sur **Je n'aime plus**.
+Vous pouvez montrer que vous appréciez ou que vous comprenez ce que dit un autre membre du groupe en utilisant le bouton **Aimer** sous le commentaire. Cela ajoutera votre nom à la liste des personnes qui ont aimé ce commentaire. Vous pouvez également annuler l'action **Aimer** en cliquant sur **Ne plus aimer** sur le commentaire.
 
-## Effacer un commentaire
+## Supprimer les commentaires
 
-Vous pouvez effacer vos propres commentaires en cliquant sur la petite flèche vers le bas, puis dans la liste déroulante, sur **Effacer le commentaire**. Le coordinateur du groupe peut effacer tous les commentaires.
-
+Vous pouvez supprimer vos propres commentaires en sélectionnant **Supprimer le commentaire** dans le menu déroulant **Options du commentaire**. Les coordinateurs de groupe peuvent supprimer n'importe quel commentaire de ce groupe.

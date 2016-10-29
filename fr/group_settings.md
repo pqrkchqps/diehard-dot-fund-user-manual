@@ -1,62 +1,65 @@
-# Group settings
+# Paramètres de groupe
 
-<img class="screenshot" alt="Group options dropdown" src="edit_group_settings.gif" />
+<img class="screenshot" alt="Dérouler les options de groupe" src="edit_group_settings.gif" />
 
-Group coordinators can edit group settings: **Profile**, **Privacy** and **Permissions**.
+Les coordinateurs de groupe peuvent éditer les paramètres de groupe&nbsp;: **Profil**, **Visibilité** et **Permissions**.
 
-To edit your group settings, open the **Options** menu on the group page and select **Edit Group Settings**.
+Pour changer vos paramètres de groupe, ouvrez le menu **Options** sur la page du groupe et sélectionnez **Changer les paramètres du groupe**.
 
-## Group profile
+## Profil de groupe
 
-Your group profile consists of your group name and group description.
+Votre profil de groupe est constitué de votre nom de groupe et de la description de votre groupe.
 
-The description gives new members a clear understanding of what that group is for. When adding a group description, describe what your group intends to do, for example, *A public group for us to approve requests for use of the gallery space* or *The space for our board members to consider budget proposals*.
+La description donne aux nouveaux membres une compréhension claire de ce qu'est le groupe. Quand vous ajoutez une description de groupe, décrivez ce que votre groupe compte faire, par exemple, *Un groupe public pour que nous puissions approuver les demandes d'utilisation de la galerie* ou *L'espace pour les membres de notre conseil afin de considérer les propositions de budget*.
 
-## Group privacy
+## Visibilité du groupe
 
-Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.
+Vos options de visibilité déterminent qui peut trouver votre groupe, qui peut voir les fils de discussion dans votre groupe et comment les gens peuvent le rejoindre.
 
-When you start a new group, it will be automatically set to **Closed**: threads are only visible to group members, but the group name, description, and members list will be public. This means people can find your group and ask to join it, but the content of your discussions and decisions will stay private.
+Lorsque vous créez un nouveau groupe, il sera automatiquement **Fermé**&nbsp;: *les fils et la liste des membres ne seront visibles qu’aux membres du groupe, mais le nom du groupe et sa description seront publics.* Cela signifie que des gens peuvent trouver votre groupe et demander à le rejoindre, mais que le contenu de vos discussions et vos décisions resteront privés à moins d’accepter des fils publics (expliqué dans la section **Permisson de goupe**).
 
-If you want the content of your discussions and decisions to be public on the web, change your group privacy to **Open**.
+Si vous souhaitez que le contenu de vos discussions et de vos décisions soient publics sur le web, changez la visibilité de votre groupe à **Ouvert**. La liste des membres ne sera visible qu’aux autres membres.
 
-If you want to totally hide your group, set your group privacy to **Secret**. This will mean only invited members will be able to see the group name, description, members list, and threads.
+Si vous souhaitez totalement cacher votre groupe, changez la visibilité à **Secret**. Cela signifie que seuls les membres invités seront en mesure de voir le nom du groupe, sa description, la liste des membres et ses fils de discussion.
 
-Note, if you have a Secret group and change it to Open, all your existing threads will be made public. The same is true in reverse: changing an Open group to Secret will make all your threads private.
+Notez que si vous changez la visibilité d’un groupe **Secret** à **Ouvert**, tous les fils existants deviendront publics. Cela s’applique aussi au cas inverse&nbsp;: changer un groupe d’**Ouvert** à **Secret** rendra tous ses fils privés.
 
 
-## Group permissions – what can members do?
 
-Coordinators set the group permissions to configure what members can do in their group.
+## Droits du groupe – Que peuvent faire les membres ?
 
-### Allow public threads
+<img class="screenshot" alt="Dérouler les options de groupe" src="edit_permissions.gif" />
 
-In **Closed** groups, you can use this option to allow public and private threads in your group. When you start a thread, you can decide whether it is public or private.
+Les coordinateurs règlent les droits du groupe pour configurer ce que les membres du groupe peuvent faire.
 
-### Invite and approve new members
+### Autoriser des fils de discussion publics
 
-This allows everyone in your group to invite new people in, and approve any membership requests. When it is deselected only group coordinators will be able to invite and approve new members.
+Dans les groupes **Fermé**, vous pouvez utiliser cette option pour autoriser des fils de discussions à la fois privés et publics dans votre groupe. Quand vous commencez un fil de discussion, vous pouvez décider de le rendre public ou privé.
 
-### Create sub-groups
+### Inviter et approuver de nouveaux membres
 
-This allows everyone in your group to create subgroups. When it is deselected only group coordinators will be able to create subgroups.
+Cette option permet à tous les membres d'inviter de nouvelles personnes dans le groupe, et d'accepter n'importe quelle demande d'appartenance. Quand elle est désactivée, seuls les coordinateurs du groupe sont capables d'inviter et d'accepter de nouveaux membres.
 
-### Start threads
+### Créer des sous-groupes
 
-This allows everyone in your group to start new threads. When it is deselected only group coordinators will be able to start discussions.
+Cette option permet à tous les membres de créer des sous-groupes. Quand elle est désactivée, seuls les coordinateurs du groupe sont capable de créer des sous-groupes.
 
-### Edit the context of any thread in the group
+### Démarrer un fil de discussion
 
-This allows everyone in your group to edit the context of any thread. When it is deselected only group coordinators will be able to edit the thread context. (The person who started a thread can always edit the thread context.)
+Cette option permet à tous les membres de commencer un nouveau fil de discussion. Quand elle est désactivée, seuls les coordinateurs du groupe peuvent commencer de nouveaux fils de discussion.
 
-### Edit their comments at any time
+### Éditer le contexte de n'importe quel fil de discussion du groupe
 
-This allows everyone in your group to [edit their comments](comments.html#editing-a-comment) at any time. When it is deselected, a comment can only be edited until someone else participates in the thread.
+Cela permet à chaque membre du groupe d'éditer le contexte de n'importe quel fil de discussion. Quand elle est désactivée, seuls les coordinateurs du groupe peuvent éditer le contexte du fil de discussion (la personne qui a commencé un fil de discussion peut toujours éditer le contexte du fil).
 
-### Raise proposals
+### Éditer ses commentaires à tout moment
 
-This allows anyone in your group to start a proposal within a thread. When this box is deselected only group coordinators will be able to raise proposals.
+Cette option permet à tous les membres d'[éditer leurs commentaires](comments.html#editing-a-comment). Quand elle est désactivée, un commentaire peut être édité seulement jusqu'à ce que quelqu'un participe au fil de discussion.
 
-### Vote on proposals
+### Soumettre une proposition
 
-This allows everyone in your group to state their position on proposals. When it is deselected only group coordinators will be able to state their position on proposals.
+Cette option permet à tous les membres de soumettre une proposition à l'intérieur d'un fil de discussion. Quand cette case n'est pas sélectionnée, seuls les coordinateurs du groupe peuvent soumettre de nouvelles propositions.
+
+### Voter sur les propositions
+
+Cette option permet à tous les membres de se positionner par rapport à une proposition. Quand elle est désactivée, seul les coordinateurs du groupe peuvent se positionner par rapport aux propositions.

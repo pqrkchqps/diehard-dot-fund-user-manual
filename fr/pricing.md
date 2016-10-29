@@ -1,31 +1,36 @@
-# Frequently asked questions
+![](princing_eng_updated.png)
+*Prices are in US dollars, plus sales tax where applicable.*
 
-## Our group has no money! Can we still use Loomio?
+# Foire Aux Questions
 
-Yes. You can choose the Gift plan (see our [Pricing](http://loomio.org/pricing) page).
+## Notre groupe n'a pas (plus) de moyens financiers ! Pouvons-nous toujours continuer à utiliser Loomio ?
 
-## How does the Gift plan work?
+Oui. Vous pouvez opter pour un /forfait/programme donation (voir notre page [Tarification](http://loomio.org/pricing)
 
-If your group chooses the Gift plan, your members will see a card like this on their group page:
+## Nous n'avons pas encore décidé du forfait qui nous conviendrait, pouvons-nous prolonger la période d'essai gratuite ?
 
-<img class="screenshot" alt="Gift plan card" src="gift-plan-card.png" />
+Oui. Il suffit de faire la demande par courriel&nbsp;:  [contact@loomio.org](mailto:contact@loomio.org "opens in new tab"). Nous pouvons aussi vous conseillez sur la formule à choisir dans votre cas.
 
-## Do you have prices for annual subscriptions?
+## How does the Free plan work?
 
-Yes. Our Standard plan costs US$190 for a year (a saving of $38 on the monthly price), and the Plus plan is US$1790 per year (saving $358).
+The Free plan includes all the core functionality of Loomio, with unlimited users. Your members will be occasionally asked for a voluntary donation. Free plans do not include [Premium Features](https://loomio.gitbooks.io/manual/content/en/premium_features.html).
 
-## Can I extend my trial?
+## How can we select a paid plan?
 
-Yes. Just email [contact@loomio.org](mailto:contact@loomio.org) and ask.
+If you are in a Free plan and want to upgrade, select the blue Upgrade Plan button on your group's main page and choose one of our paid plans from the chart.
 
-## What credit cards do you take?
+## Avez-vous des tarifs pour les souscriptions à l'année ?
 
-Visa and Mastercard. We’re working on American Express.
+Oui. Notre offre standard est à 190 USD (Dollar US) par an, et l'offre Pro  est à 990 USD.
 
-## Are you GST-registered?
+## Avec quelles cartes peut-on payer ?
 
-Yes we are. In New Zealand GST is added to the price for all paid subscriptions. GST is not added to donations.
+Visa, Mastercard et American Express.
 
-## Can I get invoices?
+## Êtes vous assujetti à la TVA ?
 
-When you first set up a subscription you will get an email from Chargify, our payment processor, with the subject line **[Loomio] Manage Your Subscription**. That will include a link to log in to your billing portal, which will let you download statements.
+Oui. En Nouvelle-Zélande, la TVA est ajoutée au prix de chaque souscription payante. Il n'y a pas de TVA sur les donations.
+
+## Can I get an invoice?
+
+Lors de votre première souscription vous recevrez un courriel de Chargify, notre système de paiement, avec pour objet **[Loomio] Manage Your Subscription**. Vous y trouverez un lien pour vous connecter à notre portail de facturation où vous pourrez télécharger vos relevés.

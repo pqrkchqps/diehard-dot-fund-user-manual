@@ -1,37 +1,39 @@
-# Your user profile
+# Votre profil utilisateur
 
-Your profile page lets you customise your Loomio identity. To visit your profile page select **Profile** from the user menu in the navigation bar.
+Votre page de profil vous permet de paramétrer votre identité Loomio. pour visiter votre page de profil, sélectionnez **Profil** dans le menu utilisateur dans la barre de navigation.
 
-## Updating your personal settings
-You can update the name, username, email address and language settings associated with your account by editing the corresponding fields on your profile page, and clicking **Update profile**.
+<img class="gif" alt="Animation de l'ouveture du menu profil" src="user-profile.gif" />
 
-## Uploading a profile photo
-When you first create a Loomio account, your initials will be the default image associated with your profile. You can upload a profile photo by clicking **Change picture** in the **Picture** section of your profile page. If you have a [Gravatar](https://en.gravatar.com/) you can set that as your profile picture by selecting **Use Gravatar**.
+## Mettre à jour vos paramètres personnels
+Vous pouvez mettre à jour le nom, le nom d'utilisateur, l' adresse de courriel et les paramètres de langue associés à votre compte en renseignant les champs correspondants sur votre page de profil, et en cliquant sur **Mettre à jour le profil**.
 
-## Language settings
-Loomio is available in many languages. It will detect your browser’s language settings, or you can manually set your preferred language by visiting your [profile page](#your-user-profile) and selecting your language from the **Language** dropdown.
+## Afficher une photo pour votre profil
+Quand vous créez un compte Loomio, vos initiales vont être l'image par défaut associée à votre profil. Vous pouvez mettre en ligne une photo de profil en cliquant sur **Changer l'image** dans la partie **Image** de votre page de profil. Si vous avez un [Gravatar](https://fr.gravatar.com/), vous pouvez l'utiliser comme photo de profil en choisissant **Utiliser Gravatar**.
 
-## Usernames
-Your username is the name people will use to mention ([@mention](comments.html#-mentioning-group-members)) you in comments. You can change your username by editing the **Username** field on your [profile page](#your-user-profile) and clicking **Update profile**.
+## Paramètres de langue
+Loomio est accessible dans de nombreuses langues. Il va détecter automatiquement la langue de votre navigateur, mais vous pouvez choisir manuellement votre langue préférée en allant sur votre [page de profil](your_user_profile.html#your-user-profile) et en sélectionnant votre langue depuis le menu déroulant **Langue**.
 
-## Changing your password
-If you are logged in to Loomio you can change your password by visiting your profile page and clicking **Change your password**. If you are logged out then you can visit the [**Forgot your password?**](https://www.loomio.org/users/password/new) page.
+## Nom d'utilisateur
+Votre nom d'utilisateur est le nom que les autres participants vont utiliser pour vous mentionner ([@mention](comments.html#-mentioning-group-members)) dans les commentaires. Vous pouvez changer votre nom d'utilisateur en renseignant le champ **Nom d'utilisateur** sur votre [page de profil](your_user_profile.html#your-user-profile) et en cliquant sur **Mettre à jour le profil**.
 
-## Deactivating your account
-If you are not the sole coordinator of any groups you can deactivate your account by visiting your [profile page](#your-user-profile) and clicking **Deactivate account**. If you are the sole coordinator of a group you will be prevented from deactivating your account until you’ve appointed another group coordinator, or archived the group.
+## Changer votre mot de passe
+Si vous êtes connecté à Loomio, vous pouvez changer votre mot de passe en allant sur votre page de profil et en cliquant sur **Changer votre mot de passe**. Si vous êtes déconnecté, vous pouvez aller sur la page [**Mot de passe oublié ?**](https://www.loomio.org/users/password/new "ouvre un nouvel onglet").
 
-Once your account has been deactivated:
+## Désactiver votre compte
+Si vous n'êtes pas l'unique coordinateur d'un groupe vous pouvez désactiver votre compte en allant sur votre [page de profil](your_user_profile.html#your-user-profile) et en cliquant sur **Désactiver votre compte**. Si vous êtes le seul coordinateur d'un groupe, vous ne pourrez pas désactiver votre compte tant que vous n'aurez pas désigné un autre coordinateur de groupe, ou archivé le groupe.
 
-* you will no longer be listed as a member of any groups
-* comments, proposals and discussions you’ve made will remain but your name will be removed from them
-* you will no longer receive Loomio-related emails
-* you will need to [contact us](https://loomio.org/contact) to reactive your account.
+Une fois que votre compte a été désactivé&nbsp;:
 
-## Reactivating your account
-To reactivate a deactivated account, [contact the Loomio team](https://loomio.org/contact).
+* vous ne serez plus listé comme membre d'un groupe
+* les commentaires, propositions et discussions que vous avez faites resteront, mais votre nom sera supprimé
+* vous ne recevrez plus de courriels concernant Loomio
+* vous devrez [nous contacter](https://loomio.org/contact "ouvre un nouvel onglet") pour réactiver votre compte.
 
-## Leaving a group
+## Réactiver un compte
+Pour réactiver un compte désactivé, [contactez nous](https://loomio.org/contact "ouvre un nouvel onglet").
 
-<img class="screenshot" alt="Group options dropdown" src="options_dropdown.png" />
+## Quitter un groupe
 
-If you are not the sole coordinator of a group then you can leave the group by selecting **Leave group** from the Options menu on the group page. If you are the sole coordinator of your group, you will be prevented from leaving until you appoint another coordinator or deactivate the group.
+<img class="screenshot" alt="Menu des options de groupe" src="options_dropdown.png" />
+
+Si vous n'êtes pas le seul coordinateur d'un groupe, vous pouvez quitter le groupe en sélectionnant **Quitter le groupe** depuis le menu Options sur la page du groupe. Si vous êtes le seul coordinateur de votre groupe, vous ne pourrez pas le quitter tant que vous n'aurez pas désigné un autre coordinateur ou désactivé le groupe.
