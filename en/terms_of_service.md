@@ -51,8 +51,9 @@ We reserve the right to modify these Terms at any time and modified terms are ef
 
 ## Data
 
-Users and group coordinators may request data related to their personal account and group(s) respectively. Loomio will take reasonable efforts to provide these data. Loomio has the right to refuse repetitive or technically difficult requests. For information about how we collect and share user information please refer to Loomio’s Privacy Policy.
-Termination
+Users and group coordinators may request data related to their personal account and group(s) respectively. Loomio will take reasonable efforts to provide these data. Loomio has the right to refuse repetitive or technically difficult requests. For information about how we collect and share user information please refer to Loomio’s [Privacy Policy](https://loomio.gitbooks.io/manual/content/en/privacy_policy.html).
+
+## Termination
 
 Loomio may terminate your access to all or any part of the Service at any time, with or without cause, with or without notice, effective immediately. If you wish to terminate this Agreement or your Loomio account (if you have one), you may simply discontinue using the Service. All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
 
