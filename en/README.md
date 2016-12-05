@@ -21,3 +21,6 @@ Loomio is a simple, user-friendly online tool for collaborative decision-making.
 
 [Check out this video for a quick demonstration of how to use Loomio](https://www.youtube.com/watch?v=CoYYNthNxOY "Opens in new tab
 ").
+
+## Loomio School
+Interested in more of a social/culture how-to resource? For help with facilitation, building collaborative culture, training material, case studies and stories, check out [Loomio School](http://loomio.school).
