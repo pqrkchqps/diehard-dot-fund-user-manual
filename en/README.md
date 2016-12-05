@@ -1,6 +1,6 @@
 ![Loomio Logo](logo.png "Loomio logo")
 
-A comprehensive guide to using [Loomio](https://loomio.org/ "Opens in new tab").
+A comprehensive guide to using the [Loomio](https://loomio.org/ "Opens in new tab") software application.
 
 ## What is Loomio?
 
