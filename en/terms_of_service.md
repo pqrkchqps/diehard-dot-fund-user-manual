@@ -39,7 +39,7 @@ As a user, you may deactivate your account at any time. Identifying information 
 
 ### General Terms
 
-By selecting a subscription you agree to pay Loomio the monthly subscription fees indicated for that service. You will receive a free trial (“Trial Period”) of the Service lasting for 30 days from the date of subscription selection. When payments begin, they will be charged on a pre-pay basis and will cover the use of that service for the following subscription period as indicated. If you wish to increase your group size limit you must change your subscription plan accordingly. Subscription fees are not refundable. The name that will appear on your statement will be Loomio Co-operative.
+By selecting a subscription you agree to pay Loomio the monthly subscription fees indicated for that service. When payments begin, they will be charged on a pre-pay basis and will cover the use of that service for the following subscription period as indicated. If you wish to increase your group size limit you must change your subscription plan accordingly. Subscription fees are not refundable. The name that will appear on your statement will be Loomio Co-operative.
 
 ### Automatic Renewal
 
