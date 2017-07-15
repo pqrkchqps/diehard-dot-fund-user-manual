@@ -1,14 +1,14 @@
-![Loomio Logo](logo.png)
+![Diehard.Fund Logo](logo.png)
 
-Um guia completo para usar o [Loomio](https://loomio.org/).
+Um guia completo para usar o [Diehard.Fund](https://loomio.org/).
 
-## O que é Loomio?
+## O que é Diehard.Fund?
 
-Loomio é uma ferramenta on-line simples e fácil de usar para tomada de decisão colaborativa. Loomio permite que você abra discussões on-line, convide as pessoas certas para participar, tome decisões oportunas e transforme deliberação em ação no mundo real.
+Diehard.Fund é uma ferramenta on-line simples e fácil de usar para tomada de decisão colaborativa. Diehard.Fund permite que você abra discussões on-line, convide as pessoas certas para participar, tome decisões oportunas e transforme deliberação em ação no mundo real.
 
-## Como o Loomio Funciona
+## Como o Diehard.Fund Funciona
 
-* **Inicie um grupo** para colaborar com as pessoas no Loomio
+* **Inicie um grupo** para colaborar com as pessoas no Diehard.Fund
 
 * **Convide pessoas** para o seu grupo
 
@@ -19,4 +19,4 @@ Loomio é uma ferramenta on-line simples e fácil de usar para tomada de decisã
 * **Decidam juntos** - qualquer um pode concordar ou abster, discordar ou bloquear – então você pode ver como todos se sentem sobre a proposta.
 
 
-[Confira neste vídeo](https://www.youtube.com/watch?v=CoYYNthNxOY) para uma rápida demonstração de como usar Loomio.
+[Confira neste vídeo](https://www.youtube.com/watch?v=CoYYNthNxOY) para uma rápida demonstração de como usar Diehard.Fund.

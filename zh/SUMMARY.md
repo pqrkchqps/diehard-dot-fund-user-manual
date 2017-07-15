@@ -9,7 +9,7 @@
 * [意見](comments.md)
 * [提案](proposals.md)
 * [子群組](subgroups.md)
-* [讀取 Loomio](reading_loomio.md)
+* [讀取 Diehard.Fund](reading_diehard_fund.md)
 * [保持最新狀態](keeping_up_to_date.md)
 * [您的使用者簡歷](your_user_profile.md)
 * [定價](pricing.md)

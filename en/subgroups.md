@@ -2,7 +2,7 @@
 
 <img class="screenshot" alt="add subgroup animation" src="add-subgroup.gif" />
 
-Loomio allows you to create subgroups within your groups. Subgroups let you break your group up into different teams. Loomio subgroups can contain members of the parent group and people who don’t belong to the parent group. Depending on your [group settings](group_settings.html "goes to group settings section of the help manual"), subgroups can be created either by everyone in the group, or by coordinators only.
+Diehard.Fund allows you to create subgroups within your groups. Subgroups let you break your group up into different teams. Diehard.Fund subgroups can contain members of the parent group and people who don’t belong to the parent group. Depending on your [group settings](group_settings.html "goes to group settings section of the help manual"), subgroups can be created either by everyone in the group, or by coordinators only.
 
 To add a subgroup, select the **Add subgroup** option from the **Options** menu on your group page.
 

@@ -9,7 +9,7 @@
 * [تعليقات](comments.md)
 * [مقترحات](proposals.md)
 * [مجموعات فرعية](subgroups.md)
-* [قراءة لوميو](reading_loomio.md)
+* [قراءة لوميو](reading_diehard_fund.md)
 * [مواكبة](keeping_up_to_date.md)
 * [ملفك المستخدم خاصتك](your_user_profile.md)
 * [التسعير](pricing.md)

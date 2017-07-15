@@ -9,7 +9,7 @@
 * [Commentaires](comments.md)
 * [Propositions](proposals.md)
 * [Sous-groupes](subgroups.md)
-* [Naviguer dans Loomio](reading_loomio.md)
+* [Naviguer dans Diehard.Fund](reading_diehard_fund.md)
 * [Rester à jour](keeping_up_to_date.md)
 * [Votre profil](your_user_profile.md)
 * [Prix](pricing.md)

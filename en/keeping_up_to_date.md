@@ -13,7 +13,7 @@ To change your email settings for a group, open the **Options** dropdown on the 
 
 * **Important activity**: You will be emailed about new threads and proposals (i.e. when a proposal is started, about to close or when a proposal outcome is created). **Important activity** is the default for new groups. You can read about changing the default email settings for new groups in the **Updating email settings for all groups** section below.
 
-* **No emails**: You won't be emailed about activity in this group, but you'll see new group activity on your [**Unread**](reading_loomio.html#unread-threads "goes to reading Loomio section of the help manual") and **Recent** pages.
+* **No emails**: You won't be emailed about activity in this group, but you'll see new group activity on your [**Unread**](reading_diehard_fund.html#unread-threads "goes to reading Diehard.Fund section of the help manual") and **Recent** pages.
 
 In order to apply a particular setting to all of your groups, check the **Apply this setting to all my groups** checkbox before submitting the form.
 
@@ -32,7 +32,7 @@ When you start a new thread, it will inherit a default email setting from its gr
 
 In order to apply a particular setting to all threads in a group, check the **Apply this setting to all threads in this group** checkbox before submitting the form.
 
-If you have muted a thread you won't be notified about proposals, or any other activity taking place in the thread, unless someone @mentions you. You can read more about muting threads under the **Muted** subheading in the **Navigating Loomio** section of the help documentation.
+If you have muted a thread you won't be notified about proposals, or any other activity taking place in the thread, unless someone @mentions you. You can read more about muting threads under the **Muted** subheading in the **Navigating Diehard.Fund** section of the help documentation.
 
 ### Updating email settings for all groups
 
@@ -40,7 +40,7 @@ If you have muted a thread you won't be notified about proposals, or any other a
 
 There are three additional email settings that can be applied to all groups.
 
-**Daily summary email**: Enabling this setting means each morning you will get an email with any activity that you missed the day before. This email provides an easy routine for staying up to date with Loomio activity.
+**Daily summary email**: Enabling this setting means each morning you will get an email with any activity that you missed the day before. This email provides an easy routine for staying up to date with Diehard.Fund activity.
 
 **Subscribe on participation**: Enabling this setting means when you participate in a thread, all further activity will be emailed to you immediately.
 
@@ -54,4 +54,4 @@ Underneath the **Settings for specific groups** subheading on the user **Email s
 
 ### Replying by email
 
-You can reply to any comments you receive directly via email and your replies will be posted in the Loomio thread. You can also choose to view the comment in the context of the thread on Loomio by clicking the **view it on www.loomio.org** link in the footer of the email.
+You can reply to any comments you receive directly via email and your replies will be posted in the Diehard.Fund thread. You can also choose to view the comment in the context of the thread on Diehard.Fund by clicking the **view it on www.loomio.org** link in the footer of the email.

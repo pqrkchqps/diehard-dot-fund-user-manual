@@ -1,6 +1,6 @@
 # Frequently asked questions
 
-## Our group has no money! Can we still use Loomio?
+## Our group has no money! Can we still use Diehard.Fund?
 
 Yes. You can choose the Gift plan (see our [Pricing](http://loomio.org/pricing) page).
 
@@ -28,4 +28,4 @@ Yes we are. In New Zealand GST is added to the price for all paid subscriptions.
 
 ## Can I get invoices?
 
-When you first set up a subscription you will get an email from Chargify, our payment processor, with the subject line **[Loomio] Manage Your Subscription**. That will include a link to log in to your billing portal, which will let you download statements.
+When you first set up a subscription you will get an email from Chargify, our payment processor, with the subject line **[Diehard.Fund] Manage Your Subscription**. That will include a link to log in to your billing portal, which will let you download statements.

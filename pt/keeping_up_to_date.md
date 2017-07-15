@@ -12,9 +12,9 @@ Suas atuais configurações de notificações de grupo irão aparecer em um cart
  
 * **Enviar e-mail de novos tópicos e propostas**: Você receberá um e-mail sobre novos tópicos e propostas (ou seja, quando uma proposta for iniciada, estiver a ponto de encerrar ou quando houver um resultado). **Enviar e-mail de propostas** é o padrão para novos grupos.
  
-* **Não enviar e-mails**: Não será enviado e-mail de atividade neste grupo, mas você verá novas atividades do grupo nas suas páginas [**Não Lido**](reading_loomio.html#unread-threads) e Recentes.
+* **Não enviar e-mails**: Não será enviado e-mail de atividade neste grupo, mas você verá novas atividades do grupo nas suas páginas [**Não Lido**](reading_diehard_fund.html#unread-threads) e Recentes.
  
-* **Silenciar grupo**: Não será enviado e-mail sobre esse grupo e será removido de suas páginas [**Não Lido**](reading_loomio.html#unread-threads) e Recentes.
+* **Silenciar grupo**: Não será enviado e-mail sobre esse grupo e será removido de suas páginas [**Não Lido**](reading_diehard_fund.html#unread-threads) e Recentes.
  
 ### Notificações de Tópicos
  
@@ -27,17 +27,17 @@ Quando você inicia um novo tópico, ele terá uma configuração de notificaç�
  
 * **Não enviar e-mails**: Não será enviado sobre esta discussão.
  
-* **Silenciar tópico**: Não será enviado e-mail sobre esta discussão, a menos que alguém @mencione você. Será removido das suas páginas [**Não Lido**](reading_loomio.html#unread-threads) e Recentes.
+* **Silenciar tópico**: Não será enviado e-mail sobre esta discussão, a menos que alguém @mencione você. Será removido das suas páginas [**Não Lido**](reading_diehard_fund.html#unread-threads) e Recentes.
  
-Você pode silenciar tópicos nas pré-visualizações de tópico exibidas nas páginas do grupo, Tópicos Recentes e Não Lido passando o cursor sobre a pré-visualização do tópico e selecionando a opção **Silenciar**. Você pode marcar tópicos como lidos selecionando a opção **Marcar como lidos**. Marcar um tópico como lido irá removê-lo da sua página [**Não Lido**](reading_loomio.html#unread-threads).
+Você pode silenciar tópicos nas pré-visualizações de tópico exibidas nas páginas do grupo, Tópicos Recentes e Não Lido passando o cursor sobre a pré-visualização do tópico e selecionando a opção **Silenciar**. Você pode marcar tópicos como lidos selecionando a opção **Marcar como lidos**. Marcar um tópico como lido irá removê-lo da sua página [**Não Lido**](reading_diehard_fund.html#unread-threads).
  
-Se você tiver notificações de tópico para um segmento específico definido como ** Enviar e-mail de tudo**, você pode responder a quaisquer comentários que você receber diretamente via e-mail e suas respostas serão publicadas no tópico do Loomio. Você também pode optar por ver o comentário no contexto do tópico no Loomio clicando no link **ver em www.loomio.org** no rodapé do e-mail.
+Se você tiver notificações de tópico para um segmento específico definido como ** Enviar e-mail de tudo**, você pode responder a quaisquer comentários que você receber diretamente via e-mail e suas respostas serão publicadas no tópico do Diehard.Fund. Você também pode optar por ver o comentário no contexto do tópico no Diehard.Fund clicando no link **ver em www.loomio.org** no rodapé do e-mail.
  
  
 ## Configurações de e-mail
  
 Sua página **Configurações de e-mail** permite que você defina as configurações de notificação de e-mail padrão para grupos e tópicos. Para visitar sua página de **Configurações de e-mail** selecione a opção **Configurações de e-mail** no menu de usuário na barra de navegação.
  
-## Ontem o Loomio
+## Ontem o Diehard.Fund
  
-O e-mail **Ontem o Loomio** é um resumo diário do conteúdo que você não leu no dia anterior. O e-mail contém tudo o que não está silenciado. Você pode modificar para ligado ou desligado na página **Configurações de e-mail**.
+O e-mail **Ontem o Diehard.Fund** é um resumo diário do conteúdo que você não leu no dia anterior. O e-mail contém tudo o que não está silenciado. Você pode modificar para ligado ou desligado na página **Configurações de e-mail**.

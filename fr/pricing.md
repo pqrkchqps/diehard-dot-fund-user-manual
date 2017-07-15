@@ -2,7 +2,7 @@
 
 # Foire Aux Questions
 
-## Notre groupe n‎‎’a pas (plus) de moyens financiers&nbsp;! Pouvons-nous toujours continuer à utiliser Loomio&nbsp;?
+## Notre groupe n‎‎’a pas (plus) de moyens financiers&nbsp;! Pouvons-nous toujours continuer à utiliser Diehard.Fund&nbsp;?
 
 Oui. Vous pouvez opter pour un /forfait/programme donation (voir notre page [Tarification](http://loomio.org/pricing)).
 
@@ -12,7 +12,7 @@ Oui. Il suffit de faire la demande par courriel&nbsp;:  [contact@loomio.org](mai
 
 ## How does the Free plan work?
 
-The Free plan includes all the core functionality of Loomio, with unlimited users. Your members will be occasionally asked for a voluntary donation. Free plans do not include [Premium Features](https://loomio.gitbooks.io/manual/content/en/premium_features.html).
+The Free plan includes all the core functionality of Diehard.Fund, with unlimited users. Your members will be occasionally asked for a voluntary donation. Free plans do not include [Premium Features](https://loomio.gitbooks.io/manual/content/en/premium_features.html).
 
 ## How can we select a paid plan?
 
@@ -32,4 +32,4 @@ Oui. En Nouvelle-Zélande, la TVA est ajoutée au prix de chaque souscription pa
 
 ## Can I get an invoice?
 
-Lors de votre première souscription vous recevrez un courriel de Chargify, notre système de paiement, avec pour objet **[Loomio] Manage Your Subscription**. Vous y trouverez un lien pour vous connecter à notre portail de facturation où vous pourrez télécharger vos relevés.
+Lors de votre première souscription vous recevrez un courriel de Chargify, notre système de paiement, avec pour objet **[Diehard.Fund] Manage Your Subscription**. Vous y trouverez un lien pour vous connecter à notre portail de facturation où vous pourrez télécharger vos relevés.

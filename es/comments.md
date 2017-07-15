@@ -2,11 +2,11 @@
 
 ## Escribir comentarios
 
-Para contribuir a un hilo, escribe tu comentario en la casilla de comentarios al final del hilo y has click en el botón **Enviar**. Si Loomio te ha enviado un correo electrónico con un comentario, tambien puedes responder directamente desde tu correo y tu mensaje aparecerá en el hilo.
+Para contribuir a un hilo, escribe tu comentario en la casilla de comentarios al final del hilo y has click en el botón **Enviar**. Si Diehard.Fund te ha enviado un correo electrónico con un comentario, tambien puedes responder directamente desde tu correo y tu mensaje aparecerá en el hilo.
 
 ## Markdown
 
-Loomio usa **Markdown** para dar formato a los textos y añadir imágenes. Para más información sobre cómo usar Markdown has clic en el enlace **Ayuda de formato** en la casilla del comentario y lee [esta guía](https://loomio.org/markdown "abre la guía de markdown en una nueva pestaña").
+Diehard.Fund usa **Markdown** para dar formato a los textos y añadir imágenes. Para más información sobre cómo usar Markdown has clic en el enlace **Ayuda de formato** en la casilla del comentario y lee [esta guía](https://loomio.org/markdown "abre la guía de markdown en una nueva pestaña").
 
 ## Añadir archivos
 

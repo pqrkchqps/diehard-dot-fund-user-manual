@@ -2,10 +2,10 @@
  
 ## Comentários em postagens
  
-Para contribuir para uma lista de discussão, escreva seu comentário no formulário de comentário na parte inferior de um tópico e clique no botão **Publicar**. Se o Loomio lhe enviou um comentário, você também pode responder diretamente do seu e-mail, então a sua mensagem irá aparecer na lista de discussão.
+Para contribuir para uma lista de discussão, escreva seu comentário no formulário de comentário na parte inferior de um tópico e clique no botão **Publicar**. Se o Diehard.Fund lhe enviou um comentário, você também pode responder diretamente do seu e-mail, então a sua mensagem irá aparecer na lista de discussão.
 ## Markdown
  
-Loomio usa **Markdown** para que você possa formatar textos e imagens inseridas. Para mais informações sobre como usar Markdown, leia [este guia](https://www.loomio.org/markdown).
+Diehard.Fund usa **Markdown** para que você possa formatar textos e imagens inseridas. Para mais informações sobre como usar Markdown, leia [este guia](https://www.loomio.org/markdown).
  
 ## Anexando arquivos
  

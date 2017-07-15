@@ -1,6 +1,6 @@
 # Third Party Services
 
-We use the third parties listed on this page to provide a high-level of service and some of Loomio's functionality. Loomio shares data with these services and for convenience this page provides links to third party privacy policies. For more information please see our [Privacy Policy](https://loomio.gitbooks.io/manual/content/en/privacy_policy.html).
+We use the third parties listed on this page to provide a high-level of service and some of Diehard.Fund's functionality. Diehard.Fund shares data with these services and for convenience this page provides links to third party privacy policies. For more information please see our [Privacy Policy](https://loomio.gitbooks.io/manual/content/en/privacy_policy.html).
 
 [Amazon S3](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496)
 
@@ -16,7 +16,7 @@ Caches web content for faster page loads. Cloudflare and the rest of the interne
 
 [Heroku](https://www.heroku.com/policy/privacy)
 
-Hosts the Loomio software. They provide the servers we use to run Loomio.org.
+Hosts the Diehard.Fund software. They provide the servers we use to run Diehard.Fund.org.
 
 [New Relic](http://newrelic.com/privacy)
 

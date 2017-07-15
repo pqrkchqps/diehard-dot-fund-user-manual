@@ -14,7 +14,7 @@ Para cambiar la configuración actual de las notificaciones de tus grupos abre e
 
 * **Actividad importante**: Recibirás correo electrónico sobre nuevos hilos y propuestas (ej. cuando una propuesta es iniciada, a punto de cerrar, o cuando se cree un resultado en la misma).**Actividad Importante** es la configuración por defecto para nuevos grupos. Puedes leer sobre como cambiar esta configuración el la sección **Modificar la configuración de correo para todos los grupos**.
 
-* **No enviar correo**: No recibirás correo electrónico sobre actividad en este grupo, pero veras la nueva actividad en tu página [**No leído**](reading_loomio.html#unread-threads "va a la sección leer loomio de este manual") y en Recientes.
+* **No enviar correo**: No recibirás correo electrónico sobre actividad en este grupo, pero veras la nueva actividad en tu página [**No leído**](reading_diehard_fund.html#unread-threads "va a la sección leer loomio de este manual") y en Recientes.
 
 Para aplicar una configuración particular a todos tus grupos, selecciona la casilla **Aplicar esta configuración para todos mis grupos** antes de enviar el formulario.
 
@@ -40,7 +40,7 @@ Para aplicar una configuración particular a todos tus grupos, selecciona la cas
 
 Hay tres configuraciones adicionales que pueden ser aplicada para todos los grupos.
 
-**Ayer en Loomio**: Seleccionar este ajuste significa que cada mañana recibirás un correo con la actividad que no has leído el día anterior. Este email te provee con una rutina fácil de seguir para estar al día con la actividad en Loomio.
+**Ayer en Diehard.Fund**: Seleccionar este ajuste significa que cada mañana recibirás un correo con la actividad que no has leído el día anterior. Este email te provee con una rutina fácil de seguir para estar al día con la actividad en Diehard.Fund.
 
 **Suscribirte a la participación**: Esta opción significa que cuando participes en un hilo, recibirás toda la información siguiente.
 
@@ -54,4 +54,4 @@ Bajo el subtítulo **Configuración para grupos especifico** en la sección **Aj
 
 ## Responder por correo
 
-Puedes responder a cualquier comentario vía correo electrónico y tu respuesta aparecerá en en hilo de Loomio. También puedes elegir ver el comentario en el contexto del hilo en Loomio haciendo clic en el enlace **Leer en www.Loomio.org** al pie del correo electrónico.
+Puedes responder a cualquier comentario vía correo electrónico y tu respuesta aparecerá en en hilo de Diehard.Fund. También puedes elegir ver el comentario en el contexto del hilo en Diehard.Fund haciendo clic en el enlace **Leer en www.Diehard.Fund.org** al pie del correo electrónico.

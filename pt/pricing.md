@@ -1,6 +1,6 @@
 # Perguntas freqüentes sobre preços
  
-## O nosso grupo não tem dinheiro! Ainda podemos usar o Loomio?
+## O nosso grupo não tem dinheiro! Ainda podemos usar o Diehard.Fund?
  
 Sim. Você pode escolher o plano Presente (veja a nossa página de [Preço](http://loomio.org/pricing) ).
  
@@ -28,4 +28,4 @@ Sim, estamos. Na Nova Zelândia o GST é adicionado ao preço para todas as assi
  
 ## Posso obter boletos?
  
-Quando você configurar uma subscrição você receberá um e-mail da Chargify, nosso processador de pagamentos, com o assunto **[Loomio] Gerenciar Sua Assinatura**. Nele estará incluído um link para efetuar login no seu portal de faturamento, o que permitirá que você baixe faturas.
+Quando você configurar uma subscrição você receberá um e-mail da Chargify, nosso processador de pagamentos, com o assunto **[Diehard.Fund] Gerenciar Sua Assinatura**. Nele estará incluído um link para efetuar login no seu portal de faturamento, o que permitirá que você baixe faturas.

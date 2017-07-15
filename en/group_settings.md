@@ -1,6 +1,6 @@
 # Group settings
 
-<img class="screenshot" alt="Loomio user accessing group settings form via group options dropdown" src="edit_group_settings.gif" />
+<img class="screenshot" alt="Diehard.Fund user accessing group settings form via group options dropdown" src="edit_group_settings.gif" />
 
 Group coordinators can edit group settings: **Profile**, **Privacy** and **Permissions**.
 
@@ -27,7 +27,7 @@ NB: If you have a **Secret** group and change it to **Open**, all threads will b
 
 ## Group permissions – what can members do?
 
-<img class="screenshot" alt="Loomio user customising group permissions on group settings form" src="edit_permissions.gif" />
+<img class="screenshot" alt="Diehard.Fund user customising group permissions on group settings form" src="edit_permissions.gif" />
 
 Coordinators set the group permissions to configure what members can do in their group.
 

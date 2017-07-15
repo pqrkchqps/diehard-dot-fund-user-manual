@@ -2,7 +2,7 @@
 
 <img class="screenshot" alt="animación sobre como iniciar subgrupos" src="agregar-subgrupo.gif" />
 
-Loomio te permite crear subgrupos dentro de tu grupo. Subgrupos te permiten dividir tu grupo en diferentes equipos. Los subgrupos en Loomio pueden contener miembros del grupo principal, como también gente que no pertenece al grupo principal. dependiendo de la [configuración de tu grupo](group_settings.html "va a la sección configuración grupal de este manual"), los subgrupos pueden ser creados por cualquiera en el grupo o por los coordinadores solamente.
+Diehard.Fund te permite crear subgrupos dentro de tu grupo. Subgrupos te permiten dividir tu grupo en diferentes equipos. Los subgrupos en Diehard.Fund pueden contener miembros del grupo principal, como también gente que no pertenece al grupo principal. dependiendo de la [configuración de tu grupo](group_settings.html "va a la sección configuración grupal de este manual"), los subgrupos pueden ser creados por cualquiera en el grupo o por los coordinadores solamente.
 
 Para añadir un subgrupo, selecciona la opción **Agregar un subgrupo** desde el menú de opciones en la página de tu grupo.
 

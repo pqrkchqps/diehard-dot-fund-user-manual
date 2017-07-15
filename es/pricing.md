@@ -2,7 +2,7 @@
 
 # Preguntas frecuentes sobre de los planes de pago
 
-## Nuestro grupo no tiene dinero! ¿Podemos utilizar Loomio de todas formas?
+## Nuestro grupo no tiene dinero! ¿Podemos utilizar Diehard.Fund de todas formas?
 
 Si. Pueden elegir el Plan Gratis (lee nuestra página [Planes de pago](http://loomio.org/pricing "abre en una nueva ventana")
 
@@ -22,7 +22,7 @@ Si. Nuestro plan Estándar cuesta US$190 al año y el plan Plus es US$990 por a�
 
 <img class="screenshot" alt="Integración con Slack" src="slack-integration.png" />
 
-A través de la integración con Slack, cuando haya actividad importante en tu grupo de Loomio (Una nueva discusión o propuesta), aparecerá también en el canal de Slack que tu elijas. Y la gente podrá votar directamente desde Slack seleccionando una de las posiciones. Nota: Esta integración solo esta disponible para suscripciones pagas (Estándar o Pro)  
+A través de la integración con Slack, cuando haya actividad importante en tu grupo de Diehard.Fund (Una nueva discusión o propuesta), aparecerá también en el canal de Slack que tu elijas. Y la gente podrá votar directamente desde Slack seleccionando una de las posiciones. Nota: Esta integración solo esta disponible para suscripciones pagas (Estándar o Pro)  
 
 ## ¿Que tarjeta de crédito aceptan?
 
@@ -34,4 +34,4 @@ En Nueva Zelanda el impuesto de GST es agregado al precio de toda suscripción. 
 
 ## ¿Puedo tener un recibo?
 
-Cuando eliges una suscripción por primera vez recibirás un correo electrónico de Chargify, nuestro procesador de pago, con el título **[Loomio] Administra tu Suscripción***. Este correo incluirá un enlace para iniciar sesión en tu portal de facturación, desde donde podrás descargar el resumen de cuenta.  
+Cuando eliges una suscripción por primera vez recibirás un correo electrónico de Chargify, nuestro procesador de pago, con el título **[Diehard.Fund] Administra tu Suscripción***. Este correo incluirá un enlace para iniciar sesión en tu portal de facturación, desde donde podrás descargar el resumen de cuenta.  

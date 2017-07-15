@@ -15,7 +15,7 @@ Pour modifier vos paramètres de courriel de groupe, affichez le menu déroulant
 
 * **Activité importante**&nbsp;: vous recevrez un courriel au sujet des nouveaux fils et propositions (c‎‎’est-à-dire lorsqu‎‎’une proposition est créée, s‎‎’apprête à fermer ou quand un résultat est créé pour une proposition).
 
-*  **Aucun courriel**&nbsp;: vous ne recevrez aucun courriel portant sur l‎‎’activité dans ce groupe, mais vous pourrez voir les dernières mises à jour sur les pages [**Non lues**]((#reading_loomio.html#unread-threads) et la page **Récent**.
+*  **Aucun courriel**&nbsp;: vous ne recevrez aucun courriel portant sur l‎‎’activité dans ce groupe, mais vous pourrez voir les dernières mises à jour sur les pages [**Non lues**]((#reading_diehard_fund.html#unread-threads) et la page **Récent**.
 
 Pour appliquer les mêmes paramètres à l‎‎’ensemble de vos groupes, cochez la case **Appliquer ces paramètres à tous mes groupes** avant d‎‎’envoyer le formulaire.
 
@@ -32,7 +32,7 @@ Lorsque vous commencez un nouveau fil de discussion, il hérite des paramètres 
 
 Pour que les mêmes paramètres soient définis pour l‎‎’ensemble de vos fils de discussion, cochez la case **Appliquer ces paramètres à tous les fils de discussion dans ce groupe** avant d‎‎’envoyer le formulaire.
 
-If you have muted a thread you won't be notified about proposals, or any other activity taking place in the thread, unless someone @mentions you. You can read more about muting threads under the **Muted** subheading in the **Navigating Loomio** section of the help documentation.
+If you have muted a thread you won't be notified about proposals, or any other activity taking place in the thread, unless someone @mentions you. You can read more about muting threads under the **Muted** subheading in the **Navigating Diehard.Fund** section of the help documentation.
 
 ### Mettre à jour les paramètres de messagerie pour tous les groupes
 
@@ -40,7 +40,7 @@ If you have muted a thread you won't be notified about proposals, or any other a
 
 Il y a trois paramètres de messagerie électronique supplémentaires qui peuvent être appliquées à tous les groupes.
 
-**Messagerie, résumé quotidien**&nbsp;: l‎‎’activation de ce paramètre signifie que tous les matins vous recevrez un courriel résumant toutes les activités que vous avez manquées la veille. Cette messagerie fournit une routine simple pour rester à jour avec les activités Loomio.
+**Messagerie, résumé quotidien**&nbsp;: l‎‎’activation de ce paramètre signifie que tous les matins vous recevrez un courriel résumant toutes les activités que vous avez manquées la veille. Cette messagerie fournit une routine simple pour rester à jour avec les activités Diehard.Fund.
 
 **S‎‎’abonner…**&nbsp;: activer ce réglage signifie que, lorsque vous participez à un fil de discussion, toute nouvelle activité vous sera immédiatement envoyée par courriel.
 
@@ -54,4 +54,4 @@ Sous l‎‎’en-tête **Paramètres d‎‎’un groupe particulier** sur la p
 
 ### Replying by email
 
-You can reply to any comments you receive directly via email and your replies will be posted in the Loomio thread. You can also choose to view the comment in the context of the thread on Loomio by clicking the **view it on www.loomio.org** link in the footer of the email.
+You can reply to any comments you receive directly via email and your replies will be posted in the Diehard.Fund thread. You can also choose to view the comment in the context of the thread on Diehard.Fund by clicking the **view it on www.loomio.org** link in the footer of the email.

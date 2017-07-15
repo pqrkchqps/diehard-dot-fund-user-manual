@@ -1,6 +1,6 @@
 # Votre profil utilisateur
 
-Votre page de profil vous permet de paramétrer votre identité Loomio. pour visiter votre page de profil, sélectionnez **Profil** dans le menu utilisateur dans la barre de navigation.
+Votre page de profil vous permet de paramétrer votre identité Diehard.Fund. pour visiter votre page de profil, sélectionnez **Profil** dans le menu utilisateur dans la barre de navigation.
 
 <img class="gif" alt="Animation de l‎‎’ouveture du menu profil" src="user-profile.gif" />
 
@@ -10,11 +10,11 @@ Vous pouvez mettre à jour le nom, le nom d‎‎’utilisateur, l‎‎’adres
 
 ## Afficher une photo pour votre profil
 
-Quand vous créez un compte Loomio, vos initiales vont être l‎‎’image par défaut associée à votre profil. Vous pouvez mettre en ligne une photo de profil en cliquant sur **Changer l‎‎’image** dans la partie **Image** de votre page de profil. Si vous avez un [Gravatar](https://fr.gravatar.com/), vous pouvez l‎‎’utiliser comme photo de profil en choisissant **Utiliser Gravatar**.
+Quand vous créez un compte Diehard.Fund, vos initiales vont être l‎‎’image par défaut associée à votre profil. Vous pouvez mettre en ligne une photo de profil en cliquant sur **Changer l‎‎’image** dans la partie **Image** de votre page de profil. Si vous avez un [Gravatar](https://fr.gravatar.com/), vous pouvez l‎‎’utiliser comme photo de profil en choisissant **Utiliser Gravatar**.
 
 ## Paramètres de langue
 
-Loomio est accessible dans de nombreuses langues. Il va détecter automatiquement la langue de votre navigateur, mais vous pouvez choisir manuellement votre langue préférée en allant sur votre [page de profil](your_user_profile.html#your-user-profile) et en sélectionnant votre langue depuis le menu déroulant **Langue**.
+Diehard.Fund est accessible dans de nombreuses langues. Il va détecter automatiquement la langue de votre navigateur, mais vous pouvez choisir manuellement votre langue préférée en allant sur votre [page de profil](your_user_profile.html#your-user-profile) et en sélectionnant votre langue depuis le menu déroulant **Langue**.
 
 ## Nom d‎‎’utilisateur
 
@@ -22,7 +22,7 @@ Votre nom d‎‎’utilisateur est le nom que les autres participants vont util
 
 ## Changer votre mot de passe
 
-Si vous êtes connecté à Loomio, vous pouvez changer votre mot de passe en allant sur votre page de profil et en cliquant sur **Changer votre mot de passe**. Si vous êtes déconnecté, vous pouvez aller sur la page [**Mot de passe oublié&nbsp;?**](https://www.loomio.org/users/password/new "ouvre un nouvel onglet").
+Si vous êtes connecté à Diehard.Fund, vous pouvez changer votre mot de passe en allant sur votre page de profil et en cliquant sur **Changer votre mot de passe**. Si vous êtes déconnecté, vous pouvez aller sur la page [**Mot de passe oublié&nbsp;?**](https://www.loomio.org/users/password/new "ouvre un nouvel onglet").
 
 ## Désactiver votre compte
 
@@ -32,7 +32,7 @@ Une fois que votre compte a été désactivé&nbsp;:
 
 * vous ne serez plus listé comme membre d‎‎’un groupe
 * les commentaires, propositions et discussions que vous avez faites resteront, mais votre nom sera supprimé
-* vous ne recevrez plus de courriels concernant Loomio
+* vous ne recevrez plus de courriels concernant Diehard.Fund
 * vous devrez [nous contacter](https://loomio.org/contact "ouvre un nouvel onglet") pour réactiver votre compte.
 
 ## Réactiver un compte

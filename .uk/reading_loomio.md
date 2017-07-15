@@ -1,8 +1,8 @@
-# Reading Loomio
+# Reading Diehard.Fund
 
 ## Recent Threads
 
-**Recent Threads** is the landing page when you sign into Loomio. It gives you an overview of the most recent activity happening in your groups. The **Recent Threads** page displays content from your groups in a prioritised list. Open proposals are at the top, followed by **Starred** threads, then all of the threads from your groups, sorted by most recent activity; **Today**, **Yesterday**,** This month**,** Older than a month**.
+**Recent Threads** is the landing page when you sign into Diehard.Fund. It gives you an overview of the most recent activity happening in your groups. The **Recent Threads** page displays content from your groups in a prioritised list. Open proposals are at the top, followed by **Starred** threads, then all of the threads from your groups, sorted by most recent activity; **Today**, **Yesterday**,** This month**,** Older than a month**.
 
 If a thread or proposal title is **bold** then new activity has taken place there since you last visited. Numbers in parentheses after titles reflect how many new comments or votes have been posted since you last visited. Proposals will show a pie graph, with your position on the proposal superimposed on the graph. If you haven’t yet stated a position, this will show a question mark. 
 

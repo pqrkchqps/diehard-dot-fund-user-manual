@@ -2,7 +2,7 @@
 
 <img class="screenshot" alt="Menu actions" src="action_menu.gif" />
 
-Selon les [paramètres de visibilité de votre groupe](group_settings.html), les nouveaux membres peuvent être invités soit par chaque membre du groupe, ou seulement par les coordinateurs. Vous trouverez l‎‎’option **Inviter des utilisateurs** au niveau de la boîte **Membres** sur la page de votre groupe, ainsi que dans le **Menu Action** qui est accessible de n‎‎’importe où sur l‎‎’application Loomio.
+Selon les [paramètres de visibilité de votre groupe](group_settings.html), les nouveaux membres peuvent être invités soit par chaque membre du groupe, ou seulement par les coordinateurs. Vous trouverez l‎‎’option **Inviter des utilisateurs** au niveau de la boîte **Membres** sur la page de votre groupe, ainsi que dans le **Menu Action** qui est accessible de n‎‎’importe où sur l‎‎’application Diehard.Fund.
 
 Copiez le **lien de partage** et envoyez-le au contact que vous souhaitez ajouter au groupe. Dès qu‎‎’il cliquera sur le lien, il aura un accès immédiat.
 

@@ -18,7 +18,7 @@ Puedes comenzar un nuevo hilo desde cualquier lugar de la app, a través del **M
 
 El formulario **Inicia un nuevo hilo** te pedirá un **Título** y **Contexto**. El **Título** es un resumen del tema que se discutirá. El **Contexto** es donde puedes compartir cualquier información que los miembros de tu grupo necesiten para poder participar de forma significativa en el hilo. Puedes actualizar el **Contexto** en cualquier momento, esto puede ser una forma útil de resumir una discusión compleja.  
 
-Loomio usa **Markdown** para dar formato a los textos. Puedes usar Markdown in the panel del contexto para dar formato a tu texto o añadir imágenes. Para más información sobre como usar Markdown has clic en el enlace **Ayuda de formato** debajo de la casilla del comentario al pie de la página del hilo para abrir [la guía de Markdown](https://loomio.org/markdown "abre la guia markdown en una nueva pestaña").
+Diehard.Fund usa **Markdown** para dar formato a los textos. Puedes usar Markdown in the panel del contexto para dar formato a tu texto o añadir imágenes. Para más información sobre como usar Markdown has clic en el enlace **Ayuda de formato** debajo de la casilla del comentario al pie de la página del hilo para abrir [la guía de Markdown](https://loomio.org/markdown "abre la guia markdown en una nueva pestaña").
 
 ## Privacidad del hilo
 

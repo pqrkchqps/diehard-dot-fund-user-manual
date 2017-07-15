@@ -3,7 +3,7 @@
 
 # Frequently asked questions
 
-## Our group has no money! Can we still use Loomio?
+## Our group has no money! Can we still use Diehard.Fund?
 
 Yes. You can choose the Free plan (see our [Pricing](http://loomio.org/pricing "opens pricing page in new tab") page for details).
 
@@ -13,7 +13,7 @@ Just email [contact@loomio.org](mailto:contact@loomio.org "opens in new tab") an
 
 ## How does the Free plan work?
 
-The Free plan includes all the core functionality of Loomio, with unlimited users. Your members will be occasionally asked for a voluntary donation. Free plans do not include [Premium Features](https://loomio.gitbooks.io/manual/content/en/premium_features.html).
+The Free plan includes all the core functionality of Diehard.Fund, with unlimited users. Your members will be occasionally asked for a voluntary donation. Free plans do not include [Premium Features](https://loomio.gitbooks.io/manual/content/en/premium_features.html).
 
 ## How can we select a paid plan?
 
@@ -33,7 +33,7 @@ Yes we are. In New Zealand GST is added to the price for all paid subscriptions.
 
 ## Can I get an invoice?
 
-When you first set up a subscription you will get an email from Chargify, our payment processor, with the subject line **[Loomio] Manage Your Subscription**. That will include a link to log in to your billing portal, which will let you download statements.
+When you first set up a subscription you will get an email from Chargify, our payment processor, with the subject line **[Diehard.Fund] Manage Your Subscription**. That will include a link to log in to your billing portal, which will let you download statements.
 
 
 

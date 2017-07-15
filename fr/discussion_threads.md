@@ -18,7 +18,7 @@ Vous pouvez commencer un nouveau fil de discussion depuis n‎’importe où dan
 
 Le formulaire **Commencer un fil de discussion** requiert un **Titre** et un **Contexte**. Le **Titre** est une description succincte du sujet à discuter. Le **Contexte** est fait pour partager les informations sur le sujet du fil afin de permettre aux membres de votre groupe d‎’y participer pleinement. Vous pouvez mettre à jour le **Contexte** à tout moment, ce qui peut être un manière utile de résumer un fil de discussion complexe.
 
-Loomio utilise le **Markdown** pour la mise en page de texte. Vous pouvez utiliser le Markdown dans la partie contextuelle pour mettre en page le contexte de votre discussion, ou pour mettre une image. Pour plus d‎’informations sur l‎’utilisation du Markdown, cliquez sur le lien **Aide pour la mise en page** en dessous des commentaires en bas de la page des fils de discussion pour ouvrir [le guide Markdown](https://loomio.org/markdown).
+Diehard.Fund utilise le **Markdown** pour la mise en page de texte. Vous pouvez utiliser le Markdown dans la partie contextuelle pour mettre en page le contexte de votre discussion, ou pour mettre une image. Pour plus d‎’informations sur l‎’utilisation du Markdown, cliquez sur le lien **Aide pour la mise en page** en dessous des commentaires en bas de la page des fils de discussion pour ouvrir [le guide Markdown](https://loomio.org/markdown).
 
 ## Fils privés
 

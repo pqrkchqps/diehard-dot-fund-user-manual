@@ -1,4 +1,4 @@
-![Loomio Logo](logo.png)
+![Diehard.Fund Logo](logo.png)
 
 دليل شامل لاستخدام [لوميو]( https://loomio.org/)
 

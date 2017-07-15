@@ -2,11 +2,11 @@
 
 ## Écrire des commentaires
 
-Afin de contribuer à un fil, inscrivez votre commentaire dans le formulaire de commentaire à la fin du fil et cliquez sur le bouton **Écrire un message**. Si Loomio vous a envoyé un email avec un commentaire, vous pouvez également y répondre directement et votre message apparaîtra dans le fil de discussion.
+Afin de contribuer à un fil, inscrivez votre commentaire dans le formulaire de commentaire à la fin du fil et cliquez sur le bouton **Écrire un message**. Si Diehard.Fund vous a envoyé un email avec un commentaire, vous pouvez également y répondre directement et votre message apparaîtra dans le fil de discussion.
 
 ## Markdown
 
-Loomio utilise le langage **Markdown** pour vous permettre de mettre en forme votre texte ou d‎’y inclure des images. Pour plus d‎’informations sur la façon d‎’utiliser Markdown, allez lire [ce guide](https://www.loomio.org/markdown).
+Diehard.Fund utilise le langage **Markdown** pour vous permettre de mettre en forme votre texte ou d‎’y inclure des images. Pour plus d‎’informations sur la façon d‎’utiliser Markdown, allez lire [ce guide](https://www.loomio.org/markdown).
 
 ## Pièces jointes
 

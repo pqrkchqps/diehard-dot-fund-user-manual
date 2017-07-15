@@ -1,10 +1,10 @@
 # Coordinando tu grupo
 
-Como coordinador de un grupo de Loomio, eres responsable de guiar tu grupo a través del proceso de aprender esta nueva pieza de software, asi también como a aprender nuevos procesos para colaborar efectivamente y poder tomar buenas decisiones juntos. Las tares marcadas debajo solo pueden ser llevadas a cabo por los coordinadores de tu grupo.
+Como coordinador de un grupo de Diehard.Fund, eres responsable de guiar tu grupo a través del proceso de aprender esta nueva pieza de software, asi también como a aprender nuevos procesos para colaborar efectivamente y poder tomar buenas decisiones juntos. Las tares marcadas debajo solo pueden ser llevadas a cabo por los coordinadores de tu grupo.
 
 ## Añadir una foto de portada
 
-Cuando entras por primera vez a tu nuevo grupo de Loomio habrá una imagen de portada seleccionada al azar y un lugar para el logo de tu grupo. Puedes customizar como se ve tu grupo agregando tu propia foto de portada y logo. Puedes subir una nueva foto o logo seleccionando el botón con el icono de una cámara de fotos en el área determinada.
+Cuando entras por primera vez a tu nuevo grupo de Diehard.Fund habrá una imagen de portada seleccionada al azar y un lugar para el logo de tu grupo. Puedes customizar como se ve tu grupo agregando tu propia foto de portada y logo. Puedes subir una nueva foto o logo seleccionando el botón con el icono de una cámara de fotos en el área determinada.
 
 ## Manejar membresías
 
@@ -28,4 +28,4 @@ Si hay un pedido pendiente de membresía también será visible en la página de
 
 ## Desactivar/archivar tu grupo.
 
-Desactivar tu grupo significa que tu y el resto de los miembros de tu grupo yo no tendrán la posibilidad de acceder a tu grupo. Si deseas desactivar tu grupo puedes hacerlo seleccionando **Desactivar grupo** desde el menú de **Opciones** en la página del grupo. Para reactivar un grupo desactivado contacta el equipo de Loomio enviando un correo electrónico a [contact@loomio.org](mailto:contact@loomio.org "abre en una nueva pestaña").
+Desactivar tu grupo significa que tu y el resto de los miembros de tu grupo yo no tendrán la posibilidad de acceder a tu grupo. Si deseas desactivar tu grupo puedes hacerlo seleccionando **Desactivar grupo** desde el menú de **Opciones** en la página del grupo. Para reactivar un grupo desactivado contacta el equipo de Diehard.Fund enviando un correo electrónico a [contact@loomio.org](mailto:contact@loomio.org "abre en una nueva pestaña").

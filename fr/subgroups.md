@@ -2,7 +2,7 @@
 
 <img class="screenshot" alt="Sous-groupes" src="add-subgroup.gif" />
 
-Loomio vous offre la possibilité de créé des sous-groupes, au sein de vos groupes. Les sous-groupes permettent de diviser votre groupe en différentes équipes. Les sous-groupes Loomio peuvent accueillir, ou non, des membres du groupe parent ou non. Selon les paramètres du groupe [paramètres du groupe](group_settings.html), les sous-groupes peuvent être créés soit par n‎‎’importe quel membre du groupe, ou bien seulement par les coordinateurs.
+Diehard.Fund vous offre la possibilité de créé des sous-groupes, au sein de vos groupes. Les sous-groupes permettent de diviser votre groupe en différentes équipes. Les sous-groupes Diehard.Fund peuvent accueillir, ou non, des membres du groupe parent ou non. Selon les paramètres du groupe [paramètres du groupe](group_settings.html), les sous-groupes peuvent être créés soit par n‎‎’importe quel membre du groupe, ou bien seulement par les coordinateurs.
 
 Pour créer un sous-groupe, sélectionner **Ajouter un sous-groupe** dans le menu **Options** de la page de votre groupe.
 
